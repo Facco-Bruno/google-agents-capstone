@@ -14,7 +14,7 @@ from google.antigravity import Agent, LocalAgentConfig
 # Page Config
 st.set_page_config(
     page_title="Aegis Analytics | AI BI Agent Dashboard",
-    page_icon="📊",
+    page_icon="📈",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -92,11 +92,11 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # App Title
-st.markdown("<div class='main-title'>📊 Aegis Analytics</div>", unsafe_allow_html=True)
+st.markdown("<div class='main-title'>Aegis Analytics</div>", unsafe_allow_html=True)
 st.markdown("<div class='subtitle'>Autonomous Business Intelligence Agent & Executive Report Generator</div>", unsafe_allow_html=True)
 
 # Sidebar Configuration
-st.sidebar.markdown("### ⚙️ Agent Configurations")
+st.sidebar.markdown("### Agent Configurations")
 
 # Gemini API Key configuration
 api_key = st.sidebar.text_input(
@@ -107,7 +107,7 @@ api_key = st.sidebar.text_input(
 )
 
 if not api_key:
-    st.sidebar.warning("⚠️ Enter your Gemini API Key to execute the Agent analysis.")
+    st.sidebar.warning("Enter your Gemini API Key to execute the Agent analysis.")
 
 # Helper function to auto-detect columns
 def auto_detect_col(columns, keywords, default_idx=0):
@@ -117,7 +117,7 @@ def auto_detect_col(columns, keywords, default_idx=0):
     return default_idx
 
 # Dataset selection
-st.sidebar.markdown("### 📁 Dataset")
+st.sidebar.markdown("### Dataset")
 uploaded_file = st.sidebar.file_uploader("Upload a CSV file", type=["csv"])
 
 # Define CSV Path & Mapping
@@ -138,7 +138,7 @@ if uploaded_file is not None:
         cols = list(df_raw.columns)
         mapping_needed = True
         
-        st.sidebar.markdown("### 🗺️ Column Mapping")
+        st.sidebar.markdown("### Column Mapping")
         st.sidebar.caption("Map your CSV columns to the required analysis fields:")
         
         # Auto-detect indices
@@ -190,10 +190,10 @@ else:
         subprocess.run([sys.executable, 'src/generate_sample_data.py'])
 
 # Executer Button
-run_button = st.sidebar.button("🚀 Run Data Analysis", use_container_width=True, disabled=not api_key)
+run_button = st.sidebar.button("Run Data Analysis", use_container_width=True, disabled=not api_key)
 
 # App Tabs
-tab_dashboard, tab_agent_insights = st.tabs(["📉 Dashboard & Metrics", "🧠 Agent Report & Insights"])
+tab_dashboard, tab_agent_insights = st.tabs(["Dashboard and Metrics", "Agent Report and Insights"])
 
 # Load data to show dashboard metrics instantly
 if os.path.exists(csv_path):
@@ -243,16 +243,16 @@ if os.path.exists(csv_path):
         charts_ready = all(os.path.exists(path) for path in chart_paths.values())
         
         if charts_ready:
-            st.markdown("### 📉 Statistical Visualizations")
+            st.markdown("### Statistical Visualizations")
             c1, c2 = st.columns(2)
             with c1:
                 st.image(chart_paths["sales_trend"], caption="Sales Trend", use_container_width=True)
-                st.image(chart_paths["region_distribution"], caption="Region Distribution", use_container_width=True)
+                st.image(chart_paths["region_distribution"], caption="Region Distribution", use_column_width=True)
             with c2:
                 st.image(chart_paths["category_sales"], caption="Sales by Category", use_container_width=True)
-                st.image(chart_paths["satisfaction_vs_sales"], caption="Satisfaction vs Sales", use_container_width=True)
+                st.image(chart_paths["satisfaction_vs_sales"], caption="Satisfaction vs Sales", use_column_width=True)
         else:
-            st.info("💡 Click the **Run Data Analysis** button in the sidebar to generate charts and visualizations for the dataset.")
+            st.info("Click the Run Data Analysis button in the sidebar to generate charts and visualizations for the dataset.")
 
 # Async generator for the agent loop
 async def run_agent_pipeline(csv_path, key):
@@ -322,11 +322,11 @@ The final report should be written in Markdown.
 # When button is clicked
 if run_button:
     with tab_agent_insights:
-        st.markdown("### 🧠 Agent Report Generation")
+        st.markdown("### Agent Report Generation")
         
         # Show progress
         status_text = st.empty()
-        status_text.write("⏳ Executing local KPI calculations and generating visualizations...")
+        status_text.write("Executing local KPI calculations and generating visualizations...")
         
         report_placeholder = st.empty()
         
@@ -342,19 +342,19 @@ if run_button:
             while True:
                 try:
                     report_content, usage = loop.run_until_complete(pipeline.__anext__())
-                    status_text.write("🤖 Agent analyzing data and generating insights in real-time...")
+                    status_text.write("Agent analyzing data and generating insights in real-time...")
                     report_placeholder.markdown(report_content)
                     
                     if usage is not None:
                         # Success and finished
-                        status_text.success("✅ Executive BI Report successfully generated!")
+                        status_text.success("Executive BI Report successfully generated!")
                         
                         # Save report content locally
                         tools.save_report_file(report_content, 'outputs/executive_report.md')
                         
                         # Show token usage metrics (Day 4 Observability)
                         st.markdown("---")
-                        st.markdown("#### 📈 Observability Metrics (Token Usage)")
+                        st.markdown("#### Observability Metrics (Token Usage)")
                         col_t1, col_t2, col_t3, col_t4 = st.columns(4)
                         col_t1.metric("Prompt Tokens", f"{usage.prompt_token_count:,}")
                         col_t2.metric("Response Tokens", f"{usage.candidates_token_count:,}")
@@ -366,7 +366,7 @@ if run_button:
                 except StopAsyncIteration:
                     break
                 except Exception as ex:
-                    status_text.error(f"❌ Error during agent execution: {ex}")
+                    status_text.error(f"Error during agent execution: {ex}")
                     break
         finally:
             loop.close()
@@ -376,8 +376,8 @@ else:
     with tab_agent_insights:
         report_path = 'outputs/executive_report.md'
         if os.path.exists(report_path):
-            st.markdown("### 🧠 Previously Saved Executive Report")
+            st.markdown("### Previously Saved Executive Report")
             with open(report_path, 'r', encoding='utf-8') as f:
                 st.markdown(f.read())
         else:
-            st.info("💡 Click the **Run Data Analysis** button in the sidebar to start the intelligence agent and generate the executive report.")
+            st.info("Click the Run Data Analysis button in the sidebar to start the intelligence agent and generate the executive report.")

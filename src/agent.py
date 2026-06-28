@@ -21,33 +21,33 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(me
 # Define hooks for rate limiting (due to 5 requests/minute free tier limit)
 @hooks.pre_tool_call_decide
 async def pre_tool_delay(data: types.ToolCall) -> types.HookResult:
-    print(f"\n⏱️  [Rate Limiter] Pausing 15s before executing tool '{data.name}'...")
+    print(f"\n[Rate Limiter] Pausing 15s before executing tool '{data.name}'...")
     await asyncio.sleep(15)
     return types.HookResult(allow=True)
 
 @hooks.post_tool_call
 async def post_tool_delay(data):
-    print("⏱️  [Rate Limiter] Pausing 15s after tool execution...")
+    print("[Rate Limiter] Pausing 15s after tool execution...")
     await asyncio.sleep(15)
 
 async def run_analysis_agent():
     csv_path = 'data/sales_data.csv'
     report_output_path = 'outputs/executive_report.md'
     
-    print("🚀 Starting Hybrid Data Analysis Pipeline...")
+    print("Starting Hybrid Data Analysis Pipeline...")
     
     # Verify GEMINI_API_KEY
     if not os.getenv("GEMINI_API_KEY"):
-        print("❌ Error: GEMINI_API_KEY not found in environment or .env file.")
+        print("Error: GEMINI_API_KEY not found in environment or .env file.")
         return
 
     # 1. LOCAL STAGE (Pure Python): Data Exploration and Statistical Analysis
-    print("\n📊 1. Running local statistical analyses...")
+    print("\n1. Running local statistical analyses...")
     summary = tools.get_dataset_summary(csv_path)
     analysis = tools.run_business_analysis(csv_path)
     
     # 2. LOCAL STAGE (Pure Python): Headless Visualization Generation
-    print("\n📈 2. Generating statistical charts locally (Headless)...")
+    print("\n2. Generating statistical charts locally (Headless)...")
     charts = [
         ('sales_trend', 'sales_trend.png'),
         ('category_sales', 'category_sales.png'),
@@ -59,7 +59,7 @@ async def run_analysis_agent():
         print(f"   - {result}")
 
     # 3. AGENT STAGE (Google Antigravity SDK): Interpretation and Executive Report Generation
-    print("\n🧠 3. Initializing Google Antigravity SDK Agent for Insights generation...")
+    print("\n3. Initializing Google Antigravity SDK Agent for Insights generation...")
     
     # Single-turn agent config to avoid daily quota limitations
     config = LocalAgentConfig(
@@ -108,20 +108,20 @@ The final report should be written in Markdown.
         print("\n-------------------------------------")
         
         # 4. Save the final report locally
-        print(f"\n💾 4. Saving final executive report...")
+        print(f"\n4. Saving final executive report...")
         save_result = tools.save_report_file(report_content, report_output_path)
         print(f"   - {save_result}")
         
         # Log token usage for observability (Day 4 concept)
         try:
             usage = agent.conversation.total_usage
-            print("\n📈 [Observability] Token Usage Metrics:")
+            print("\n[Observability] Token Usage Metrics:")
             print(f"- Prompt Tokens: {usage.prompt_token_count}")
             print(f"- Response Tokens (Candidates): {usage.candidates_token_count}")
             print(f"- Reasoning Tokens (Thoughts): {usage.thoughts_token_count}")
             print(f"- Total Tokens: {usage.total_token_count}")
         except Exception as e:
-            print(f"\n⚠️  Could not retrieve token usage: {e}")
+            print(f"\nCould not retrieve token usage: {e}")
 
 if __name__ == '__main__':
     asyncio.run(run_analysis_agent())

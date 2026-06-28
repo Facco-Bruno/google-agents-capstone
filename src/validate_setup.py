@@ -5,13 +5,13 @@ import sys
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 def validate():
-    print("📋 Aegis Analytics - Environment Validation Script")
+    print("Aegis Analytics - Environment Validation Script")
     print("=" * 50)
     
     passed_all = True
     
     # 1. Check Gemini API Key
-    print("\n🔑 1. Checking API Key Configuration...")
+    print("\n1. Checking API Key Configuration...")
     from dotenv import load_dotenv
     load_dotenv()
     api_key = os.getenv("GEMINI_API_KEY")
@@ -24,7 +24,7 @@ def validate():
         passed_all = False
         
     # 2. Check Python Packages
-    print("\n📦 2. Checking Python dependencies...")
+    print("\n2. Checking Python dependencies...")
     packages = {
         "google.antigravity": "Google Antigravity SDK",
         "pandas": "Pandas Data Ingestion",
@@ -43,7 +43,7 @@ def validate():
             passed_all = False
             
     # 3. Check Dataset
-    print("\n📁 3. Checking Sales Dataset...")
+    print("\n3. Checking Sales Dataset...")
     csv_path = 'data/sales_data.csv'
     if os.path.exists(csv_path):
         try:
@@ -77,7 +77,7 @@ def validate():
             passed_all = False
             
     # 4. Check Matplotlib Headless Rendering
-    print("\n🎨 4. Testing local chart generation...")
+    print("\n4. Testing local chart generation...")
     try:
         import tools
         # Try plotting sales_trend locally
@@ -98,9 +98,9 @@ def validate():
     # Summary
     print("\n" + "=" * 50)
     if passed_all:
-        print("🎉 [SUCCESS] All local validation checks passed! Ready for execution.")
+        print("[SUCCESS] All local validation checks passed! Ready for execution.")
     else:
-        print("⚠️  [NOTICE] Some verification items need attention. Please verify the warnings/errors above.")
+        print("[NOTICE] Some verification items need attention. Please verify the warnings/errors above.")
 
 if __name__ == '__main__':
     validate()

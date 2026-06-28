@@ -1,24 +1,30 @@
-# Aegis Analytics: Autonomous BI & Executive Report Generator
+# Aegis Analytics: Autonomous Business Intelligence and Executive Report Generator
 
-This is the capstone project for the **AI Agents: Intensive Vibe Coding Course with Google** in partnership with **Kaggle**.
+This repository contains the capstone project for the AI Agents Intensive Course, developed in partnership with Google and Kaggle.
 
-## 🚀 Project Overview
+---
 
-**Aegis Analytics** is an autonomous agent built using the **Google Antigravity SDK** designed to take raw business datasets (such as sales, finance, HR, or marketing CSV files), perform automated data cleaning, execute exploratory and statistical analysis, generate professional charts, and export high-quality structured executive reports with actionable business insights.
+## 1. Project Overview
+Aegis Analytics is an autonomous agent built using the Google Antigravity SDK. It is designed to ingest raw business datasets (CSV format), execute automated data cleaning and profiling, perform statistical analysis, render high-resolution charts, and compile comprehensive executive summaries containing strategic business insights.
 
-## 🛠️ Technologies Used
+---
 
-- **Google Antigravity SDK** (Agent and Subagent Orchestration)
-- **Google Gemini 3.5 Flash** (Default Language Model)
-- **Pandas & Numpy** (Data processing and analysis)
-- **Matplotlib & Seaborn** (Data visualization)
-- **Model Context Protocol (MCP)** (Tool connectivity)
+## 2. Core Technologies
+- **Google Antigravity SDK:** Model session management and agent lifecycle orchestration.
+- **Google Gemini 3.5 Flash:** Default language model for cognitive synthesis.
+- **Pandas and Numpy:** Tabular data processing and statistical computations.
+- **Matplotlib and Seaborn:** Data visualization and headless chart plotting.
+- **Model Context Protocol (MCP):** Dynamic tool integration framework.
 
-## 📁 Repository Structure
+---
 
-- `data/`: Input business datasets (e.g., CSVs).
-- `outputs/`: Generated reports and charts in image format.
+## 3. Directory Structure
+- `data/`: Ingestion directory for raw and mapped CSV datasets.
+- `outputs/`: Output directory containing PNG visualizations and the final markdown report.
 - `src/`:
-  - `tools.py`: Python tools (data cleaning, plotting).
-  - `agent.py`: Agent and subagent orchestration using the SDK.
-- `main.py`: Entry point to execute the analysis end-to-end.
+  - `tools.py`: Local Python tools for data profiling and chart generation.
+  - `agent.py`: Agent configuration, prompt engineering, and SDK runtime logic.
+  - `validate_setup.py`: Environment validation script.
+  - `generate_sample_data.py`: Script for generating synthetic transaction records.
+- `main.py`: Entry point for executing the CLI pipeline.
+- `app.py`: Streamlit-based web dashboard with dynamic column mapping.
