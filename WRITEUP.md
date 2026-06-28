@@ -122,4 +122,4 @@ To start the web interface:
 ```bash
 streamlit run app.py
 ```
-Access the local interface at the URL output in your terminal (typically http://localhost:8501).
+Access the local interface at the URL output in your terminal.
