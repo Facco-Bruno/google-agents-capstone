@@ -1,0 +1,3442 @@
+Date,Category,Product,Region,Units,Price,Sales,Satisfaction
+2025-01-01,Beauty,Lipstick,East,2,15.7,31.4,4.0
+2025-01-01,Home,Blender,West,1,48.34,48.34,4.0
+2025-01-01,Home,Vacuum,North,3,196.92,590.76,3.7
+2025-01-01,Sports,Dumbbell,West,1,40.89,40.89,3.8
+2025-01-01,Electronics,Laptop,East,1,1022.37,1022.37,3.5
+2025-01-01,Home,Sofa,East,1,657.99,657.99,3.1
+2025-01-01,Sports,Running Shoes,East,1,84.07,84.07,3.7
+2025-01-01,Sports,Yoga Mat,West,2,28.45,56.9,5.0
+2025-01-01,Beauty,Lipstick,West,4,13.6,54.4,4.9
+2025-01-01,Clothing,Jeans,South,2,56.5,113.0,3.2
+2025-01-01,Sports,Running Shoes,South,4,94.95,379.8,4.4
+2025-01-02,Beauty,Lipstick,South,1,14.48,14.48,4.9
+2025-01-02,Clothing,Jacket,North,4,122.08,488.32,3.0
+2025-01-02,Sports,Running Shoes,North,5,82.34,411.7,4.8
+2025-01-02,Electronics,Smartwatch,West,3,225.28,675.84,5.0
+2025-01-02,Electronics,Headphones,North,2,162.79,325.58,4.9
+2025-01-02,Beauty,Face Cream,North,1,35.86,35.86,4.1
+2025-01-02,Sports,Running Shoes,West,3,92.48,277.44,3.9
+2025-01-02,Electronics,Headphones,North,3,164.15,492.45,3.5
+2025-01-02,Home,Coffee Maker,East,1,88.7,88.7,4.8
+2025-01-02,Sports,Running Shoes,East,1,97.12,97.12,5.0
+2025-01-02,Sports,Running Shoes,East,3,88.39,265.17,4.7
+2025-01-02,Beauty,Lipstick,West,2,15.3,30.6,4.4
+2025-01-03,Sports,Yoga Mat,West,1,31.82,31.82,4.9
+2025-01-03,Home,Sofa,South,1,554.65,554.65,4.0
+2025-01-03,Home,Vacuum,North,3,191.45,574.35,4.6
+2025-01-03,Home,Coffee Maker,South,1,85.0,85.0,4.6
+2025-01-03,Electronics,Smartwatch,North,1,228.24,228.24,4.1
+2025-01-03,Beauty,Perfume,East,1,79.96,79.96,4.2
+2025-01-03,Sports,Bicycle,North,2,462.09,924.18,5.0
+2025-01-03,Sports,Bicycle,South,1,493.71,493.71,5.0
+2025-01-03,Home,Coffee Maker,East,1,95.46,95.46,4.8
+2025-01-03,Clothing,Jeans,South,1,60.43,60.43,3.8
+2025-01-03,Sports,Running Shoes,West,1,86.87,86.87,4.9
+2025-01-03,Clothing,Jacket,East,2,113.44,226.88,4.6
+2025-01-03,Clothing,Sneakers,North,2,82.81,165.62,3.5
+2025-01-04,Clothing,Jacket,East,3,123.84,371.52,5.0
+2025-01-04,Clothing,T-Shirt,West,2,27.33,54.66,5.0
+2025-01-04,Home,Blender,North,2,47.79,95.58,4.3
+2025-01-04,Electronics,Smartwatch,West,1,229.21,229.21,4.3
+2025-01-04,Beauty,Perfume,East,4,77.96,311.84,4.1
+2025-01-04,Home,Sofa,North,2,566.91,1133.82,2.7
+2025-01-05,Sports,Bicycle,West,2,437.98,875.96,3.4
+2025-01-05,Beauty,Face Cream,East,1,35.95,35.95,5.0
+2025-01-05,Sports,Running Shoes,South,1,97.31,97.31,5.0
+2025-01-05,Electronics,Laptop,West,1,1044.49,1044.49,3.1
+2025-01-05,Home,Sofa,North,5,545.23,2726.15,2.8
+2025-01-06,Home,Sofa,North,1,654.37,654.37,4.0
+2025-01-06,Sports,Running Shoes,East,1,98.65,98.65,3.4
+2025-01-06,Electronics,Smartwatch,East,2,233.47,466.94,3.7
+2025-01-06,Clothing,Jacket,West,1,109.69,109.69,3.3
+2025-01-06,Home,Vacuum,South,3,173.61,520.83,5.0
+2025-01-06,Electronics,Headphones,South,1,145.78,145.78,4.6
+2025-01-06,Electronics,Smartwatch,North,1,229.08,229.08,4.6
+2025-01-06,Beauty,Lipstick,West,2,15.45,30.9,4.4
+2025-01-06,Beauty,Perfume,South,2,79.02,158.04,4.3
+2025-01-06,Home,Coffee Maker,South,1,90.77,90.77,3.9
+2025-01-07,Clothing,Jeans,East,1,58.32,58.32,4.3
+2025-01-07,Electronics,Smartwatch,North,4,238.58,954.32,5.0
+2025-01-07,Beauty,Perfume,East,1,83.19,83.19,4.1
+2025-01-07,Sports,Yoga Mat,West,1,31.29,31.29,3.2
+2025-01-07,Clothing,Jacket,South,4,108.61,434.44,2.6
+2025-01-07,Electronics,Smartwatch,North,4,227.91,911.64,3.0
+2025-01-07,Electronics,Smartwatch,North,4,239.0,956.0,3.9
+2025-01-07,Sports,Yoga Mat,North,1,29.52,29.52,5.0
+2025-01-08,Sports,Yoga Mat,West,1,27.28,27.28,3.6
+2025-01-08,Beauty,Lipstick,West,3,13.55,40.65,3.8
+2025-01-08,Sports,Running Shoes,South,2,92.09,184.18,5.0
+2025-01-08,Clothing,Sneakers,East,4,72.24,288.96,5.0
+2025-01-08,Sports,Bicycle,West,2,411.35,822.7,4.3
+2025-01-08,Electronics,Smartwatch,West,3,256.82,770.46,4.8
+2025-01-08,Electronics,Laptop,North,4,1009.12,4036.48,5.0
+2025-01-08,Home,Coffee Maker,North,1,92.73,92.73,3.5
+2025-01-08,Clothing,T-Shirt,East,1,25.59,25.59,3.6
+2025-01-08,Clothing,Sneakers,North,1,85.52,85.52,3.7
+2025-01-08,Beauty,Perfume,North,4,77.57,310.28,4.9
+2025-01-08,Beauty,Lipstick,North,2,16.4,32.8,5.0
+2025-01-08,Home,Coffee Maker,East,1,88.43,88.43,2.7
+2025-01-09,Sports,Bicycle,North,2,466.19,932.38,3.7
+2025-01-09,Electronics,Smartphone,West,1,745.7,745.7,3.1
+2025-01-09,Home,Blender,North,4,45.53,182.12,3.9
+2025-01-09,Beauty,Perfume,East,2,87.21,174.42,5.0
+2025-01-09,Sports,Dumbbell,East,2,40.82,81.64,3.9
+2025-01-09,Sports,Yoga Mat,South,2,27.35,54.7,4.4
+2025-01-09,Sports,Running Shoes,East,2,90.83,181.66,4.3
+2025-01-09,Sports,Bicycle,South,3,440.7,1322.1,4.3
+2025-01-09,Clothing,T-Shirt,North,5,22.92,114.6,3.0
+2025-01-09,Beauty,Lipstick,East,2,16.22,32.44,3.1
+2025-01-09,Beauty,Perfume,West,3,73.34,220.02,2.6
+2025-01-10,Home,Blender,South,1,49.93,49.93,5.0
+2025-01-10,Beauty,Perfume,South,3,83.86,251.58,4.6
+2025-01-10,Home,Coffee Maker,West,1,98.32,98.32,4.8
+2025-01-10,Electronics,Laptop,West,1,1005.67,1005.67,2.7
+2025-01-10,Sports,Running Shoes,West,2,82.33,164.66,4.7
+2025-01-10,Beauty,Lipstick,South,1,14.0,14.0,3.5
+2025-01-10,Electronics,Headphones,West,1,163.76,163.76,5.0
+2025-01-10,Beauty,Mascara,West,1,19.34,19.34,3.2
+2025-01-10,Beauty,Perfume,West,5,73.24,366.2,5.0
+2025-01-10,Home,Vacuum,East,1,181.3,181.3,4.7
+2025-01-10,Sports,Dumbbell,South,4,36.61,146.44,5.0
+2025-01-10,Home,Sofa,North,1,613.61,613.61,5.0
+2025-01-10,Electronics,Headphones,North,1,157.49,157.49,3.8
+2025-01-10,Home,Blender,North,1,53.38,53.38,2.9
+2025-01-11,Beauty,Lipstick,North,5,16.5,82.5,3.7
+2025-01-11,Sports,Running Shoes,North,3,94.07,282.21,3.1
+2025-01-11,Electronics,Smartphone,North,2,763.57,1527.14,3.7
+2025-01-11,Electronics,Laptop,West,1,1023.63,1023.63,4.5
+2025-01-11,Clothing,Jeans,South,1,63.98,63.98,3.6
+2025-01-11,Electronics,Smartphone,West,3,708.53,2125.59,3.4
+2025-01-11,Sports,Dumbbell,South,1,41.63,41.63,4.0
+2025-01-11,Beauty,Perfume,South,2,81.73,163.46,3.5
+2025-01-11,Clothing,Sneakers,North,3,80.22,240.66,4.3
+2025-01-11,Beauty,Perfume,East,2,80.38,160.76,4.0
+2025-01-11,Electronics,Smartphone,North,1,666.15,666.15,5.0
+2025-01-12,Sports,Yoga Mat,North,2,28.25,56.5,4.6
+2025-01-12,Home,Vacuum,West,1,185.07,185.07,2.5
+2025-01-12,Electronics,Headphones,West,2,149.22,298.44,3.8
+2025-01-12,Home,Coffee Maker,North,1,87.21,87.21,3.8
+2025-01-12,Sports,Yoga Mat,North,1,30.21,30.21,3.2
+2025-01-12,Clothing,T-Shirt,East,1,25.64,25.64,3.3
+2025-01-13,Clothing,Sneakers,North,2,73.35,146.7,4.2
+2025-01-13,Clothing,Sneakers,East,2,80.5,161.0,4.5
+2025-01-13,Clothing,Jeans,East,2,57.03,114.06,4.2
+2025-01-13,Beauty,Lipstick,South,2,14.84,29.68,5.0
+2025-01-13,Electronics,Headphones,North,2,140.47,280.94,3.0
+2025-01-14,Electronics,Smartwatch,South,1,264.46,264.46,4.4
+2025-01-14,Beauty,Face Cream,South,2,35.61,71.22,3.4
+2025-01-14,Electronics,Laptop,South,2,1079.93,2159.86,4.0
+2025-01-14,Home,Sofa,East,2,658.38,1316.76,3.9
+2025-01-14,Beauty,Perfume,East,3,73.41,220.23,4.0
+2025-01-14,Electronics,Headphones,East,1,150.74,150.74,4.5
+2025-01-14,Beauty,Face Cream,South,1,38.33,38.33,4.1
+2025-01-14,Home,Vacuum,North,2,187.86,375.72,5.0
+2025-01-15,Clothing,Jeans,West,2,59.11,118.22,4.1
+2025-01-15,Electronics,Smartwatch,East,3,260.36,781.08,4.2
+2025-01-15,Beauty,Lipstick,East,1,15.28,15.28,3.5
+2025-01-15,Clothing,T-Shirt,East,1,25.24,25.24,3.7
+2025-01-15,Sports,Dumbbell,North,1,36.93,36.93,4.4
+2025-01-15,Home,Vacuum,East,3,195.46,586.38,4.3
+2025-01-15,Beauty,Face Cream,East,2,37.99,75.98,4.3
+2025-01-15,Beauty,Mascara,North,3,18.56,55.68,3.8
+2025-01-15,Sports,Dumbbell,North,2,37.89,75.78,3.9
+2025-01-16,Electronics,Laptop,South,3,978.49,2935.47,2.6
+2025-01-16,Home,Coffee Maker,South,1,90.72,90.72,3.4
+2025-01-16,Electronics,Laptop,North,1,1079.91,1079.91,4.9
+2025-01-16,Home,Blender,East,1,49.32,49.32,4.3
+2025-01-16,Home,Sofa,South,3,556.71,1670.13,4.7
+2025-01-16,Home,Sofa,North,1,558.2,558.2,5.0
+2025-01-16,Sports,Running Shoes,East,1,83.58,83.58,4.2
+2025-01-16,Clothing,T-Shirt,South,1,26.61,26.61,5.0
+2025-01-17,Sports,Bicycle,West,3,440.76,1322.28,3.9
+2025-01-17,Beauty,Lipstick,South,2,13.54,27.08,3.8
+2025-01-17,Beauty,Mascara,South,1,19.01,19.01,2.8
+2025-01-17,Clothing,Jeans,East,2,55.84,111.68,5.0
+2025-01-17,Clothing,T-Shirt,North,3,22.59,67.77,4.3
+2025-01-17,Beauty,Lipstick,West,2,13.57,27.14,4.8
+2025-01-17,Electronics,Smartwatch,East,1,255.34,255.34,4.3
+2025-01-17,Home,Blender,North,5,46.13,230.65,4.3
+2025-01-18,Electronics,Laptop,East,1,962.29,962.29,2.9
+2025-01-18,Sports,Dumbbell,South,1,42.42,42.42,5.0
+2025-01-18,Electronics,Headphones,East,3,147.44,442.32,4.1
+2025-01-18,Home,Vacuum,East,1,178.28,178.28,4.8
+2025-01-18,Beauty,Face Cream,East,2,33.24,66.48,5.0
+2025-01-18,Home,Vacuum,South,2,162.47,324.94,3.6
+2025-01-18,Electronics,Smartwatch,North,1,232.43,232.43,5.0
+2025-01-18,Sports,Yoga Mat,East,3,29.56,88.68,4.2
+2025-01-19,Sports,Dumbbell,South,2,42.69,85.38,5.0
+2025-01-19,Clothing,Jeans,South,1,59.29,59.29,3.4
+2025-01-19,Home,Blender,West,3,46.82,140.46,4.1
+2025-01-19,Clothing,Jacket,South,3,120.64,361.92,4.6
+2025-01-19,Beauty,Mascara,South,1,21.47,21.47,2.9
+2025-01-20,Home,Blender,North,1,50.95,50.95,4.5
+2025-01-20,Sports,Running Shoes,East,1,92.75,92.75,4.0
+2025-01-20,Home,Sofa,West,1,653.33,653.33,3.9
+2025-01-20,Clothing,Jacket,South,1,110.05,110.05,2.9
+2025-01-20,Clothing,T-Shirt,East,1,25.62,25.62,5.0
+2025-01-20,Clothing,Jacket,East,3,108.82,326.46,5.0
+2025-01-20,Electronics,Smartphone,North,4,671.23,2684.92,3.7
+2025-01-20,Beauty,Mascara,North,1,21.47,21.47,4.3
+2025-01-20,Electronics,Smartphone,East,2,701.74,1403.48,4.3
+2025-01-20,Clothing,T-Shirt,North,1,23.79,23.79,3.2
+2025-01-20,Sports,Running Shoes,South,1,97.46,97.46,4.3
+2025-01-21,Electronics,Smartphone,South,2,707.58,1415.16,3.8
+2025-01-21,Clothing,Jeans,North,1,57.16,57.16,4.6
+2025-01-21,Home,Sofa,South,2,612.06,1224.12,2.7
+2025-01-21,Clothing,Jeans,West,4,58.25,233.0,3.2
+2025-01-21,Electronics,Headphones,North,1,153.09,153.09,3.0
+2025-01-21,Beauty,Lipstick,East,2,14.39,28.78,3.6
+2025-01-21,Clothing,Jacket,East,1,130.9,130.9,2.8
+2025-01-21,Beauty,Face Cream,East,3,37.39,112.17,4.1
+2025-01-22,Electronics,Smartphone,South,1,644.92,644.92,4.2
+2025-01-22,Home,Sofa,South,1,595.16,595.16,5.0
+2025-01-22,Clothing,T-Shirt,West,1,25.97,25.97,2.8
+2025-01-22,Beauty,Face Cream,East,3,38.23,114.69,5.0
+2025-01-22,Electronics,Headphones,North,2,140.55,281.1,4.5
+2025-01-22,Sports,Dumbbell,East,2,41.79,83.58,4.7
+2025-01-23,Electronics,Smartphone,North,2,720.53,1441.06,4.3
+2025-01-23,Clothing,Sneakers,East,2,87.99,175.98,3.9
+2025-01-23,Clothing,Jacket,South,2,110.89,221.78,4.0
+2025-01-23,Home,Blender,North,3,49.74,149.22,4.1
+2025-01-23,Home,Vacuum,East,1,191.84,191.84,3.1
+2025-01-23,Beauty,Lipstick,South,2,16.15,32.3,4.6
+2025-01-23,Clothing,Jacket,East,1,109.57,109.57,5.0
+2025-01-23,Electronics,Laptop,South,1,1004.03,1004.03,4.4
+2025-01-23,Beauty,Perfume,South,3,72.39,217.17,4.8
+2025-01-23,Home,Blender,East,1,45.09,45.09,4.2
+2025-01-23,Electronics,Laptop,South,2,995.98,1991.96,3.8
+2025-01-23,Beauty,Lipstick,North,1,14.22,14.22,5.0
+2025-01-24,Clothing,Sneakers,South,1,75.74,75.74,2.7
+2025-01-24,Beauty,Mascara,East,3,21.8,65.4,3.2
+2025-01-24,Home,Sofa,South,3,657.88,1973.64,4.9
+2025-01-24,Clothing,T-Shirt,East,1,27.46,27.46,4.4
+2025-01-24,Beauty,Lipstick,East,3,14.19,42.57,3.9
+2025-01-24,Clothing,Jacket,West,1,116.4,116.4,4.1
+2025-01-24,Electronics,Laptop,East,2,1019.45,2038.9,4.3
+2025-01-24,Clothing,Jeans,North,3,55.85,167.55,2.8
+2025-01-24,Sports,Bicycle,North,2,453.33,906.66,3.5
+2025-01-24,Electronics,Smartwatch,East,1,238.65,238.65,4.3
+2025-01-24,Home,Coffee Maker,South,3,96.52,289.56,4.7
+2025-01-24,Home,Vacuum,West,1,171.1,171.1,5.0
+2025-01-25,Clothing,Jeans,South,1,65.55,65.55,4.9
+2025-01-25,Home,Sofa,West,2,621.36,1242.72,4.2
+2025-01-25,Sports,Dumbbell,South,3,40.17,120.51,3.7
+2025-01-25,Electronics,Laptop,East,4,947.74,3790.96,3.8
+2025-01-25,Beauty,Face Cream,East,1,36.77,36.77,3.9
+2025-01-25,Clothing,Sneakers,South,2,85.31,170.62,3.5
+2025-01-25,Clothing,Sneakers,North,5,81.87,409.35,3.1
+2025-01-25,Beauty,Mascara,West,1,21.27,21.27,4.8
+2025-01-25,Home,Vacuum,East,4,181.49,725.96,5.0
+2025-01-26,Sports,Yoga Mat,West,3,28.04,84.12,3.0
+2025-01-26,Beauty,Face Cream,West,1,36.46,36.46,2.8
+2025-01-26,Clothing,Sneakers,East,5,85.64,428.2,5.0
+2025-01-26,Sports,Bicycle,West,2,463.28,926.56,3.7
+2025-01-26,Electronics,Smartphone,East,3,698.41,2095.23,4.1
+2025-01-26,Clothing,Jacket,South,1,111.81,111.81,4.3
+2025-01-26,Sports,Dumbbell,East,1,37.77,37.77,5.0
+2025-01-26,Beauty,Perfume,East,4,76.37,305.48,4.0
+2025-01-26,Sports,Running Shoes,West,4,96.43,385.72,3.3
+2025-01-27,Electronics,Laptop,East,1,962.39,962.39,5.0
+2025-01-27,Home,Sofa,North,1,618.2,618.2,4.9
+2025-01-27,Beauty,Mascara,East,1,21.87,21.87,4.5
+2025-01-27,Home,Vacuum,South,2,189.4,378.8,4.6
+2025-01-27,Beauty,Lipstick,West,2,16.26,32.52,4.1
+2025-01-27,Electronics,Smartphone,West,2,664.66,1329.32,5.0
+2025-01-27,Electronics,Smartwatch,East,1,257.58,257.58,3.0
+2025-01-28,Sports,Yoga Mat,South,1,29.35,29.35,5.0
+2025-01-28,Home,Coffee Maker,North,3,96.48,289.44,4.2
+2025-01-28,Electronics,Laptop,West,1,1097.33,1097.33,3.7
+2025-01-28,Beauty,Mascara,North,1,20.24,20.24,4.4
+2025-01-28,Electronics,Laptop,North,3,916.5,2749.5,2.6
+2025-01-29,Clothing,Jeans,East,2,56.41,112.82,4.5
+2025-01-29,Sports,Running Shoes,East,4,81.57,326.28,4.3
+2025-01-29,Electronics,Smartphone,West,2,751.94,1503.88,3.7
+2025-01-29,Home,Blender,East,2,51.61,103.22,5.0
+2025-01-29,Clothing,Jeans,South,1,59.77,59.77,4.0
+2025-01-29,Clothing,Jeans,West,1,56.97,56.97,3.2
+2025-01-29,Sports,Running Shoes,South,1,86.92,86.92,4.7
+2025-01-29,Sports,Running Shoes,West,2,89.97,179.94,4.5
+2025-01-29,Clothing,Jacket,South,2,115.98,231.96,3.5
+2025-01-29,Home,Blender,North,1,45.72,45.72,4.2
+2025-01-29,Electronics,Headphones,West,4,140.23,560.92,5.0
+2025-01-29,Sports,Bicycle,West,5,438.39,2191.95,4.0
+2025-01-29,Clothing,T-Shirt,East,1,25.39,25.39,4.1
+2025-01-29,Clothing,Jacket,South,2,127.03,254.06,5.0
+2025-01-30,Home,Vacuum,South,1,174.93,174.93,5.0
+2025-01-30,Electronics,Headphones,South,4,156.47,625.88,4.1
+2025-01-30,Clothing,Sneakers,South,1,87.54,87.54,4.2
+2025-01-30,Beauty,Lipstick,East,2,15.28,30.56,5.0
+2025-01-30,Beauty,Perfume,East,1,74.62,74.62,3.2
+2025-01-30,Beauty,Mascara,West,1,21.88,21.88,5.0
+2025-01-30,Home,Vacuum,East,1,177.91,177.91,5.0
+2025-01-31,Electronics,Laptop,West,4,1017.58,4070.32,3.7
+2025-01-31,Electronics,Smartwatch,South,1,233.38,233.38,4.9
+2025-01-31,Sports,Dumbbell,North,1,41.64,41.64,5.0
+2025-01-31,Beauty,Face Cream,North,5,31.74,158.7,3.9
+2025-01-31,Clothing,T-Shirt,North,1,23.11,23.11,3.8
+2025-01-31,Sports,Running Shoes,North,2,82.86,165.72,3.5
+2025-01-31,Clothing,Sneakers,East,4,72.08,288.32,5.0
+2025-01-31,Clothing,T-Shirt,North,1,25.4,25.4,2.5
+2025-01-31,Beauty,Face Cream,West,1,32.43,32.43,4.4
+2025-01-31,Clothing,Jeans,West,4,62.08,248.32,4.4
+2025-01-31,Sports,Running Shoes,South,2,85.6,171.2,3.7
+2025-01-31,Clothing,Jacket,South,1,108.42,108.42,4.3
+2025-01-31,Electronics,Smartwatch,East,2,271.55,543.1,4.3
+2025-02-01,Electronics,Headphones,East,1,154.77,154.77,3.6
+2025-02-01,Beauty,Perfume,South,1,81.68,81.68,4.4
+2025-02-01,Electronics,Laptop,North,3,1074.15,3222.45,5.0
+2025-02-01,Beauty,Perfume,North,4,84.24,336.96,4.6
+2025-02-01,Home,Vacuum,South,3,189.44,568.32,5.0
+2025-02-02,Electronics,Laptop,East,2,1026.04,2052.08,4.0
+2025-02-02,Sports,Running Shoes,West,2,90.87,181.74,2.5
+2025-02-02,Clothing,Jacket,East,2,112.04,224.08,5.0
+2025-02-02,Clothing,Jeans,North,3,58.56,175.68,2.2
+2025-02-02,Sports,Dumbbell,South,1,36.87,36.87,5.0
+2025-02-02,Sports,Running Shoes,West,1,89.58,89.58,5.0
+2025-02-02,Beauty,Face Cream,East,1,31.63,31.63,4.5
+2025-02-02,Sports,Bicycle,East,4,426.91,1707.64,3.6
+2025-02-02,Sports,Bicycle,West,2,452.08,904.16,4.0
+2025-02-02,Sports,Running Shoes,West,1,90.7,90.7,5.0
+2025-02-02,Electronics,Laptop,West,2,1064.63,2129.26,4.8
+2025-02-02,Beauty,Perfume,East,2,80.4,160.8,4.3
+2025-02-03,Beauty,Mascara,West,3,18.35,55.05,3.5
+2025-02-03,Beauty,Mascara,North,4,20.53,82.12,5.0
+2025-02-03,Beauty,Lipstick,South,2,14.14,28.28,4.5
+2025-02-03,Clothing,T-Shirt,North,3,27.03,81.09,2.9
+2025-02-03,Beauty,Perfume,West,1,85.16,85.16,4.5
+2025-02-03,Clothing,T-Shirt,South,1,26.33,26.33,3.3
+2025-02-03,Electronics,Headphones,West,1,160.88,160.88,4.0
+2025-02-03,Electronics,Smartphone,West,1,673.72,673.72,4.6
+2025-02-03,Electronics,Smartphone,North,1,713.23,713.23,3.2
+2025-02-03,Clothing,Sneakers,East,2,81.55,163.1,2.7
+2025-02-03,Electronics,Laptop,East,1,1098.25,1098.25,2.6
+2025-02-03,Home,Sofa,South,4,580.47,2321.88,3.6
+2025-02-03,Sports,Dumbbell,West,1,37.53,37.53,4.9
+2025-02-03,Home,Vacuum,North,1,184.22,184.22,4.6
+2025-02-04,Clothing,Jacket,South,1,113.54,113.54,5.0
+2025-02-04,Clothing,Jacket,West,2,123.88,247.76,4.0
+2025-02-04,Beauty,Perfume,West,2,87.39,174.78,5.0
+2025-02-04,Electronics,Headphones,West,1,147.28,147.28,2.3
+2025-02-04,Beauty,Face Cream,West,2,31.64,63.28,3.8
+2025-02-04,Beauty,Lipstick,North,1,15.51,15.51,4.9
+2025-02-04,Electronics,Laptop,West,1,1001.37,1001.37,3.7
+2025-02-04,Sports,Yoga Mat,West,1,28.82,28.82,3.6
+2025-02-04,Home,Coffee Maker,North,3,90.18,270.54,4.0
+2025-02-05,Clothing,Sneakers,South,4,80.25,321.0,4.4
+2025-02-05,Sports,Bicycle,South,1,450.1,450.1,4.2
+2025-02-05,Clothing,T-Shirt,East,2,25.87,51.74,3.6
+2025-02-05,Beauty,Perfume,North,1,77.16,77.16,4.5
+2025-02-05,Home,Vacuum,East,5,174.46,872.3,5.0
+2025-02-05,Electronics,Laptop,South,2,962.75,1925.5,4.6
+2025-02-05,Electronics,Smartphone,West,1,737.07,737.07,2.2
+2025-02-05,Electronics,Laptop,North,1,924.35,924.35,4.3
+2025-02-05,Beauty,Lipstick,East,2,16.39,32.78,4.1
+2025-02-05,Sports,Running Shoes,South,1,96.77,96.77,4.6
+2025-02-05,Sports,Running Shoes,South,1,91.85,91.85,5.0
+2025-02-06,Clothing,T-Shirt,South,3,24.92,74.76,2.6
+2025-02-06,Electronics,Headphones,East,1,140.12,140.12,3.6
+2025-02-06,Beauty,Lipstick,West,1,15.4,15.4,4.9
+2025-02-06,Sports,Running Shoes,West,2,86.51,173.02,2.2
+2025-02-06,Sports,Bicycle,East,1,445.48,445.48,4.9
+2025-02-06,Home,Sofa,South,2,639.3,1278.6,3.7
+2025-02-07,Sports,Yoga Mat,East,2,27.82,55.64,2.1
+2025-02-07,Electronics,Laptop,North,2,1066.86,2133.72,4.1
+2025-02-07,Electronics,Smartwatch,East,3,247.72,743.16,3.9
+2025-02-07,Sports,Yoga Mat,South,1,27.9,27.9,4.1
+2025-02-07,Electronics,Laptop,West,1,1071.91,1071.91,5.0
+2025-02-07,Clothing,T-Shirt,North,3,27.28,81.84,5.0
+2025-02-07,Beauty,Mascara,North,4,19.12,76.48,3.3
+2025-02-07,Beauty,Mascara,North,1,21.3,21.3,3.4
+2025-02-07,Electronics,Headphones,North,2,137.0,274.0,2.5
+2025-02-07,Home,Coffee Maker,West,1,98.79,98.79,4.8
+2025-02-08,Home,Sofa,North,2,654.78,1309.56,5.0
+2025-02-08,Clothing,Jacket,South,5,131.8,659.0,3.3
+2025-02-08,Sports,Yoga Mat,South,1,31.59,31.59,2.8
+2025-02-08,Beauty,Lipstick,East,1,15.85,15.85,4.0
+2025-02-08,Electronics,Smartphone,East,4,635.87,2543.48,4.1
+2025-02-08,Sports,Bicycle,West,1,447.69,447.69,4.9
+2025-02-08,Beauty,Perfume,East,1,72.7,72.7,4.2
+2025-02-09,Electronics,Laptop,West,1,986.42,986.42,4.7
+2025-02-09,Beauty,Lipstick,West,3,14.09,42.27,4.3
+2025-02-09,Sports,Running Shoes,South,3,95.69,287.07,4.9
+2025-02-09,Sports,Yoga Mat,West,2,31.49,62.98,3.5
+2025-02-09,Beauty,Mascara,East,3,19.28,57.84,4.4
+2025-02-09,Sports,Yoga Mat,South,2,27.79,55.58,2.8
+2025-02-10,Home,Blender,West,1,48.42,48.42,4.8
+2025-02-10,Home,Blender,South,2,50.65,101.3,4.9
+2025-02-10,Beauty,Face Cream,North,1,36.83,36.83,4.0
+2025-02-10,Electronics,Smartwatch,North,1,269.07,269.07,4.2
+2025-02-10,Home,Sofa,West,1,636.01,636.01,5.0
+2025-02-10,Home,Blender,South,3,48.55,145.65,4.5
+2025-02-11,Beauty,Perfume,South,1,84.18,84.18,3.6
+2025-02-11,Clothing,T-Shirt,North,3,25.89,77.67,4.7
+2025-02-11,Home,Coffee Maker,South,1,87.63,87.63,4.7
+2025-02-11,Home,Vacuum,North,1,185.87,185.87,4.5
+2025-02-11,Sports,Yoga Mat,South,1,28.0,28.0,3.0
+2025-02-11,Beauty,Lipstick,South,1,15.67,15.67,2.9
+2025-02-11,Clothing,Jacket,West,2,121.46,242.92,5.0
+2025-02-11,Beauty,Mascara,East,1,19.99,19.99,4.7
+2025-02-12,Sports,Bicycle,South,1,493.38,493.38,4.3
+2025-02-12,Sports,Bicycle,South,1,434.54,434.54,5.0
+2025-02-12,Clothing,Jacket,West,3,109.5,328.5,4.8
+2025-02-12,Sports,Dumbbell,North,1,41.1,41.1,4.9
+2025-02-12,Home,Blender,South,2,54.91,109.82,4.4
+2025-02-12,Clothing,Jeans,East,1,54.31,54.31,3.1
+2025-02-12,Sports,Yoga Mat,North,3,32.58,97.74,3.7
+2025-02-12,Sports,Bicycle,North,4,444.17,1776.68,3.2
+2025-02-12,Beauty,Perfume,South,2,73.29,146.58,1.9
+2025-02-12,Electronics,Smartwatch,South,1,227.86,227.86,4.1
+2025-02-13,Beauty,Mascara,North,1,21.83,21.83,4.1
+2025-02-13,Beauty,Face Cream,East,3,33.43,100.29,4.0
+2025-02-13,Clothing,Sneakers,West,1,84.15,84.15,3.8
+2025-02-13,Beauty,Perfume,South,1,80.99,80.99,4.2
+2025-02-13,Clothing,T-Shirt,East,3,24.24,72.72,4.3
+2025-02-13,Sports,Yoga Mat,South,1,29.51,29.51,4.6
+2025-02-13,Electronics,Laptop,South,1,1095.91,1095.91,3.5
+2025-02-13,Electronics,Headphones,East,2,164.16,328.32,4.7
+2025-02-13,Electronics,Laptop,North,2,904.41,1808.82,3.5
+2025-02-13,Electronics,Laptop,West,3,922.95,2768.85,4.1
+2025-02-13,Clothing,Jacket,North,2,127.0,254.0,3.1
+2025-02-13,Clothing,T-Shirt,South,4,23.33,93.32,4.6
+2025-02-13,Electronics,Smartphone,South,1,694.72,694.72,4.7
+2025-02-14,Beauty,Face Cream,South,3,38.35,115.05,5.0
+2025-02-14,Electronics,Smartwatch,West,1,237.93,237.93,5.0
+2025-02-14,Sports,Running Shoes,South,1,83.91,83.91,3.6
+2025-02-14,Sports,Dumbbell,West,3,43.88,131.64,4.9
+2025-02-14,Electronics,Smartphone,West,1,741.77,741.77,4.1
+2025-02-14,Electronics,Headphones,South,1,137.8,137.8,3.8
+2025-02-14,Beauty,Mascara,North,2,20.31,40.62,3.8
+2025-02-14,Electronics,Headphones,East,2,162.45,324.9,4.6
+2025-02-14,Beauty,Perfume,East,1,81.82,81.82,3.5
+2025-02-14,Home,Vacuum,East,1,197.41,197.41,3.8
+2025-02-14,Sports,Bicycle,West,1,478.83,478.83,3.8
+2025-02-14,Home,Sofa,North,2,636.43,1272.86,4.1
+2025-02-15,Sports,Dumbbell,South,1,41.08,41.08,4.6
+2025-02-15,Clothing,Jacket,East,1,111.89,111.89,5.0
+2025-02-15,Electronics,Smartwatch,South,1,235.49,235.49,5.0
+2025-02-15,Home,Coffee Maker,West,3,96.45,289.35,5.0
+2025-02-15,Beauty,Lipstick,East,2,16.2,32.4,4.5
+2025-02-15,Electronics,Laptop,West,3,998.84,2996.52,3.4
+2025-02-15,Sports,Bicycle,West,2,412.85,825.7,3.8
+2025-02-15,Home,Sofa,South,1,581.75,581.75,4.8
+2025-02-15,Electronics,Laptop,West,5,994.26,4971.3,5.0
+2025-02-15,Home,Coffee Maker,West,1,94.31,94.31,3.5
+2025-02-15,Beauty,Mascara,North,1,21.35,21.35,4.6
+2025-02-16,Beauty,Perfume,North,1,75.45,75.45,5.0
+2025-02-16,Beauty,Mascara,North,3,21.06,63.18,3.8
+2025-02-16,Sports,Running Shoes,South,3,92.71,278.13,3.0
+2025-02-16,Beauty,Lipstick,West,1,13.89,13.89,3.1
+2025-02-16,Home,Sofa,North,2,545.04,1090.08,4.0
+2025-02-16,Electronics,Headphones,South,3,162.32,486.96,4.5
+2025-02-16,Electronics,Smartwatch,West,2,274.09,548.18,5.0
+2025-02-17,Beauty,Face Cream,East,1,34.65,34.65,5.0
+2025-02-17,Sports,Dumbbell,West,1,36.77,36.77,4.2
+2025-02-17,Electronics,Smartphone,East,1,640.39,640.39,4.0
+2025-02-17,Electronics,Smartwatch,East,3,270.14,810.42,5.0
+2025-02-17,Electronics,Smartwatch,East,2,256.31,512.62,5.0
+2025-02-17,Electronics,Smartwatch,South,1,246.46,246.46,4.5
+2025-02-17,Sports,Dumbbell,West,2,42.65,85.3,5.0
+2025-02-17,Electronics,Laptop,North,1,1005.05,1005.05,3.8
+2025-02-17,Beauty,Perfume,East,1,74.2,74.2,4.4
+2025-02-17,Beauty,Lipstick,South,2,15.32,30.64,5.0
+2025-02-17,Beauty,Face Cream,East,1,32.42,32.42,4.8
+2025-02-17,Beauty,Lipstick,East,4,15.46,61.84,5.0
+2025-02-17,Electronics,Smartwatch,East,3,245.35,736.05,4.7
+2025-02-18,Electronics,Laptop,West,4,1020.81,4083.24,4.1
+2025-02-18,Electronics,Laptop,North,1,996.41,996.41,2.9
+2025-02-18,Home,Sofa,North,2,596.91,1193.82,5.0
+2025-02-18,Electronics,Smartphone,West,1,635.14,635.14,4.3
+2025-02-18,Clothing,Jacket,North,1,118.52,118.52,3.8
+2025-02-18,Electronics,Laptop,West,2,917.42,1834.84,4.1
+2025-02-19,Sports,Running Shoes,East,3,90.13,270.39,5.0
+2025-02-19,Home,Blender,North,1,54.29,54.29,4.2
+2025-02-19,Beauty,Face Cream,West,2,37.68,75.36,4.9
+2025-02-19,Electronics,Laptop,South,3,1091.01,3273.03,3.3
+2025-02-19,Electronics,Headphones,South,1,136.53,136.53,4.3
+2025-02-19,Clothing,Jeans,South,3,61.98,185.94,3.7
+2025-02-19,Beauty,Perfume,North,1,73.94,73.94,4.1
+2025-02-19,Clothing,Jacket,East,1,126.0,126.0,4.3
+2025-02-19,Sports,Dumbbell,South,2,38.9,77.8,4.4
+2025-02-19,Beauty,Face Cream,West,2,35.97,71.94,4.8
+2025-02-19,Sports,Yoga Mat,East,1,30.2,30.2,4.2
+2025-02-19,Home,Blender,North,1,45.84,45.84,4.0
+2025-02-20,Sports,Yoga Mat,North,1,28.3,28.3,5.0
+2025-02-20,Beauty,Face Cream,North,1,33.43,33.43,3.9
+2025-02-20,Clothing,Jeans,West,1,56.72,56.72,5.0
+2025-02-20,Electronics,Headphones,East,2,144.57,289.14,3.1
+2025-02-20,Clothing,Jacket,North,1,108.66,108.66,5.0
+2025-02-20,Beauty,Lipstick,East,3,13.93,41.79,5.0
+2025-02-20,Electronics,Headphones,West,2,145.19,290.38,5.0
+2025-02-20,Home,Coffee Maker,North,2,93.19,186.38,3.8
+2025-02-20,Clothing,Sneakers,West,2,81.28,162.56,4.2
+2025-02-21,Clothing,Jacket,South,1,108.74,108.74,4.5
+2025-02-21,Clothing,Jacket,South,1,115.52,115.52,3.3
+2025-02-21,Clothing,T-Shirt,North,1,27.28,27.28,4.2
+2025-02-21,Beauty,Perfume,West,1,80.73,80.73,3.3
+2025-02-21,Electronics,Laptop,West,2,968.08,1936.16,4.5
+2025-02-21,Sports,Dumbbell,North,1,40.26,40.26,4.7
+2025-02-21,Home,Vacuum,South,1,171.34,171.34,3.8
+2025-02-21,Electronics,Laptop,South,1,1035.48,1035.48,4.3
+2025-02-22,Beauty,Face Cream,West,1,38.5,38.5,5.0
+2025-02-22,Clothing,Jacket,West,5,117.64,588.2,4.4
+2025-02-22,Electronics,Smartwatch,South,2,248.07,496.14,4.9
+2025-02-22,Beauty,Lipstick,North,4,15.63,62.52,4.4
+2025-02-22,Clothing,Jacket,South,3,120.8,362.4,3.4
+2025-02-23,Home,Blender,West,2,45.58,91.16,3.8
+2025-02-23,Electronics,Headphones,East,1,150.39,150.39,4.2
+2025-02-23,Beauty,Mascara,South,1,20.35,20.35,3.5
+2025-02-23,Home,Blender,West,2,49.92,99.84,3.7
+2025-02-23,Home,Coffee Maker,South,1,89.21,89.21,5.0
+2025-02-23,Sports,Running Shoes,West,1,98.93,98.93,5.0
+2025-02-23,Sports,Dumbbell,North,3,42.78,128.34,4.7
+2025-02-23,Sports,Running Shoes,East,1,81.34,81.34,1.8
+2025-02-23,Sports,Yoga Mat,East,2,32.23,64.46,5.0
+2025-02-24,Electronics,Smartwatch,East,4,235.54,942.16,5.0
+2025-02-24,Home,Blender,South,3,51.77,155.31,4.8
+2025-02-24,Electronics,Headphones,North,4,135.17,540.68,4.6
+2025-02-24,Beauty,Mascara,North,3,21.06,63.18,3.6
+2025-02-24,Electronics,Smartphone,South,2,669.25,1338.5,4.4
+2025-02-24,Home,Blender,West,3,46.11,138.33,4.2
+2025-02-25,Electronics,Headphones,South,2,158.84,317.68,4.7
+2025-02-25,Beauty,Perfume,South,2,83.36,166.72,4.5
+2025-02-25,Home,Sofa,East,1,651.51,651.51,3.9
+2025-02-25,Home,Vacuum,North,3,183.0,549.0,3.0
+2025-02-25,Sports,Dumbbell,East,2,38.86,77.72,4.4
+2025-02-25,Electronics,Headphones,East,1,161.01,161.01,4.4
+2025-02-26,Clothing,Jeans,South,3,62.57,187.71,5.0
+2025-02-26,Beauty,Lipstick,East,1,15.83,15.83,2.7
+2025-02-26,Clothing,Sneakers,South,1,83.55,83.55,4.2
+2025-02-26,Electronics,Headphones,North,2,135.0,270.0,3.9
+2025-02-26,Clothing,Sneakers,North,4,77.45,309.8,4.3
+2025-02-26,Sports,Bicycle,East,1,479.4,479.4,5.0
+2025-02-26,Beauty,Mascara,South,1,21.57,21.57,4.4
+2025-02-26,Electronics,Smartphone,West,2,761.08,1522.16,4.8
+2025-02-27,Clothing,Jacket,East,3,114.1,342.3,4.3
+2025-02-27,Sports,Dumbbell,West,4,42.09,168.36,3.4
+2025-02-27,Sports,Bicycle,East,5,462.09,2310.45,5.0
+2025-02-27,Electronics,Laptop,South,2,1091.36,2182.72,3.0
+2025-02-27,Clothing,Sneakers,South,1,84.33,84.33,2.4
+2025-02-27,Electronics,Laptop,South,1,1010.41,1010.41,3.5
+2025-02-27,Home,Vacuum,West,3,185.32,555.96,5.0
+2025-02-27,Sports,Dumbbell,South,4,39.16,156.64,4.5
+2025-02-27,Beauty,Mascara,North,1,20.73,20.73,3.7
+2025-02-27,Electronics,Smartwatch,North,1,239.37,239.37,2.8
+2025-02-27,Sports,Yoga Mat,South,4,28.45,113.8,4.3
+2025-02-27,Clothing,Jeans,North,1,55.49,55.49,2.2
+2025-02-27,Electronics,Smartwatch,South,2,238.33,476.66,4.0
+2025-02-28,Beauty,Perfume,West,3,78.36,235.08,2.8
+2025-02-28,Electronics,Smartwatch,West,1,273.8,273.8,3.9
+2025-02-28,Sports,Yoga Mat,East,1,29.3,29.3,4.0
+2025-02-28,Sports,Dumbbell,North,1,41.91,41.91,3.2
+2025-02-28,Electronics,Smartphone,West,1,630.19,630.19,4.3
+2025-02-28,Home,Coffee Maker,West,3,97.17,291.51,4.2
+2025-02-28,Electronics,Smartwatch,West,1,235.35,235.35,4.4
+2025-02-28,Sports,Yoga Mat,South,2,29.9,59.8,4.7
+2025-02-28,Beauty,Perfume,West,4,87.32,349.28,4.6
+2025-02-28,Beauty,Perfume,North,2,75.28,150.56,4.2
+2025-02-28,Clothing,T-Shirt,South,1,26.74,26.74,4.9
+2025-02-28,Beauty,Face Cream,East,4,37.17,148.68,4.2
+2025-02-28,Beauty,Lipstick,East,2,13.68,27.36,4.6
+2025-03-01,Beauty,Lipstick,East,1,13.63,13.63,4.4
+2025-03-01,Home,Vacuum,East,4,174.75,699.0,4.3
+2025-03-01,Clothing,Jeans,South,1,56.16,56.16,4.5
+2025-03-01,Home,Vacuum,South,1,178.04,178.04,3.9
+2025-03-01,Electronics,Smartwatch,West,5,272.57,1362.85,4.7
+2025-03-01,Home,Vacuum,South,1,182.5,182.5,5.0
+2025-03-01,Clothing,Jeans,South,3,56.28,168.84,3.1
+2025-03-01,Home,Coffee Maker,South,1,93.57,93.57,5.0
+2025-03-02,Electronics,Headphones,East,4,158.44,633.76,3.9
+2025-03-02,Clothing,Jeans,North,1,59.99,59.99,3.2
+2025-03-02,Beauty,Mascara,South,3,20.06,60.18,4.7
+2025-03-02,Sports,Running Shoes,North,3,88.25,264.75,4.2
+2025-03-02,Electronics,Laptop,East,1,974.34,974.34,4.7
+2025-03-02,Sports,Yoga Mat,East,1,27.35,27.35,4.8
+2025-03-02,Sports,Bicycle,North,1,455.77,455.77,3.0
+2025-03-02,Beauty,Lipstick,South,3,16.21,48.63,4.6
+2025-03-03,Clothing,T-Shirt,North,2,23.24,46.48,4.7
+2025-03-03,Electronics,Laptop,West,1,1016.32,1016.32,4.6
+2025-03-03,Clothing,Jacket,East,1,111.45,111.45,5.0
+2025-03-03,Clothing,Sneakers,North,3,78.71,236.13,3.9
+2025-03-03,Beauty,Lipstick,North,1,14.27,14.27,1.4
+2025-03-03,Beauty,Perfume,North,1,77.83,77.83,4.1
+2025-03-03,Home,Sofa,East,2,579.86,1159.72,5.0
+2025-03-03,Clothing,Sneakers,East,1,80.25,80.25,4.1
+2025-03-03,Sports,Yoga Mat,North,1,27.0,27.0,4.7
+2025-03-04,Sports,Dumbbell,South,1,37.6,37.6,4.2
+2025-03-04,Home,Vacuum,East,1,168.88,168.88,4.0
+2025-03-04,Home,Blender,West,3,52.42,157.26,2.8
+2025-03-04,Sports,Dumbbell,West,1,42.53,42.53,3.7
+2025-03-04,Home,Blender,South,1,49.06,49.06,4.4
+2025-03-04,Electronics,Smartwatch,East,3,245.72,737.16,5.0
+2025-03-04,Home,Vacuum,East,1,180.63,180.63,3.9
+2025-03-04,Electronics,Smartwatch,West,2,239.83,479.66,5.0
+2025-03-04,Sports,Dumbbell,South,2,42.25,84.5,3.2
+2025-03-04,Home,Vacuum,North,1,166.39,166.39,4.1
+2025-03-05,Electronics,Smartphone,East,1,637.27,637.27,4.7
+2025-03-05,Sports,Running Shoes,North,2,93.62,187.24,3.3
+2025-03-05,Sports,Running Shoes,West,1,89.93,89.93,4.6
+2025-03-05,Beauty,Perfume,North,3,72.4,217.2,3.8
+2025-03-05,Clothing,T-Shirt,South,1,26.72,26.72,4.2
+2025-03-05,Electronics,Laptop,North,1,1008.15,1008.15,5.0
+2025-03-05,Sports,Running Shoes,West,1,96.53,96.53,4.4
+2025-03-05,Beauty,Mascara,East,3,21.52,64.56,5.0
+2025-03-05,Beauty,Mascara,East,3,19.27,57.81,3.6
+2025-03-05,Home,Vacuum,West,2,197.35,394.7,4.2
+2025-03-05,Beauty,Mascara,West,2,18.21,36.42,3.4
+2025-03-05,Home,Sofa,North,1,652.2,652.2,3.3
+2025-03-05,Beauty,Perfume,North,3,73.09,219.27,3.8
+2025-03-06,Sports,Running Shoes,South,1,84.7,84.7,2.8
+2025-03-06,Electronics,Laptop,West,2,1034.3,2068.6,3.9
+2025-03-06,Sports,Bicycle,West,1,430.01,430.01,3.1
+2025-03-06,Clothing,T-Shirt,North,1,22.56,22.56,4.5
+2025-03-06,Electronics,Laptop,South,1,1040.91,1040.91,4.2
+2025-03-06,Home,Coffee Maker,West,2,82.33,164.66,5.0
+2025-03-06,Clothing,Sneakers,West,4,82.51,330.04,4.3
+2025-03-07,Home,Coffee Maker,East,1,98.13,98.13,4.4
+2025-03-07,Beauty,Face Cream,East,2,35.37,70.74,3.5
+2025-03-07,Home,Vacuum,East,1,182.29,182.29,4.9
+2025-03-07,Home,Sofa,East,3,611.72,1835.16,5.0
+2025-03-07,Electronics,Headphones,South,2,148.47,296.94,3.0
+2025-03-07,Sports,Bicycle,North,2,406.39,812.78,5.0
+2025-03-07,Electronics,Laptop,West,1,1087.93,1087.93,4.8
+2025-03-07,Electronics,Smartphone,South,1,734.0,734.0,5.0
+2025-03-07,Beauty,Face Cream,North,1,37.9,37.9,3.9
+2025-03-07,Electronics,Headphones,South,1,164.89,164.89,2.9
+2025-03-07,Home,Coffee Maker,North,2,85.36,170.72,4.5
+2025-03-08,Electronics,Smartphone,North,4,640.8,2563.2,4.7
+2025-03-08,Home,Coffee Maker,South,2,94.19,188.38,3.7
+2025-03-08,Clothing,Jeans,South,1,58.6,58.6,4.4
+2025-03-08,Sports,Bicycle,South,2,440.77,881.54,5.0
+2025-03-08,Electronics,Laptop,North,2,1016.89,2033.78,3.6
+2025-03-09,Beauty,Mascara,North,2,21.58,43.16,4.0
+2025-03-09,Sports,Yoga Mat,East,3,30.83,92.49,5.0
+2025-03-09,Beauty,Perfume,West,3,74.31,222.93,4.2
+2025-03-09,Home,Vacuum,North,2,169.24,338.48,2.0
+2025-03-09,Sports,Running Shoes,South,1,81.51,81.51,5.0
+2025-03-10,Clothing,T-Shirt,North,1,27.12,27.12,3.4
+2025-03-10,Sports,Dumbbell,North,2,37.49,74.98,4.3
+2025-03-10,Beauty,Face Cream,East,1,37.14,37.14,4.3
+2025-03-10,Beauty,Mascara,East,2,20.06,40.12,3.1
+2025-03-10,Beauty,Mascara,North,1,21.31,21.31,3.1
+2025-03-10,Sports,Bicycle,South,2,436.9,873.8,4.0
+2025-03-10,Home,Coffee Maker,East,2,87.28,174.56,3.5
+2025-03-10,Sports,Yoga Mat,East,3,32.03,96.09,3.9
+2025-03-10,Electronics,Laptop,East,1,1034.73,1034.73,5.0
+2025-03-10,Beauty,Face Cream,West,1,32.32,32.32,4.3
+2025-03-11,Electronics,Smartphone,North,2,687.99,1375.98,5.0
+2025-03-11,Home,Vacuum,South,1,174.75,174.75,4.3
+2025-03-11,Beauty,Face Cream,South,1,32.67,32.67,3.0
+2025-03-11,Home,Vacuum,East,2,188.98,377.96,4.2
+2025-03-11,Electronics,Smartphone,North,2,705.73,1411.46,4.4
+2025-03-11,Clothing,T-Shirt,North,1,25.0,25.0,4.5
+2025-03-11,Sports,Bicycle,North,4,449.61,1798.44,4.9
+2025-03-11,Clothing,T-Shirt,East,3,23.07,69.21,5.0
+2025-03-11,Sports,Dumbbell,North,3,40.89,122.67,4.8
+2025-03-11,Home,Coffee Maker,East,2,91.09,182.18,3.3
+2025-03-12,Beauty,Lipstick,West,1,15.76,15.76,4.9
+2025-03-12,Electronics,Headphones,West,3,145.01,435.03,3.1
+2025-03-12,Clothing,T-Shirt,North,1,24.92,24.92,4.0
+2025-03-12,Electronics,Smartwatch,South,1,270.09,270.09,4.9
+2025-03-12,Beauty,Face Cream,West,5,35.32,176.6,2.4
+2025-03-12,Clothing,Jeans,North,1,63.65,63.65,3.3
+2025-03-12,Home,Blender,South,1,48.74,48.74,3.6
+2025-03-12,Home,Vacuum,East,1,187.52,187.52,4.7
+2025-03-12,Electronics,Laptop,West,1,1026.4,1026.4,3.3
+2025-03-12,Electronics,Smartwatch,West,2,246.3,492.6,2.5
+2025-03-12,Clothing,Sneakers,North,1,72.23,72.23,4.4
+2025-03-12,Beauty,Lipstick,East,1,14.01,14.01,4.4
+2025-03-12,Electronics,Smartwatch,East,1,255.27,255.27,4.6
+2025-03-13,Beauty,Perfume,North,3,80.67,242.01,3.6
+2025-03-13,Home,Vacuum,West,1,169.28,169.28,2.8
+2025-03-13,Sports,Running Shoes,South,4,88.65,354.6,3.1
+2025-03-13,Electronics,Smartphone,South,1,648.71,648.71,4.2
+2025-03-13,Clothing,Jeans,West,2,59.17,118.34,5.0
+2025-03-13,Home,Vacuum,North,1,173.68,173.68,4.6
+2025-03-13,Beauty,Lipstick,South,2,14.34,28.68,4.7
+2025-03-13,Beauty,Perfume,North,1,83.97,83.97,4.6
+2025-03-13,Electronics,Laptop,East,1,952.8,952.8,5.0
+2025-03-13,Electronics,Smartwatch,South,1,269.41,269.41,4.5
+2025-03-13,Sports,Running Shoes,West,1,93.0,93.0,4.8
+2025-03-13,Sports,Bicycle,South,5,413.54,2067.7,4.7
+2025-03-13,Home,Coffee Maker,East,2,95.42,190.84,4.2
+2025-03-13,Sports,Dumbbell,North,3,43.69,131.07,4.0
+2025-03-14,Home,Vacuum,East,1,162.49,162.49,3.4
+2025-03-14,Home,Vacuum,East,1,195.78,195.78,5.0
+2025-03-14,Sports,Yoga Mat,East,5,30.49,152.45,3.9
+2025-03-14,Clothing,T-Shirt,East,2,25.39,50.78,5.0
+2025-03-14,Home,Vacuum,South,2,174.31,348.62,4.7
+2025-03-14,Electronics,Smartphone,East,3,762.89,2288.67,4.9
+2025-03-14,Home,Blender,South,4,48.73,194.92,4.2
+2025-03-14,Electronics,Headphones,East,1,164.23,164.23,3.2
+2025-03-14,Home,Coffee Maker,West,1,95.58,95.58,3.1
+2025-03-15,Beauty,Perfume,West,1,72.4,72.4,5.0
+2025-03-15,Beauty,Mascara,South,4,20.74,82.96,4.6
+2025-03-15,Sports,Dumbbell,South,1,40.58,40.58,4.3
+2025-03-15,Beauty,Perfume,South,1,83.85,83.85,5.0
+2025-03-15,Sports,Bicycle,South,2,412.61,825.22,4.8
+2025-03-15,Beauty,Face Cream,West,2,36.33,72.66,4.6
+2025-03-16,Home,Coffee Maker,East,3,86.16,258.48,4.2
+2025-03-16,Home,Blender,West,2,47.16,94.32,5.0
+2025-03-16,Sports,Yoga Mat,South,1,29.01,29.01,5.0
+2025-03-16,Beauty,Lipstick,North,4,16.06,64.24,4.0
+2025-03-16,Clothing,Jacket,West,1,112.03,112.03,3.6
+2025-03-16,Clothing,Jeans,West,1,55.21,55.21,2.8
+2025-03-16,Home,Vacuum,West,1,172.78,172.78,3.8
+2025-03-16,Beauty,Perfume,East,1,77.85,77.85,4.9
+2025-03-16,Sports,Bicycle,South,1,475.25,475.25,5.0
+2025-03-16,Home,Sofa,West,3,560.91,1682.73,4.5
+2025-03-16,Clothing,T-Shirt,East,1,22.78,22.78,4.2
+2025-03-16,Electronics,Smartphone,North,2,678.59,1357.18,4.3
+2025-03-17,Beauty,Perfume,East,1,80.36,80.36,3.4
+2025-03-17,Electronics,Headphones,West,3,149.5,448.5,5.0
+2025-03-17,Clothing,Sneakers,East,1,83.18,83.18,3.9
+2025-03-17,Sports,Dumbbell,North,2,42.54,85.08,4.3
+2025-03-17,Beauty,Mascara,East,2,21.73,43.46,5.0
+2025-03-17,Home,Vacuum,East,1,182.55,182.55,3.5
+2025-03-17,Sports,Yoga Mat,South,2,32.42,64.84,3.6
+2025-03-17,Electronics,Smartphone,South,4,665.39,2661.56,4.0
+2025-03-17,Home,Blender,North,1,52.96,52.96,4.8
+2025-03-17,Electronics,Headphones,North,2,142.58,285.16,5.0
+2025-03-17,Beauty,Lipstick,North,3,16.11,48.33,4.7
+2025-03-17,Beauty,Mascara,North,1,18.93,18.93,3.1
+2025-03-17,Clothing,Sneakers,South,4,87.18,348.72,4.4
+2025-03-18,Home,Vacuum,East,1,194.7,194.7,5.0
+2025-03-18,Clothing,Jeans,South,2,60.16,120.32,4.0
+2025-03-18,Sports,Bicycle,South,3,440.81,1322.43,3.7
+2025-03-18,Home,Sofa,East,2,649.27,1298.54,3.3
+2025-03-18,Sports,Running Shoes,West,2,81.63,163.26,5.0
+2025-03-18,Electronics,Smartwatch,East,1,262.69,262.69,4.0
+2025-03-18,Beauty,Lipstick,North,2,13.83,27.66,3.5
+2025-03-18,Electronics,Headphones,West,1,141.0,141.0,3.8
+2025-03-18,Home,Blender,North,2,47.11,94.22,4.4
+2025-03-18,Clothing,Jeans,North,1,62.99,62.99,4.4
+2025-03-18,Electronics,Laptop,East,1,983.72,983.72,3.2
+2025-03-18,Home,Blender,West,2,50.97,101.94,3.4
+2025-03-19,Beauty,Perfume,South,3,87.15,261.45,3.5
+2025-03-19,Home,Sofa,South,2,594.67,1189.34,5.0
+2025-03-19,Electronics,Laptop,West,5,1024.54,5122.7,3.3
+2025-03-19,Home,Sofa,North,5,550.68,2753.4,3.2
+2025-03-19,Electronics,Headphones,West,1,140.57,140.57,3.3
+2025-03-19,Sports,Dumbbell,East,1,40.01,40.01,4.4
+2025-03-19,Clothing,T-Shirt,South,1,25.74,25.74,3.8
+2025-03-19,Home,Vacuum,East,1,164.0,164.0,3.5
+2025-03-19,Beauty,Lipstick,North,2,14.25,28.5,3.9
+2025-03-19,Beauty,Face Cream,West,2,33.7,67.4,5.0
+2025-03-19,Electronics,Smartphone,North,4,732.16,2928.64,5.0
+2025-03-19,Beauty,Perfume,North,2,83.76,167.52,4.4
+2025-03-20,Sports,Running Shoes,South,2,86.4,172.8,3.2
+2025-03-20,Electronics,Smartphone,North,1,679.72,679.72,4.0
+2025-03-20,Beauty,Face Cream,East,4,36.11,144.44,4.4
+2025-03-20,Home,Sofa,South,4,607.27,2429.08,5.0
+2025-03-20,Home,Coffee Maker,West,2,82.88,165.76,3.4
+2025-03-20,Sports,Yoga Mat,North,3,28.36,85.08,4.1
+2025-03-20,Clothing,T-Shirt,West,2,22.66,45.32,3.4
+2025-03-20,Clothing,T-Shirt,East,2,26.24,52.48,4.3
+2025-03-20,Sports,Yoga Mat,West,1,32.9,32.9,4.1
+2025-03-20,Clothing,Jacket,East,2,109.27,218.54,4.6
+2025-03-21,Sports,Running Shoes,North,2,85.55,171.1,5.0
+2025-03-21,Electronics,Smartphone,South,3,755.42,2266.26,3.8
+2025-03-21,Electronics,Laptop,South,1,941.81,941.81,3.0
+2025-03-21,Home,Vacuum,South,3,175.72,527.16,1.9
+2025-03-21,Sports,Running Shoes,North,1,89.26,89.26,4.4
+2025-03-21,Electronics,Smartphone,South,1,761.2,761.2,4.6
+2025-03-21,Home,Sofa,South,2,656.54,1313.08,3.9
+2025-03-21,Beauty,Face Cream,East,4,35.79,143.16,4.3
+2025-03-21,Beauty,Face Cream,North,1,36.04,36.04,4.5
+2025-03-21,Beauty,Mascara,West,1,20.45,20.45,4.3
+2025-03-21,Home,Vacuum,North,3,177.99,533.97,5.0
+2025-03-22,Beauty,Mascara,East,4,18.12,72.48,5.0
+2025-03-22,Beauty,Lipstick,South,3,14.0,42.0,3.0
+2025-03-22,Home,Blender,North,3,48.13,144.39,4.5
+2025-03-22,Beauty,Face Cream,East,2,35.95,71.9,5.0
+2025-03-22,Clothing,Jeans,North,1,63.37,63.37,3.8
+2025-03-22,Clothing,Jacket,South,3,111.51,334.53,5.0
+2025-03-22,Beauty,Mascara,North,1,21.66,21.66,4.3
+2025-03-22,Clothing,Jacket,West,1,121.14,121.14,4.1
+2025-03-22,Home,Blender,East,2,53.28,106.56,4.4
+2025-03-23,Beauty,Lipstick,North,3,14.13,42.39,4.0
+2025-03-23,Electronics,Smartwatch,South,1,264.16,264.16,5.0
+2025-03-23,Home,Vacuum,East,1,197.91,197.91,2.3
+2025-03-23,Home,Coffee Maker,North,2,84.26,168.52,3.1
+2025-03-23,Sports,Running Shoes,West,1,90.84,90.84,3.9
+2025-03-23,Electronics,Smartphone,South,2,731.39,1462.78,3.9
+2025-03-23,Electronics,Laptop,South,1,931.92,931.92,4.2
+2025-03-23,Sports,Dumbbell,South,1,43.8,43.8,4.1
+2025-03-24,Beauty,Lipstick,South,1,16.28,16.28,4.1
+2025-03-24,Home,Coffee Maker,East,1,91.5,91.5,4.2
+2025-03-24,Beauty,Face Cream,East,2,33.24,66.48,5.0
+2025-03-24,Clothing,Jeans,East,2,60.42,120.84,2.6
+2025-03-24,Beauty,Mascara,North,3,21.33,63.99,3.6
+2025-03-24,Sports,Bicycle,North,1,413.09,413.09,3.6
+2025-03-25,Sports,Running Shoes,West,1,86.17,86.17,5.0
+2025-03-25,Beauty,Mascara,North,1,19.77,19.77,3.2
+2025-03-25,Beauty,Face Cream,South,1,35.37,35.37,3.7
+2025-03-25,Beauty,Lipstick,West,1,15.7,15.7,3.4
+2025-03-25,Clothing,Jeans,West,1,62.16,62.16,4.1
+2025-03-25,Clothing,T-Shirt,East,1,25.71,25.71,3.9
+2025-03-25,Beauty,Mascara,East,1,19.19,19.19,3.0
+2025-03-25,Electronics,Smartwatch,North,1,252.28,252.28,3.8
+2025-03-25,Sports,Bicycle,East,1,471.42,471.42,3.2
+2025-03-25,Clothing,T-Shirt,South,2,24.72,49.44,4.9
+2025-03-26,Home,Vacuum,South,3,174.66,523.98,5.0
+2025-03-26,Sports,Bicycle,South,1,444.09,444.09,4.3
+2025-03-26,Clothing,Sneakers,West,3,81.03,243.09,4.9
+2025-03-26,Sports,Bicycle,East,3,406.46,1219.38,4.6
+2025-03-26,Electronics,Laptop,East,1,1098.39,1098.39,4.7
+2025-03-26,Clothing,Jeans,West,1,60.14,60.14,3.6
+2025-03-26,Home,Sofa,South,3,620.86,1862.58,5.0
+2025-03-26,Electronics,Smartphone,South,1,737.22,737.22,3.3
+2025-03-27,Beauty,Perfume,West,1,84.3,84.3,3.4
+2025-03-27,Sports,Bicycle,North,1,463.7,463.7,4.8
+2025-03-27,Sports,Yoga Mat,North,1,32.1,32.1,3.5
+2025-03-27,Clothing,T-Shirt,South,1,24.56,24.56,5.0
+2025-03-27,Clothing,T-Shirt,South,1,22.91,22.91,4.3
+2025-03-27,Electronics,Headphones,West,1,156.73,156.73,4.0
+2025-03-27,Clothing,Jacket,North,1,131.17,131.17,4.3
+2025-03-27,Sports,Running Shoes,West,2,87.53,175.06,5.0
+2025-03-27,Sports,Yoga Mat,West,4,29.05,116.2,3.3
+2025-03-27,Beauty,Lipstick,West,3,15.68,47.04,4.0
+2025-03-28,Electronics,Smartwatch,North,2,266.88,533.76,3.0
+2025-03-28,Sports,Running Shoes,West,2,84.92,169.84,4.6
+2025-03-28,Home,Vacuum,East,2,162.58,325.16,5.0
+2025-03-28,Sports,Running Shoes,South,1,83.42,83.42,3.2
+2025-03-28,Electronics,Smartphone,East,1,699.86,699.86,4.4
+2025-03-28,Home,Vacuum,East,1,194.08,194.08,4.8
+2025-03-28,Home,Coffee Maker,West,1,85.58,85.58,5.0
+2025-03-28,Home,Sofa,East,2,647.85,1295.7,4.3
+2025-03-29,Clothing,T-Shirt,North,1,24.44,24.44,4.0
+2025-03-29,Home,Blender,East,1,54.77,54.77,3.7
+2025-03-29,Clothing,Sneakers,East,1,86.26,86.26,4.0
+2025-03-29,Electronics,Laptop,South,2,1034.5,2069.0,2.6
+2025-03-29,Sports,Bicycle,East,2,437.82,875.64,3.6
+2025-03-29,Beauty,Lipstick,West,3,15.76,47.28,4.5
+2025-03-29,Home,Vacuum,East,1,184.29,184.29,5.0
+2025-03-29,Home,Blender,West,4,46.26,185.04,3.4
+2025-03-29,Home,Vacuum,East,2,183.08,366.16,4.4
+2025-03-29,Home,Vacuum,South,1,191.52,191.52,3.5
+2025-03-29,Home,Blender,West,2,48.99,97.98,3.4
+2025-03-29,Home,Sofa,West,2,609.98,1219.96,4.5
+2025-03-29,Home,Blender,North,2,54.97,109.94,3.6
+2025-03-30,Sports,Dumbbell,South,4,41.86,167.44,5.0
+2025-03-30,Sports,Dumbbell,North,1,41.62,41.62,3.4
+2025-03-30,Electronics,Headphones,South,1,144.22,144.22,5.0
+2025-03-30,Electronics,Headphones,North,2,138.61,277.22,4.1
+2025-03-30,Sports,Running Shoes,North,1,90.11,90.11,4.5
+2025-03-30,Beauty,Lipstick,East,1,14.86,14.86,3.5
+2025-03-30,Electronics,Headphones,South,2,146.62,293.24,4.0
+2025-03-31,Beauty,Perfume,South,1,79.29,79.29,3.7
+2025-03-31,Electronics,Laptop,South,2,995.48,1990.96,4.5
+2025-03-31,Sports,Yoga Mat,South,1,32.21,32.21,4.6
+2025-03-31,Beauty,Lipstick,West,1,14.13,14.13,3.5
+2025-03-31,Electronics,Headphones,South,1,145.91,145.91,3.9
+2025-03-31,Beauty,Perfume,West,2,73.27,146.54,3.8
+2025-03-31,Electronics,Smartphone,West,1,671.49,671.49,4.0
+2025-03-31,Beauty,Lipstick,North,1,15.07,15.07,3.3
+2025-03-31,Electronics,Smartwatch,South,1,229.01,229.01,5.0
+2025-03-31,Clothing,Jeans,North,2,56.34,112.68,4.5
+2025-04-01,Clothing,Jacket,South,2,112.25,224.5,4.1
+2025-04-01,Sports,Yoga Mat,East,1,32.97,32.97,3.8
+2025-04-01,Clothing,T-Shirt,South,4,26.55,106.2,3.7
+2025-04-01,Clothing,Sneakers,East,1,78.1,78.1,3.9
+2025-04-01,Home,Blender,East,3,49.59,148.77,4.0
+2025-04-01,Home,Vacuum,West,3,174.71,524.13,3.1
+2025-04-01,Clothing,Sneakers,East,3,82.1,246.3,3.0
+2025-04-01,Beauty,Mascara,West,1,18.06,18.06,5.0
+2025-04-01,Clothing,T-Shirt,South,2,22.8,45.6,4.3
+2025-04-01,Clothing,Jacket,East,2,116.97,233.94,5.0
+2025-04-01,Home,Blender,East,1,46.84,46.84,3.8
+2025-04-01,Sports,Dumbbell,East,1,43.07,43.07,4.1
+2025-04-01,Clothing,Sneakers,East,1,80.09,80.09,4.3
+2025-04-01,Sports,Running Shoes,West,1,84.63,84.63,3.6
+2025-04-02,Electronics,Headphones,East,3,158.33,474.99,4.2
+2025-04-02,Beauty,Lipstick,South,3,16.34,49.02,4.9
+2025-04-02,Electronics,Laptop,South,1,933.98,933.98,4.2
+2025-04-02,Electronics,Smartwatch,North,2,227.96,455.92,3.4
+2025-04-02,Sports,Running Shoes,North,1,83.57,83.57,3.6
+2025-04-02,Beauty,Face Cream,North,1,31.89,31.89,4.3
+2025-04-02,Electronics,Smartwatch,West,1,226.2,226.2,4.3
+2025-04-02,Sports,Dumbbell,North,1,36.78,36.78,4.6
+2025-04-02,Clothing,Jeans,South,1,60.56,60.56,3.5
+2025-04-03,Home,Blender,North,4,51.87,207.48,3.2
+2025-04-03,Sports,Bicycle,West,1,440.94,440.94,3.7
+2025-04-03,Beauty,Mascara,West,3,20.31,60.93,5.0
+2025-04-03,Home,Sofa,North,4,561.75,2247.0,4.4
+2025-04-03,Sports,Yoga Mat,East,1,30.41,30.41,4.8
+2025-04-03,Beauty,Mascara,East,1,19.58,19.58,5.0
+2025-04-03,Home,Blender,East,4,50.89,203.56,3.3
+2025-04-04,Electronics,Laptop,North,1,939.76,939.76,3.8
+2025-04-04,Clothing,Sneakers,West,1,83.19,83.19,4.8
+2025-04-04,Sports,Dumbbell,North,2,42.37,84.74,4.0
+2025-04-04,Beauty,Lipstick,South,2,14.76,29.52,5.0
+2025-04-04,Electronics,Smartphone,North,1,674.67,674.67,4.0
+2025-04-04,Sports,Running Shoes,South,1,82.88,82.88,4.5
+2025-04-05,Home,Coffee Maker,West,2,81.56,163.12,3.5
+2025-04-05,Home,Vacuum,North,1,169.07,169.07,3.9
+2025-04-05,Beauty,Perfume,East,1,81.41,81.41,5.0
+2025-04-05,Electronics,Smartwatch,South,2,270.65,541.3,4.6
+2025-04-05,Home,Coffee Maker,South,3,84.26,252.78,3.3
+2025-04-05,Sports,Yoga Mat,North,2,29.56,59.12,2.6
+2025-04-05,Home,Blender,East,2,46.72,93.44,3.6
+2025-04-05,Beauty,Lipstick,North,1,15.31,15.31,3.5
+2025-04-05,Electronics,Laptop,North,1,958.71,958.71,4.7
+2025-04-06,Sports,Bicycle,East,2,464.67,929.34,2.7
+2025-04-06,Sports,Bicycle,South,1,471.23,471.23,4.5
+2025-04-06,Electronics,Smartphone,North,4,630.13,2520.52,3.5
+2025-04-06,Clothing,T-Shirt,West,2,25.0,50.0,4.8
+2025-04-06,Beauty,Face Cream,South,4,36.26,145.04,3.6
+2025-04-06,Sports,Running Shoes,North,3,86.46,259.38,4.8
+2025-04-06,Clothing,Sneakers,West,1,72.87,72.87,5.0
+2025-04-06,Electronics,Laptop,South,1,1015.01,1015.01,2.6
+2025-04-06,Clothing,Jacket,South,2,115.52,231.04,4.2
+2025-04-07,Home,Sofa,East,4,602.81,2411.24,4.6
+2025-04-07,Electronics,Smartwatch,East,1,263.26,263.26,4.6
+2025-04-07,Home,Vacuum,West,1,175.56,175.56,4.2
+2025-04-07,Home,Sofa,South,3,578.03,1734.09,3.6
+2025-04-07,Clothing,T-Shirt,East,3,27.13,81.39,3.6
+2025-04-07,Clothing,Jacket,South,1,124.38,124.38,4.9
+2025-04-07,Electronics,Smartphone,West,1,662.38,662.38,3.9
+2025-04-07,Home,Vacuum,North,4,166.94,667.76,4.1
+2025-04-07,Sports,Yoga Mat,West,4,28.41,113.64,3.9
+2025-04-07,Home,Blender,North,2,54.87,109.74,4.8
+2025-04-08,Beauty,Face Cream,East,1,35.97,35.97,4.2
+2025-04-08,Electronics,Headphones,East,2,155.3,310.6,4.2
+2025-04-08,Beauty,Lipstick,North,1,14.42,14.42,3.6
+2025-04-08,Sports,Dumbbell,East,1,37.14,37.14,2.3
+2025-04-08,Beauty,Face Cream,South,3,34.35,103.05,5.0
+2025-04-08,Home,Vacuum,East,1,193.09,193.09,5.0
+2025-04-08,Sports,Bicycle,West,2,405.96,811.92,4.2
+2025-04-08,Beauty,Perfume,North,1,74.75,74.75,4.4
+2025-04-08,Sports,Running Shoes,East,1,83.19,83.19,4.1
+2025-04-08,Clothing,T-Shirt,North,2,25.82,51.64,3.7
+2025-04-08,Sports,Bicycle,North,3,441.96,1325.88,3.5
+2025-04-08,Clothing,Jacket,South,2,130.34,260.68,4.5
+2025-04-09,Electronics,Headphones,North,4,148.06,592.24,3.8
+2025-04-09,Electronics,Laptop,South,1,943.93,943.93,4.1
+2025-04-09,Beauty,Perfume,West,3,76.5,229.5,4.9
+2025-04-09,Electronics,Smartphone,East,1,760.03,760.03,4.9
+2025-04-09,Beauty,Mascara,North,1,19.4,19.4,5.0
+2025-04-09,Electronics,Headphones,West,1,162.54,162.54,4.8
+2025-04-09,Clothing,Jacket,South,1,112.56,112.56,5.0
+2025-04-09,Sports,Dumbbell,North,3,41.49,124.47,3.8
+2025-04-09,Electronics,Headphones,South,1,160.98,160.98,4.0
+2025-04-09,Home,Blender,West,2,48.21,96.42,5.0
+2025-04-10,Clothing,T-Shirt,West,3,27.46,82.38,4.4
+2025-04-10,Electronics,Headphones,East,1,147.1,147.1,3.7
+2025-04-10,Home,Vacuum,West,1,194.55,194.55,4.3
+2025-04-10,Home,Vacuum,East,1,164.21,164.21,3.3
+2025-04-10,Sports,Yoga Mat,East,1,32.43,32.43,3.6
+2025-04-10,Clothing,Jacket,South,1,115.15,115.15,4.0
+2025-04-10,Electronics,Headphones,South,2,162.47,324.94,3.4
+2025-04-10,Clothing,Jacket,South,3,112.56,337.68,3.2
+2025-04-10,Sports,Yoga Mat,North,1,28.03,28.03,3.7
+2025-04-10,Home,Coffee Maker,South,2,81.24,162.48,4.5
+2025-04-11,Beauty,Perfume,West,3,86.55,259.65,4.1
+2025-04-11,Beauty,Face Cream,South,1,34.14,34.14,4.4
+2025-04-11,Home,Vacuum,South,1,168.99,168.99,4.6
+2025-04-11,Electronics,Smartwatch,North,2,232.79,465.58,5.0
+2025-04-11,Home,Vacuum,South,1,176.89,176.89,4.1
+2025-04-12,Sports,Running Shoes,West,2,83.08,166.16,4.5
+2025-04-12,Clothing,Jacket,South,5,110.61,553.05,5.0
+2025-04-12,Clothing,Jacket,East,2,123.09,246.18,3.7
+2025-04-12,Electronics,Laptop,North,3,1083.53,3250.59,5.0
+2025-04-12,Electronics,Laptop,North,2,962.74,1925.48,4.6
+2025-04-12,Clothing,Jacket,South,3,122.32,366.96,3.4
+2025-04-12,Clothing,Jacket,East,2,123.79,247.58,4.0
+2025-04-12,Beauty,Mascara,West,1,20.78,20.78,3.8
+2025-04-13,Clothing,Jeans,East,3,55.32,165.96,4.6
+2025-04-13,Electronics,Headphones,West,2,135.76,271.52,3.9
+2025-04-13,Sports,Bicycle,East,1,412.84,412.84,4.1
+2025-04-13,Electronics,Laptop,West,1,1082.17,1082.17,3.4
+2025-04-13,Electronics,Smartwatch,North,2,230.57,461.14,4.2
+2025-04-13,Clothing,Jacket,North,3,121.12,363.36,5.0
+2025-04-14,Clothing,Sneakers,West,1,86.66,86.66,5.0
+2025-04-14,Electronics,Smartphone,North,1,646.09,646.09,5.0
+2025-04-14,Home,Sofa,North,1,577.69,577.69,4.3
+2025-04-14,Beauty,Lipstick,East,4,15.73,62.92,2.7
+2025-04-14,Beauty,Lipstick,South,1,15.99,15.99,3.5
+2025-04-14,Electronics,Smartphone,East,3,709.65,2128.95,3.8
+2025-04-15,Clothing,Jacket,West,4,127.05,508.2,5.0
+2025-04-15,Beauty,Mascara,West,1,21.38,21.38,4.1
+2025-04-15,Clothing,Sneakers,North,2,79.43,158.86,3.7
+2025-04-15,Beauty,Mascara,East,2,21.0,42.0,3.7
+2025-04-15,Clothing,T-Shirt,North,1,24.4,24.4,3.5
+2025-04-16,Sports,Yoga Mat,East,3,30.68,92.04,5.0
+2025-04-16,Clothing,Sneakers,South,1,80.18,80.18,4.7
+2025-04-16,Clothing,Jeans,North,1,58.3,58.3,3.4
+2025-04-16,Clothing,Sneakers,West,2,83.65,167.3,3.9
+2025-04-16,Beauty,Mascara,South,1,21.42,21.42,4.5
+2025-04-16,Sports,Bicycle,West,1,415.74,415.74,4.1
+2025-04-16,Home,Vacuum,South,1,173.73,173.73,5.0
+2025-04-16,Beauty,Face Cream,North,3,32.12,96.36,5.0
+2025-04-17,Home,Blender,West,2,53.28,106.56,3.9
+2025-04-17,Home,Coffee Maker,South,1,84.81,84.81,4.4
+2025-04-17,Sports,Dumbbell,East,4,41.63,166.52,3.5
+2025-04-17,Clothing,Sneakers,South,1,80.44,80.44,5.0
+2025-04-17,Electronics,Smartphone,South,3,644.19,1932.57,4.1
+2025-04-17,Beauty,Perfume,North,2,83.32,166.64,5.0
+2025-04-17,Electronics,Smartwatch,South,4,261.38,1045.52,4.6
+2025-04-17,Sports,Running Shoes,East,2,92.22,184.44,5.0
+2025-04-17,Electronics,Smartphone,West,1,669.15,669.15,4.9
+2025-04-18,Beauty,Lipstick,South,2,14.81,29.62,4.7
+2025-04-18,Clothing,T-Shirt,South,1,25.29,25.29,2.5
+2025-04-18,Sports,Bicycle,South,4,435.27,1741.08,4.2
+2025-04-18,Clothing,Jeans,North,1,61.48,61.48,5.0
+2025-04-18,Sports,Bicycle,South,1,460.28,460.28,3.2
+2025-04-18,Electronics,Headphones,South,1,137.25,137.25,3.8
+2025-04-18,Home,Vacuum,South,1,191.81,191.81,4.7
+2025-04-18,Clothing,Jeans,North,1,55.43,55.43,5.0
+2025-04-18,Clothing,Jacket,North,2,117.44,234.88,4.0
+2025-04-18,Home,Vacuum,North,1,182.55,182.55,3.7
+2025-04-18,Beauty,Lipstick,South,5,14.71,73.55,3.9
+2025-04-18,Clothing,Jeans,South,2,64.38,128.76,3.3
+2025-04-19,Clothing,T-Shirt,South,3,24.91,74.73,5.0
+2025-04-19,Electronics,Smartwatch,West,1,245.96,245.96,4.3
+2025-04-19,Clothing,Jeans,South,1,57.0,57.0,3.2
+2025-04-19,Clothing,Sneakers,East,3,73.64,220.92,4.4
+2025-04-19,Clothing,T-Shirt,North,1,25.52,25.52,4.5
+2025-04-19,Sports,Running Shoes,South,1,96.32,96.32,3.8
+2025-04-19,Sports,Dumbbell,East,2,43.19,86.38,4.5
+2025-04-20,Clothing,Jacket,South,2,119.43,238.86,2.9
+2025-04-20,Beauty,Lipstick,South,1,14.92,14.92,3.6
+2025-04-20,Clothing,T-Shirt,North,1,27.48,27.48,3.9
+2025-04-20,Sports,Running Shoes,East,3,84.66,253.98,2.9
+2025-04-20,Beauty,Mascara,West,1,21.23,21.23,2.2
+2025-04-20,Beauty,Perfume,West,1,85.27,85.27,4.3
+2025-04-20,Clothing,T-Shirt,East,2,27.21,54.42,4.6
+2025-04-20,Beauty,Lipstick,North,2,14.15,28.3,4.1
+2025-04-20,Sports,Bicycle,East,3,423.43,1270.29,4.1
+2025-04-21,Home,Vacuum,West,4,196.36,785.44,4.3
+2025-04-21,Beauty,Lipstick,East,3,14.63,43.89,5.0
+2025-04-21,Clothing,Jacket,East,2,121.02,242.04,4.1
+2025-04-21,Clothing,T-Shirt,South,2,24.47,48.94,5.0
+2025-04-21,Clothing,Sneakers,West,1,75.69,75.69,3.9
+2025-04-21,Electronics,Headphones,West,1,145.64,145.64,4.3
+2025-04-21,Clothing,Jeans,East,1,54.2,54.2,3.7
+2025-04-22,Beauty,Lipstick,East,2,14.73,29.46,4.0
+2025-04-22,Home,Blender,South,1,53.57,53.57,4.3
+2025-04-22,Clothing,Sneakers,North,3,84.76,254.28,3.0
+2025-04-22,Beauty,Perfume,West,2,84.11,168.22,2.1
+2025-04-22,Clothing,T-Shirt,South,1,24.9,24.9,2.4
+2025-04-22,Beauty,Face Cream,South,2,37.29,74.58,5.0
+2025-04-22,Beauty,Mascara,North,2,19.61,39.22,4.6
+2025-04-22,Sports,Yoga Mat,South,1,27.77,27.77,5.0
+2025-04-22,Beauty,Face Cream,North,1,32.91,32.91,4.0
+2025-04-22,Clothing,T-Shirt,East,1,27.44,27.44,3.7
+2025-04-22,Sports,Running Shoes,North,1,89.1,89.1,5.0
+2025-04-23,Electronics,Smartwatch,North,1,239.09,239.09,3.4
+2025-04-23,Sports,Dumbbell,North,1,36.38,36.38,3.9
+2025-04-23,Home,Blender,East,1,52.84,52.84,3.2
+2025-04-23,Electronics,Smartphone,North,5,740.88,3704.4,4.3
+2025-04-23,Electronics,Laptop,East,2,967.16,1934.32,2.9
+2025-04-23,Beauty,Mascara,South,4,19.11,76.44,4.4
+2025-04-23,Electronics,Laptop,East,5,980.99,4904.95,3.3
+2025-04-23,Home,Vacuum,North,1,176.12,176.12,3.5
+2025-04-23,Sports,Running Shoes,West,1,86.7,86.7,5.0
+2025-04-24,Home,Coffee Maker,North,3,87.25,261.75,4.7
+2025-04-24,Clothing,Jeans,East,1,60.45,60.45,4.3
+2025-04-24,Clothing,Jacket,South,2,124.63,249.26,5.0
+2025-04-24,Beauty,Mascara,North,1,18.22,18.22,5.0
+2025-04-24,Beauty,Mascara,West,1,18.24,18.24,4.0
+2025-04-24,Clothing,T-Shirt,East,1,25.56,25.56,3.7
+2025-04-24,Home,Blender,East,1,48.85,48.85,5.0
+2025-04-24,Beauty,Lipstick,East,1,15.23,15.23,3.9
+2025-04-24,Beauty,Mascara,North,3,18.75,56.25,3.8
+2025-04-25,Beauty,Perfume,South,1,85.52,85.52,3.9
+2025-04-25,Beauty,Perfume,East,2,74.23,148.46,4.4
+2025-04-25,Clothing,Jacket,West,1,110.22,110.22,5.0
+2025-04-25,Electronics,Headphones,North,4,142.32,569.28,4.8
+2025-04-25,Beauty,Mascara,North,1,21.56,21.56,4.0
+2025-04-25,Beauty,Lipstick,South,3,13.82,41.46,4.5
+2025-04-25,Beauty,Perfume,North,1,83.38,83.38,3.7
+2025-04-25,Beauty,Mascara,East,1,19.64,19.64,4.4
+2025-04-25,Beauty,Face Cream,South,3,31.52,94.56,4.2
+2025-04-25,Home,Blender,East,1,51.77,51.77,5.0
+2025-04-25,Clothing,Sneakers,East,3,72.49,217.47,4.7
+2025-04-26,Home,Blender,South,1,51.77,51.77,4.2
+2025-04-26,Electronics,Headphones,North,1,151.34,151.34,3.6
+2025-04-26,Electronics,Smartwatch,South,2,263.02,526.04,4.2
+2025-04-26,Sports,Bicycle,South,4,492.88,1971.52,4.0
+2025-04-26,Home,Sofa,North,2,576.39,1152.78,3.1
+2025-04-26,Electronics,Smartwatch,North,3,267.92,803.76,3.6
+2025-04-27,Electronics,Smartwatch,West,2,236.62,473.24,3.7
+2025-04-27,Home,Vacuum,South,3,172.95,518.85,3.8
+2025-04-27,Home,Sofa,South,4,658.07,2632.28,4.3
+2025-04-27,Sports,Bicycle,South,3,419.07,1257.21,3.5
+2025-04-27,Sports,Running Shoes,East,2,85.69,171.38,3.6
+2025-04-27,Clothing,Jeans,West,1,60.22,60.22,4.6
+2025-04-27,Home,Coffee Maker,East,4,86.34,345.36,4.5
+2025-04-27,Clothing,Jeans,West,1,59.57,59.57,3.5
+2025-04-27,Electronics,Laptop,East,1,932.71,932.71,3.0
+2025-04-27,Beauty,Lipstick,East,3,15.43,46.29,4.9
+2025-04-28,Electronics,Smartwatch,North,2,247.92,495.84,4.3
+2025-04-28,Sports,Dumbbell,South,1,39.99,39.99,3.9
+2025-04-28,Clothing,Jacket,West,1,131.98,131.98,4.4
+2025-04-28,Clothing,Sneakers,South,1,80.45,80.45,3.5
+2025-04-28,Home,Coffee Maker,East,1,88.84,88.84,4.8
+2025-04-28,Clothing,T-Shirt,East,1,23.6,23.6,5.0
+2025-04-28,Sports,Running Shoes,South,3,87.96,263.88,4.2
+2025-04-28,Home,Coffee Maker,West,2,85.95,171.9,4.6
+2025-04-28,Home,Blender,West,3,49.64,148.92,5.0
+2025-04-29,Clothing,Jacket,East,1,113.35,113.35,5.0
+2025-04-29,Clothing,Jacket,West,2,127.72,255.44,3.5
+2025-04-29,Beauty,Face Cream,North,1,37.88,37.88,4.5
+2025-04-29,Home,Blender,East,1,45.97,45.97,5.0
+2025-04-29,Electronics,Smartphone,South,4,695.66,2782.64,4.5
+2025-04-29,Clothing,Jeans,West,4,58.78,235.12,4.7
+2025-04-29,Home,Vacuum,North,2,174.79,349.58,4.0
+2025-04-29,Sports,Yoga Mat,South,1,28.84,28.84,5.0
+2025-04-29,Electronics,Smartwatch,North,2,231.98,463.96,3.2
+2025-04-29,Sports,Bicycle,West,1,446.34,446.34,5.0
+2025-04-30,Home,Vacuum,South,1,195.76,195.76,4.6
+2025-04-30,Electronics,Laptop,East,1,938.5,938.5,4.0
+2025-04-30,Electronics,Laptop,West,2,1016.51,2033.02,5.0
+2025-04-30,Clothing,T-Shirt,South,1,23.43,23.43,5.0
+2025-04-30,Beauty,Mascara,South,5,18.81,94.05,4.4
+2025-04-30,Electronics,Laptop,North,1,1019.27,1019.27,5.0
+2025-04-30,Sports,Dumbbell,South,1,37.65,37.65,5.0
+2025-04-30,Home,Vacuum,South,3,173.01,519.03,3.6
+2025-04-30,Clothing,Sneakers,North,3,73.69,221.07,4.4
+2025-04-30,Sports,Yoga Mat,South,1,31.66,31.66,5.0
+2025-04-30,Sports,Bicycle,East,1,490.53,490.53,4.6
+2025-04-30,Electronics,Laptop,East,1,1091.59,1091.59,3.2
+2025-04-30,Home,Sofa,South,1,614.55,614.55,4.4
+2025-04-30,Sports,Dumbbell,West,3,37.15,111.45,4.9
+2025-05-01,Home,Vacuum,East,2,167.64,335.28,4.2
+2025-05-01,Home,Coffee Maker,East,4,89.88,359.52,4.1
+2025-05-01,Beauty,Face Cream,North,1,37.77,37.77,5.0
+2025-05-01,Clothing,T-Shirt,East,4,23.34,93.36,4.7
+2025-05-01,Beauty,Lipstick,North,1,14.91,14.91,4.1
+2025-05-02,Beauty,Lipstick,East,1,13.81,13.81,3.9
+2025-05-02,Home,Coffee Maker,West,2,96.12,192.24,4.5
+2025-05-02,Beauty,Mascara,West,1,21.29,21.29,4.6
+2025-05-02,Sports,Bicycle,West,1,409.92,409.92,5.0
+2025-05-02,Sports,Yoga Mat,South,3,29.73,89.19,5.0
+2025-05-02,Electronics,Laptop,South,2,1038.36,2076.72,4.4
+2025-05-02,Home,Coffee Maker,East,1,85.07,85.07,3.9
+2025-05-02,Electronics,Headphones,East,1,162.31,162.31,4.7
+2025-05-02,Beauty,Lipstick,East,1,14.15,14.15,3.5
+2025-05-02,Clothing,Jacket,North,1,130.87,130.87,4.3
+2025-05-03,Electronics,Smartwatch,West,1,268.78,268.78,3.1
+2025-05-03,Clothing,T-Shirt,East,2,24.38,48.76,3.3
+2025-05-03,Electronics,Laptop,West,4,1079.63,4318.52,4.9
+2025-05-03,Beauty,Perfume,West,1,87.99,87.99,4.3
+2025-05-03,Beauty,Face Cream,South,1,36.25,36.25,4.3
+2025-05-04,Sports,Running Shoes,North,1,98.36,98.36,4.1
+2025-05-04,Home,Vacuum,South,3,171.78,515.34,3.6
+2025-05-04,Clothing,Jeans,South,2,59.03,118.06,4.0
+2025-05-04,Home,Coffee Maker,East,3,98.75,296.25,3.9
+2025-05-04,Electronics,Smartwatch,West,3,261.37,784.11,4.1
+2025-05-04,Clothing,T-Shirt,South,1,24.92,24.92,4.3
+2025-05-04,Electronics,Smartphone,North,1,700.0,700.0,4.2
+2025-05-04,Home,Coffee Maker,East,3,89.54,268.62,5.0
+2025-05-04,Clothing,T-Shirt,South,2,26.57,53.14,3.9
+2025-05-05,Clothing,Jeans,South,1,55.73,55.73,3.6
+2025-05-05,Sports,Bicycle,South,1,450.54,450.54,3.7
+2025-05-05,Electronics,Headphones,West,2,156.52,313.04,4.5
+2025-05-05,Clothing,Jacket,South,1,120.6,120.6,4.3
+2025-05-05,Sports,Running Shoes,West,1,93.93,93.93,3.5
+2025-05-05,Clothing,Sneakers,West,1,77.63,77.63,4.8
+2025-05-05,Sports,Dumbbell,North,1,39.33,39.33,4.5
+2025-05-05,Electronics,Headphones,South,2,141.13,282.26,4.9
+2025-05-05,Sports,Running Shoes,North,1,89.64,89.64,4.9
+2025-05-05,Clothing,Jeans,South,2,62.62,125.24,4.3
+2025-05-05,Beauty,Perfume,North,1,79.42,79.42,4.0
+2025-05-06,Clothing,Jacket,West,2,123.16,246.32,4.7
+2025-05-06,Clothing,T-Shirt,North,1,24.79,24.79,4.0
+2025-05-06,Beauty,Perfume,North,2,86.83,173.66,4.1
+2025-05-06,Clothing,Jacket,South,1,117.17,117.17,3.9
+2025-05-06,Electronics,Headphones,East,1,147.9,147.9,5.0
+2025-05-06,Beauty,Lipstick,East,2,14.24,28.48,4.8
+2025-05-06,Sports,Yoga Mat,West,1,27.47,27.47,5.0
+2025-05-06,Sports,Bicycle,West,2,424.86,849.72,4.5
+2025-05-06,Beauty,Face Cream,South,1,37.98,37.98,5.0
+2025-05-06,Electronics,Smartwatch,West,1,242.08,242.08,4.0
+2025-05-07,Clothing,Jeans,West,1,61.4,61.4,4.4
+2025-05-07,Home,Vacuum,South,2,194.36,388.72,4.1
+2025-05-07,Beauty,Mascara,West,4,21.59,86.36,4.3
+2025-05-07,Clothing,Sneakers,East,3,85.21,255.63,4.7
+2025-05-07,Sports,Dumbbell,North,1,43.62,43.62,3.8
+2025-05-07,Electronics,Smartphone,West,1,765.09,765.09,4.4
+2025-05-07,Beauty,Face Cream,East,1,32.5,32.5,4.2
+2025-05-08,Home,Blender,South,3,51.66,154.98,4.2
+2025-05-08,Sports,Bicycle,East,2,478.63,957.26,4.0
+2025-05-08,Electronics,Smartphone,North,1,737.12,737.12,4.5
+2025-05-08,Home,Coffee Maker,North,2,84.83,169.66,3.4
+2025-05-08,Electronics,Headphones,East,1,150.55,150.55,3.1
+2025-05-08,Home,Sofa,North,1,652.13,652.13,4.8
+2025-05-08,Electronics,Smartwatch,West,2,252.35,504.7,4.1
+2025-05-08,Sports,Yoga Mat,East,4,32.78,131.12,3.5
+2025-05-08,Beauty,Lipstick,West,1,15.66,15.66,3.0
+2025-05-08,Clothing,Jacket,West,1,110.32,110.32,5.0
+2025-05-08,Electronics,Smartphone,West,1,742.31,742.31,3.8
+2025-05-08,Home,Sofa,South,3,624.04,1872.12,4.1
+2025-05-08,Electronics,Laptop,North,1,938.33,938.33,3.1
+2025-05-09,Home,Coffee Maker,East,3,87.14,261.42,3.1
+2025-05-09,Electronics,Headphones,West,1,147.11,147.11,5.0
+2025-05-09,Home,Vacuum,East,2,183.76,367.52,4.0
+2025-05-09,Electronics,Smartwatch,South,4,236.94,947.76,3.5
+2025-05-09,Sports,Yoga Mat,East,2,28.26,56.52,3.8
+2025-05-09,Home,Vacuum,West,1,181.86,181.86,4.6
+2025-05-09,Beauty,Mascara,North,1,18.74,18.74,4.2
+2025-05-09,Home,Sofa,North,2,564.72,1129.44,4.2
+2025-05-10,Electronics,Headphones,North,4,163.36,653.44,3.9
+2025-05-10,Sports,Yoga Mat,North,3,28.19,84.57,5.0
+2025-05-10,Home,Blender,North,1,46.27,46.27,3.5
+2025-05-10,Beauty,Mascara,South,4,18.78,75.12,4.1
+2025-05-10,Beauty,Perfume,South,2,76.32,152.64,4.4
+2025-05-10,Beauty,Face Cream,West,2,31.77,63.54,3.1
+2025-05-10,Beauty,Face Cream,East,3,38.5,115.5,4.3
+2025-05-10,Beauty,Perfume,East,2,73.84,147.68,3.3
+2025-05-10,Sports,Yoga Mat,East,1,27.46,27.46,4.7
+2025-05-10,Beauty,Mascara,South,2,21.73,43.46,4.1
+2025-05-11,Clothing,Jacket,West,3,129.02,387.06,5.0
+2025-05-11,Clothing,Jeans,South,5,58.84,294.2,4.6
+2025-05-11,Home,Coffee Maker,East,1,82.13,82.13,3.4
+2025-05-11,Electronics,Laptop,South,1,1044.67,1044.67,4.0
+2025-05-11,Beauty,Mascara,South,3,20.92,62.76,4.4
+2025-05-11,Beauty,Perfume,West,5,78.52,392.6,4.3
+2025-05-11,Electronics,Headphones,East,2,150.36,300.72,3.8
+2025-05-11,Home,Sofa,West,1,608.6,608.6,4.2
+2025-05-11,Beauty,Perfume,West,1,75.86,75.86,5.0
+2025-05-11,Home,Sofa,South,1,570.82,570.82,4.2
+2025-05-11,Home,Vacuum,South,4,167.08,668.32,4.2
+2025-05-11,Beauty,Lipstick,East,2,13.72,27.44,4.8
+2025-05-12,Clothing,Jacket,West,1,130.75,130.75,4.1
+2025-05-12,Clothing,Jeans,South,2,63.47,126.94,4.5
+2025-05-12,Beauty,Face Cream,West,3,36.91,110.73,4.7
+2025-05-12,Clothing,T-Shirt,North,2,26.49,52.98,3.8
+2025-05-12,Beauty,Face Cream,South,4,32.74,130.96,3.3
+2025-05-12,Clothing,Jeans,West,2,58.68,117.36,4.3
+2025-05-12,Clothing,Jeans,West,1,55.91,55.91,4.9
+2025-05-12,Home,Blender,East,1,51.66,51.66,4.8
+2025-05-12,Electronics,Smartwatch,East,1,255.34,255.34,3.5
+2025-05-12,Clothing,T-Shirt,West,2,22.96,45.92,3.9
+2025-05-13,Clothing,Jacket,West,2,121.2,242.4,4.7
+2025-05-13,Sports,Running Shoes,East,3,98.83,296.49,5.0
+2025-05-13,Sports,Dumbbell,South,2,42.74,85.48,2.1
+2025-05-13,Home,Blender,West,4,54.0,216.0,5.0
+2025-05-13,Sports,Dumbbell,South,2,40.73,81.46,5.0
+2025-05-13,Sports,Yoga Mat,West,3,30.64,91.92,5.0
+2025-05-13,Home,Coffee Maker,East,1,87.91,87.91,4.4
+2025-05-13,Sports,Dumbbell,South,1,40.28,40.28,5.0
+2025-05-13,Clothing,Jacket,East,3,115.67,347.01,3.5
+2025-05-13,Electronics,Headphones,West,2,155.16,310.32,4.1
+2025-05-13,Home,Blender,North,2,46.64,93.28,4.2
+2025-05-13,Sports,Running Shoes,West,2,87.61,175.22,3.8
+2025-05-14,Sports,Dumbbell,North,2,43.47,86.94,5.0
+2025-05-14,Sports,Yoga Mat,North,2,27.51,55.02,3.5
+2025-05-14,Beauty,Lipstick,East,1,13.74,13.74,5.0
+2025-05-14,Electronics,Laptop,East,3,1036.52,3109.56,3.0
+2025-05-14,Sports,Yoga Mat,South,1,31.47,31.47,3.6
+2025-05-14,Beauty,Lipstick,South,1,15.49,15.49,5.0
+2025-05-14,Beauty,Mascara,West,1,21.47,21.47,5.0
+2025-05-14,Electronics,Smartphone,North,1,769.91,769.91,4.0
+2025-05-15,Electronics,Laptop,South,2,1089.0,2178.0,5.0
+2025-05-15,Beauty,Lipstick,West,2,16.22,32.44,3.1
+2025-05-15,Beauty,Face Cream,East,2,32.65,65.3,4.8
+2025-05-15,Beauty,Perfume,West,1,81.85,81.85,5.0
+2025-05-15,Electronics,Laptop,East,3,1048.26,3144.78,5.0
+2025-05-15,Clothing,Jacket,South,2,122.41,244.82,5.0
+2025-05-15,Home,Vacuum,North,3,171.58,514.74,3.7
+2025-05-15,Electronics,Smartwatch,East,1,256.69,256.69,5.0
+2025-05-15,Home,Sofa,West,3,592.87,1778.61,2.7
+2025-05-15,Electronics,Smartwatch,East,2,264.81,529.62,4.3
+2025-05-15,Sports,Dumbbell,North,1,41.98,41.98,4.4
+2025-05-15,Beauty,Mascara,East,1,19.58,19.58,2.7
+2025-05-15,Electronics,Headphones,South,1,158.92,158.92,3.2
+2025-05-15,Beauty,Face Cream,West,1,31.91,31.91,3.3
+2025-05-16,Electronics,Smartwatch,South,2,254.54,509.08,4.0
+2025-05-16,Home,Vacuum,West,1,179.67,179.67,5.0
+2025-05-16,Electronics,Smartphone,East,2,752.38,1504.76,5.0
+2025-05-16,Home,Sofa,East,1,563.78,563.78,2.8
+2025-05-16,Beauty,Perfume,South,1,87.95,87.95,3.8
+2025-05-16,Electronics,Laptop,East,2,946.08,1892.16,5.0
+2025-05-17,Beauty,Face Cream,East,1,33.04,33.04,4.1
+2025-05-17,Home,Coffee Maker,South,3,92.7,278.1,4.8
+2025-05-17,Beauty,Lipstick,West,1,15.28,15.28,5.0
+2025-05-17,Home,Sofa,East,1,656.45,656.45,4.2
+2025-05-17,Home,Blender,West,2,52.15,104.3,2.8
+2025-05-18,Electronics,Laptop,West,3,988.74,2966.22,3.3
+2025-05-18,Clothing,T-Shirt,North,1,23.51,23.51,4.0
+2025-05-18,Clothing,Sneakers,East,2,72.58,145.16,4.6
+2025-05-18,Sports,Running Shoes,East,1,93.3,93.3,2.8
+2025-05-18,Electronics,Smartwatch,South,2,264.95,529.9,4.7
+2025-05-18,Clothing,Jacket,East,2,120.89,241.78,3.8
+2025-05-18,Beauty,Face Cream,North,1,37.05,37.05,5.0
+2025-05-18,Clothing,T-Shirt,South,1,23.08,23.08,3.9
+2025-05-18,Clothing,Jacket,North,2,114.01,228.02,4.1
+2025-05-18,Home,Sofa,South,2,656.47,1312.94,5.0
+2025-05-18,Sports,Bicycle,South,1,449.53,449.53,4.3
+2025-05-18,Clothing,Jeans,West,1,63.0,63.0,5.0
+2025-05-18,Sports,Bicycle,North,3,405.76,1217.28,3.5
+2025-05-18,Sports,Bicycle,North,2,484.33,968.66,5.0
+2025-05-19,Clothing,Jacket,South,1,111.72,111.72,4.6
+2025-05-19,Sports,Running Shoes,North,2,94.46,188.92,5.0
+2025-05-19,Electronics,Smartphone,West,1,753.38,753.38,4.6
+2025-05-19,Beauty,Lipstick,West,2,16.28,32.56,4.4
+2025-05-19,Home,Coffee Maker,South,1,94.31,94.31,3.5
+2025-05-19,Home,Coffee Maker,North,1,86.17,86.17,5.0
+2025-05-19,Electronics,Smartwatch,South,1,240.08,240.08,4.5
+2025-05-19,Beauty,Mascara,West,2,21.68,43.36,4.7
+2025-05-19,Electronics,Laptop,North,1,1088.89,1088.89,2.1
+2025-05-19,Clothing,Jacket,West,4,120.88,483.52,5.0
+2025-05-19,Home,Blender,East,2,45.87,91.74,4.3
+2025-05-19,Clothing,Jeans,North,1,56.4,56.4,3.9
+2025-05-19,Clothing,Sneakers,East,2,76.89,153.78,5.0
+2025-05-20,Beauty,Perfume,West,1,76.57,76.57,4.7
+2025-05-20,Beauty,Perfume,South,1,83.19,83.19,4.5
+2025-05-20,Clothing,T-Shirt,South,1,22.85,22.85,3.5
+2025-05-20,Sports,Dumbbell,South,3,39.6,118.8,4.2
+2025-05-20,Home,Sofa,East,1,599.7,599.7,5.0
+2025-05-21,Electronics,Smartphone,South,3,642.43,1927.29,3.4
+2025-05-21,Beauty,Perfume,East,1,76.02,76.02,3.8
+2025-05-21,Clothing,T-Shirt,East,1,25.3,25.3,3.8
+2025-05-21,Sports,Running Shoes,North,1,94.62,94.62,5.0
+2025-05-21,Beauty,Perfume,North,1,74.09,74.09,3.7
+2025-05-21,Beauty,Face Cream,East,2,37.51,75.02,4.8
+2025-05-21,Clothing,Jeans,West,3,57.13,171.39,5.0
+2025-05-21,Clothing,Sneakers,North,1,80.7,80.7,5.0
+2025-05-21,Home,Vacuum,South,1,176.95,176.95,4.1
+2025-05-21,Clothing,Jacket,North,3,116.53,349.59,2.7
+2025-05-21,Clothing,T-Shirt,South,1,22.62,22.62,3.8
+2025-05-21,Electronics,Laptop,North,1,953.43,953.43,3.1
+2025-05-21,Beauty,Mascara,North,1,18.39,18.39,4.9
+2025-05-21,Home,Blender,North,2,46.54,93.08,4.6
+2025-05-22,Sports,Bicycle,North,3,484.82,1454.46,5.0
+2025-05-22,Sports,Dumbbell,North,1,42.86,42.86,4.5
+2025-05-22,Beauty,Perfume,East,1,86.94,86.94,4.4
+2025-05-22,Electronics,Laptop,South,1,1077.71,1077.71,3.2
+2025-05-22,Electronics,Smartphone,East,2,740.6,1481.2,4.6
+2025-05-22,Clothing,T-Shirt,North,5,22.87,114.35,4.7
+2025-05-22,Electronics,Laptop,North,2,922.84,1845.68,3.2
+2025-05-22,Beauty,Lipstick,East,2,16.01,32.02,4.5
+2025-05-22,Electronics,Smartwatch,North,1,239.02,239.02,3.8
+2025-05-22,Electronics,Smartphone,North,2,708.37,1416.74,3.6
+2025-05-22,Sports,Running Shoes,West,1,86.91,86.91,4.5
+2025-05-23,Beauty,Mascara,East,2,19.15,38.3,4.9
+2025-05-23,Sports,Running Shoes,South,1,91.59,91.59,5.0
+2025-05-23,Beauty,Mascara,North,3,19.6,58.8,2.5
+2025-05-23,Clothing,Sneakers,South,2,85.61,171.22,3.8
+2025-05-23,Electronics,Laptop,North,1,1037.67,1037.67,4.9
+2025-05-23,Beauty,Face Cream,East,1,33.69,33.69,3.6
+2025-05-23,Home,Sofa,South,2,583.83,1167.66,4.2
+2025-05-23,Electronics,Headphones,North,1,147.79,147.79,5.0
+2025-05-23,Electronics,Headphones,West,2,159.23,318.46,3.6
+2025-05-23,Electronics,Smartwatch,West,3,271.63,814.89,4.1
+2025-05-24,Clothing,Jacket,South,1,131.18,131.18,5.0
+2025-05-24,Clothing,Jeans,South,1,60.21,60.21,3.9
+2025-05-24,Beauty,Mascara,South,1,21.62,21.62,5.0
+2025-05-24,Home,Blender,North,2,47.89,95.78,5.0
+2025-05-24,Clothing,Jeans,South,1,64.91,64.91,4.7
+2025-05-24,Clothing,Jacket,West,1,120.18,120.18,4.0
+2025-05-24,Electronics,Headphones,North,1,153.07,153.07,5.0
+2025-05-24,Sports,Running Shoes,West,4,85.95,343.8,3.7
+2025-05-24,Electronics,Headphones,East,2,137.33,274.66,4.4
+2025-05-24,Sports,Dumbbell,South,1,38.45,38.45,3.8
+2025-05-24,Sports,Bicycle,South,1,434.57,434.57,2.9
+2025-05-24,Clothing,Jeans,West,2,59.83,119.66,4.3
+2025-05-24,Clothing,Jacket,East,1,130.48,130.48,3.6
+2025-05-24,Electronics,Smartwatch,East,1,250.5,250.5,4.1
+2025-05-25,Clothing,Sneakers,South,2,84.82,169.64,2.3
+2025-05-25,Electronics,Headphones,North,1,140.99,140.99,3.1
+2025-05-25,Electronics,Smartwatch,North,1,265.06,265.06,4.8
+2025-05-25,Sports,Bicycle,North,4,410.24,1640.96,3.2
+2025-05-25,Beauty,Mascara,West,2,21.64,43.28,5.0
+2025-05-25,Beauty,Mascara,West,3,18.69,56.07,4.3
+2025-05-25,Sports,Dumbbell,West,2,41.19,82.38,5.0
+2025-05-25,Clothing,Jeans,South,1,55.12,55.12,2.6
+2025-05-25,Sports,Yoga Mat,South,1,31.54,31.54,4.0
+2025-05-25,Electronics,Laptop,South,1,1034.6,1034.6,5.0
+2025-05-26,Electronics,Smartwatch,East,1,247.34,247.34,4.5
+2025-05-26,Beauty,Mascara,West,1,20.57,20.57,3.5
+2025-05-26,Electronics,Headphones,South,4,146.99,587.96,3.0
+2025-05-26,Clothing,Jacket,West,3,111.04,333.12,5.0
+2025-05-26,Beauty,Perfume,South,2,81.23,162.46,3.2
+2025-05-26,Electronics,Smartphone,West,2,691.05,1382.1,4.6
+2025-05-27,Home,Vacuum,South,4,181.32,725.28,4.7
+2025-05-27,Electronics,Smartphone,North,1,672.45,672.45,3.2
+2025-05-27,Sports,Bicycle,North,1,426.66,426.66,4.1
+2025-05-27,Beauty,Perfume,East,4,82.67,330.68,5.0
+2025-05-27,Home,Coffee Maker,East,1,88.06,88.06,3.0
+2025-05-27,Home,Coffee Maker,West,2,87.78,175.56,3.7
+2025-05-27,Clothing,T-Shirt,East,2,25.53,51.06,3.6
+2025-05-27,Home,Coffee Maker,West,1,85.34,85.34,5.0
+2025-05-27,Beauty,Lipstick,South,3,16.38,49.14,3.6
+2025-05-27,Sports,Running Shoes,East,2,94.19,188.38,3.7
+2025-05-27,Electronics,Laptop,West,4,1072.69,4290.76,4.8
+2025-05-27,Beauty,Mascara,North,1,21.45,21.45,4.3
+2025-05-27,Electronics,Smartphone,South,1,760.57,760.57,5.0
+2025-05-28,Electronics,Smartphone,North,1,648.97,648.97,3.8
+2025-05-28,Home,Blender,North,1,49.9,49.9,4.9
+2025-05-28,Electronics,Smartphone,South,1,707.83,707.83,3.9
+2025-05-28,Beauty,Mascara,South,1,20.54,20.54,4.2
+2025-05-28,Home,Sofa,South,4,569.08,2276.32,3.9
+2025-05-28,Beauty,Perfume,East,3,75.54,226.62,4.2
+2025-05-28,Beauty,Mascara,East,2,20.55,41.1,3.5
+2025-05-28,Beauty,Face Cream,North,2,34.89,69.78,5.0
+2025-05-29,Sports,Bicycle,East,1,460.67,460.67,4.4
+2025-05-29,Electronics,Headphones,West,1,144.29,144.29,4.6
+2025-05-29,Sports,Yoga Mat,East,3,28.42,85.26,4.3
+2025-05-29,Beauty,Face Cream,East,2,34.9,69.8,4.6
+2025-05-29,Clothing,Sneakers,North,2,78.65,157.3,4.1
+2025-05-29,Sports,Bicycle,North,3,486.73,1460.19,4.8
+2025-05-29,Electronics,Headphones,South,1,156.03,156.03,4.2
+2025-05-29,Home,Vacuum,South,1,179.35,179.35,5.0
+2025-05-29,Electronics,Laptop,South,3,934.47,2803.41,4.3
+2025-05-29,Clothing,Jacket,North,5,112.74,563.7,4.9
+2025-05-29,Electronics,Laptop,South,1,1089.16,1089.16,3.6
+2025-05-29,Electronics,Headphones,East,1,157.61,157.61,4.9
+2025-05-30,Electronics,Smartwatch,West,1,257.78,257.78,4.9
+2025-05-30,Home,Blender,South,1,49.62,49.62,3.7
+2025-05-30,Sports,Bicycle,South,3,411.31,1233.93,1.9
+2025-05-30,Home,Coffee Maker,West,3,83.38,250.14,4.2
+2025-05-30,Clothing,Sneakers,North,3,79.73,239.19,5.0
+2025-05-30,Home,Sofa,South,2,655.43,1310.86,3.7
+2025-05-30,Clothing,Sneakers,West,1,80.02,80.02,5.0
+2025-05-30,Sports,Bicycle,South,1,448.02,448.02,3.8
+2025-05-30,Clothing,T-Shirt,North,2,25.01,50.02,3.7
+2025-05-31,Electronics,Laptop,West,2,1062.55,2125.1,5.0
+2025-05-31,Electronics,Laptop,East,1,993.1,993.1,4.8
+2025-05-31,Clothing,Jeans,South,1,64.98,64.98,5.0
+2025-05-31,Sports,Running Shoes,East,1,88.32,88.32,4.0
+2025-05-31,Electronics,Headphones,West,3,137.14,411.42,5.0
+2025-05-31,Electronics,Smartwatch,East,2,253.29,506.58,3.9
+2025-05-31,Beauty,Mascara,North,1,21.44,21.44,3.6
+2025-05-31,Clothing,Jacket,West,3,109.76,329.28,4.7
+2025-05-31,Beauty,Mascara,North,3,20.45,61.35,3.9
+2025-05-31,Clothing,T-Shirt,East,3,27.34,82.02,4.3
+2025-06-01,Home,Coffee Maker,South,1,82.01,82.01,4.0
+2025-06-01,Clothing,T-Shirt,West,1,24.11,24.11,3.1
+2025-06-01,Electronics,Smartwatch,West,2,227.19,454.38,5.0
+2025-06-01,Sports,Dumbbell,East,3,38.61,115.83,2.8
+2025-06-01,Sports,Running Shoes,East,1,87.95,87.95,3.5
+2025-06-01,Clothing,T-Shirt,South,2,27.32,54.64,4.2
+2025-06-01,Clothing,T-Shirt,South,3,24.66,73.98,3.9
+2025-06-01,Electronics,Headphones,North,1,152.11,152.11,4.5
+2025-06-01,Electronics,Smartphone,North,1,706.28,706.28,3.4
+2025-06-01,Electronics,Smartwatch,North,2,273.09,546.18,4.3
+2025-06-01,Clothing,Jeans,East,1,55.9,55.9,3.8
+2025-06-01,Sports,Yoga Mat,South,2,31.81,63.62,3.5
+2025-06-02,Beauty,Mascara,West,2,19.03,38.06,3.0
+2025-06-02,Clothing,Sneakers,North,4,72.5,290.0,2.7
+2025-06-02,Beauty,Perfume,West,1,87.83,87.83,4.4
+2025-06-02,Clothing,T-Shirt,West,1,27.24,27.24,3.0
+2025-06-02,Sports,Running Shoes,South,2,95.64,191.28,5.0
+2025-06-03,Home,Sofa,South,2,609.14,1218.28,4.2
+2025-06-03,Electronics,Laptop,East,1,953.55,953.55,3.3
+2025-06-03,Sports,Running Shoes,West,1,97.93,97.93,4.2
+2025-06-03,Sports,Yoga Mat,North,5,31.56,157.8,3.7
+2025-06-03,Sports,Yoga Mat,South,1,31.24,31.24,4.9
+2025-06-03,Home,Coffee Maker,South,1,89.64,89.64,3.2
+2025-06-03,Sports,Dumbbell,North,1,40.12,40.12,4.4
+2025-06-03,Home,Vacuum,South,1,172.74,172.74,5.0
+2025-06-03,Home,Vacuum,West,2,171.04,342.08,4.2
+2025-06-03,Clothing,T-Shirt,East,2,25.4,50.8,5.0
+2025-06-03,Electronics,Smartphone,West,1,633.39,633.39,3.9
+2025-06-03,Beauty,Lipstick,East,1,15.94,15.94,4.4
+2025-06-03,Clothing,Jeans,East,1,57.0,57.0,4.7
+2025-06-03,Sports,Running Shoes,West,1,90.24,90.24,5.0
+2025-06-04,Electronics,Laptop,East,1,984.84,984.84,4.8
+2025-06-04,Sports,Bicycle,South,1,482.76,482.76,3.8
+2025-06-04,Electronics,Smartwatch,West,1,260.71,260.71,3.5
+2025-06-04,Sports,Bicycle,East,2,454.89,909.78,5.0
+2025-06-04,Beauty,Face Cream,South,2,36.15,72.3,3.9
+2025-06-04,Sports,Yoga Mat,East,3,31.91,95.73,2.8
+2025-06-04,Home,Coffee Maker,East,1,85.1,85.1,4.5
+2025-06-04,Beauty,Lipstick,South,4,15.76,63.04,3.5
+2025-06-04,Home,Blender,North,1,52.61,52.61,3.9
+2025-06-04,Clothing,T-Shirt,South,2,23.84,47.68,4.6
+2025-06-04,Electronics,Laptop,East,5,958.14,4790.7,4.1
+2025-06-04,Electronics,Smartphone,South,1,715.53,715.53,4.4
+2025-06-05,Sports,Yoga Mat,North,3,32.01,96.03,3.3
+2025-06-05,Sports,Yoga Mat,East,2,32.22,64.44,5.0
+2025-06-05,Electronics,Laptop,West,1,1033.48,1033.48,4.1
+2025-06-05,Clothing,Sneakers,South,1,83.61,83.61,5.0
+2025-06-05,Sports,Bicycle,North,1,466.08,466.08,4.3
+2025-06-06,Sports,Dumbbell,East,3,40.56,121.68,4.6
+2025-06-06,Sports,Running Shoes,North,1,96.31,96.31,4.6
+2025-06-06,Clothing,T-Shirt,North,3,23.88,71.64,5.0
+2025-06-06,Clothing,Jeans,North,1,58.98,58.98,4.7
+2025-06-06,Beauty,Mascara,North,4,19.98,79.92,4.3
+2025-06-06,Clothing,Jacket,South,1,127.69,127.69,4.8
+2025-06-06,Home,Sofa,East,2,626.54,1253.08,3.7
+2025-06-06,Clothing,Jeans,North,2,61.35,122.7,5.0
+2025-06-06,Sports,Running Shoes,North,2,85.04,170.08,4.8
+2025-06-06,Sports,Running Shoes,West,1,87.32,87.32,3.2
+2025-06-06,Clothing,Jacket,South,2,118.03,236.06,3.9
+2025-06-07,Electronics,Smartwatch,North,3,237.63,712.89,4.4
+2025-06-07,Clothing,Sneakers,West,2,85.69,171.38,4.3
+2025-06-07,Sports,Dumbbell,North,2,37.51,75.02,5.0
+2025-06-07,Home,Coffee Maker,West,1,87.29,87.29,4.3
+2025-06-07,Sports,Bicycle,East,1,487.79,487.79,4.7
+2025-06-07,Electronics,Smartphone,West,1,631.17,631.17,2.5
+2025-06-07,Home,Sofa,North,2,598.57,1197.14,3.6
+2025-06-07,Electronics,Laptop,North,1,1041.13,1041.13,5.0
+2025-06-07,Sports,Bicycle,West,2,470.76,941.52,4.6
+2025-06-07,Clothing,T-Shirt,South,3,26.93,80.79,4.8
+2025-06-08,Home,Vacuum,North,1,188.45,188.45,4.6
+2025-06-08,Electronics,Headphones,South,3,160.22,480.66,3.7
+2025-06-08,Electronics,Headphones,South,1,144.4,144.4,4.0
+2025-06-08,Home,Sofa,West,1,616.63,616.63,4.9
+2025-06-08,Sports,Bicycle,East,3,444.42,1333.26,3.3
+2025-06-08,Home,Coffee Maker,North,1,93.26,93.26,4.4
+2025-06-08,Electronics,Laptop,South,3,1080.24,3240.72,5.0
+2025-06-08,Clothing,Jeans,East,3,64.05,192.15,4.0
+2025-06-08,Clothing,T-Shirt,North,1,22.78,22.78,2.6
+2025-06-08,Clothing,Jacket,West,3,113.11,339.33,3.7
+2025-06-08,Electronics,Headphones,South,1,141.0,141.0,3.6
+2025-06-08,Sports,Running Shoes,South,3,91.25,273.75,4.3
+2025-06-09,Electronics,Smartwatch,West,2,230.51,461.02,4.4
+2025-06-09,Sports,Dumbbell,North,2,38.53,77.06,4.0
+2025-06-09,Home,Sofa,North,3,623.14,1869.42,5.0
+2025-06-09,Sports,Running Shoes,South,5,98.54,492.7,3.6
+2025-06-09,Beauty,Perfume,South,4,83.99,335.96,4.2
+2025-06-10,Home,Coffee Maker,South,2,94.83,189.66,4.8
+2025-06-10,Electronics,Smartwatch,South,2,260.95,521.9,3.7
+2025-06-10,Home,Sofa,East,2,652.32,1304.64,4.5
+2025-06-10,Home,Coffee Maker,South,1,97.16,97.16,3.8
+2025-06-10,Home,Blender,South,3,51.95,155.85,4.4
+2025-06-10,Home,Blender,South,2,52.62,105.24,3.2
+2025-06-10,Clothing,Sneakers,East,1,87.27,87.27,3.7
+2025-06-11,Clothing,T-Shirt,North,2,27.43,54.86,4.5
+2025-06-11,Home,Coffee Maker,East,3,89.33,267.99,4.4
+2025-06-11,Beauty,Face Cream,West,1,34.2,34.2,4.3
+2025-06-11,Clothing,Jacket,East,1,123.97,123.97,5.0
+2025-06-11,Beauty,Lipstick,West,1,15.71,15.71,5.0
+2025-06-11,Electronics,Smartwatch,West,4,225.69,902.76,3.5
+2025-06-11,Beauty,Lipstick,West,1,15.56,15.56,3.0
+2025-06-11,Sports,Yoga Mat,South,2,32.77,65.54,3.8
+2025-06-11,Clothing,Sneakers,West,1,81.82,81.82,5.0
+2025-06-11,Electronics,Headphones,North,3,150.84,452.52,3.6
+2025-06-11,Home,Coffee Maker,North,2,93.94,187.88,3.4
+2025-06-11,Sports,Yoga Mat,East,1,27.15,27.15,4.9
+2025-06-11,Home,Coffee Maker,North,2,97.79,195.58,4.9
+2025-06-11,Home,Vacuum,South,2,180.01,360.02,3.1
+2025-06-12,Sports,Bicycle,North,2,443.6,887.2,3.6
+2025-06-12,Sports,Dumbbell,South,1,38.52,38.52,3.5
+2025-06-12,Sports,Running Shoes,West,2,85.46,170.92,3.8
+2025-06-12,Electronics,Headphones,West,1,149.44,149.44,4.7
+2025-06-12,Sports,Running Shoes,West,2,92.24,184.48,4.4
+2025-06-12,Clothing,T-Shirt,South,2,24.56,49.12,3.7
+2025-06-12,Sports,Running Shoes,South,1,97.73,97.73,2.6
+2025-06-13,Clothing,Jacket,West,2,108.86,217.72,3.2
+2025-06-13,Electronics,Headphones,North,3,162.18,486.54,2.2
+2025-06-13,Home,Vacuum,North,1,164.42,164.42,3.6
+2025-06-13,Sports,Bicycle,West,1,479.89,479.89,5.0
+2025-06-13,Beauty,Mascara,East,1,19.98,19.98,3.3
+2025-06-13,Sports,Bicycle,North,1,484.37,484.37,2.7
+2025-06-13,Beauty,Mascara,West,1,18.77,18.77,5.0
+2025-06-13,Electronics,Headphones,South,1,160.18,160.18,5.0
+2025-06-14,Beauty,Perfume,West,1,78.22,78.22,5.0
+2025-06-14,Clothing,Jacket,South,3,121.19,363.57,3.8
+2025-06-14,Sports,Bicycle,South,2,418.54,837.08,3.2
+2025-06-14,Home,Sofa,North,3,598.87,1796.61,4.1
+2025-06-14,Sports,Bicycle,East,1,456.93,456.93,5.0
+2025-06-14,Sports,Running Shoes,West,1,81.8,81.8,4.9
+2025-06-15,Home,Blender,East,1,45.49,45.49,3.7
+2025-06-15,Electronics,Laptop,South,1,924.25,924.25,5.0
+2025-06-15,Beauty,Face Cream,West,1,31.76,31.76,3.3
+2025-06-15,Electronics,Smartwatch,East,3,267.67,803.01,3.7
+2025-06-15,Beauty,Lipstick,East,1,15.29,15.29,4.6
+2025-06-15,Electronics,Headphones,East,2,150.29,300.58,3.9
+2025-06-15,Clothing,Jeans,North,1,56.51,56.51,2.4
+2025-06-15,Beauty,Lipstick,South,3,16.48,49.44,3.2
+2025-06-15,Home,Blender,South,1,51.03,51.03,5.0
+2025-06-15,Home,Vacuum,East,3,194.9,584.7,4.6
+2025-06-15,Beauty,Face Cream,West,1,37.79,37.79,5.0
+2025-06-15,Sports,Yoga Mat,South,4,30.62,122.48,4.0
+2025-06-16,Home,Blender,South,1,50.16,50.16,4.1
+2025-06-16,Electronics,Laptop,North,1,903.67,903.67,4.6
+2025-06-16,Home,Blender,East,1,47.2,47.2,5.0
+2025-06-16,Clothing,T-Shirt,East,1,26.69,26.69,3.5
+2025-06-16,Sports,Bicycle,East,1,433.34,433.34,4.5
+2025-06-16,Clothing,Jacket,West,1,114.23,114.23,5.0
+2025-06-16,Clothing,Jeans,East,4,55.15,220.6,4.9
+2025-06-16,Electronics,Headphones,West,3,136.87,410.61,4.4
+2025-06-16,Clothing,T-Shirt,South,2,24.74,49.48,3.7
+2025-06-17,Beauty,Perfume,West,1,84.36,84.36,3.5
+2025-06-17,Sports,Yoga Mat,South,1,28.5,28.5,5.0
+2025-06-17,Clothing,T-Shirt,North,1,23.65,23.65,3.8
+2025-06-17,Home,Sofa,West,1,617.07,617.07,4.7
+2025-06-17,Sports,Dumbbell,East,3,42.81,128.43,4.8
+2025-06-17,Home,Sofa,East,1,657.57,657.57,3.7
+2025-06-17,Clothing,Jeans,East,2,55.23,110.46,3.7
+2025-06-18,Beauty,Face Cream,South,1,32.39,32.39,4.9
+2025-06-18,Beauty,Face Cream,North,1,36.92,36.92,4.6
+2025-06-18,Beauty,Face Cream,East,1,32.36,32.36,3.3
+2025-06-18,Home,Coffee Maker,North,1,83.76,83.76,4.7
+2025-06-18,Beauty,Perfume,East,1,78.97,78.97,3.8
+2025-06-19,Clothing,T-Shirt,East,1,26.67,26.67,5.0
+2025-06-19,Clothing,T-Shirt,North,1,24.07,24.07,5.0
+2025-06-19,Electronics,Smartphone,West,1,755.02,755.02,2.2
+2025-06-19,Clothing,Sneakers,West,1,75.84,75.84,4.9
+2025-06-19,Beauty,Perfume,North,2,87.62,175.24,4.0
+2025-06-19,Electronics,Smartwatch,East,3,265.37,796.11,3.1
+2025-06-19,Electronics,Smartwatch,East,2,265.06,530.12,4.2
+2025-06-19,Clothing,Jeans,North,1,62.22,62.22,3.1
+2025-06-19,Home,Vacuum,North,1,179.38,179.38,3.5
+2025-06-19,Home,Sofa,South,1,603.58,603.58,5.0
+2025-06-19,Sports,Dumbbell,East,1,43.88,43.88,3.6
+2025-06-19,Home,Vacuum,North,1,193.22,193.22,4.0
+2025-06-19,Electronics,Smartwatch,South,1,253.06,253.06,3.9
+2025-06-19,Home,Sofa,North,2,655.66,1311.32,4.5
+2025-06-20,Clothing,T-Shirt,South,1,24.51,24.51,5.0
+2025-06-20,Home,Sofa,East,1,578.51,578.51,4.6
+2025-06-20,Home,Vacuum,North,3,169.08,507.24,4.5
+2025-06-20,Home,Vacuum,South,1,175.86,175.86,3.7
+2025-06-20,Home,Coffee Maker,East,1,83.28,83.28,2.3
+2025-06-20,Home,Vacuum,East,2,197.52,395.04,3.9
+2025-06-20,Beauty,Perfume,South,1,79.78,79.78,3.1
+2025-06-20,Electronics,Headphones,East,1,136.21,136.21,4.9
+2025-06-20,Electronics,Headphones,East,1,141.71,141.71,4.2
+2025-06-20,Electronics,Laptop,North,1,1004.03,1004.03,4.4
+2025-06-20,Beauty,Perfume,North,1,83.12,83.12,3.7
+2025-06-20,Sports,Dumbbell,West,1,40.62,40.62,3.2
+2025-06-20,Home,Blender,North,1,54.37,54.37,3.2
+2025-06-20,Electronics,Headphones,North,1,144.16,144.16,4.8
+2025-06-21,Sports,Dumbbell,West,1,41.85,41.85,4.5
+2025-06-21,Beauty,Lipstick,South,3,16.29,48.87,3.7
+2025-06-21,Clothing,Jacket,North,1,129.55,129.55,2.5
+2025-06-21,Home,Blender,South,1,49.23,49.23,4.8
+2025-06-21,Sports,Running Shoes,North,1,86.84,86.84,2.9
+2025-06-21,Sports,Yoga Mat,West,1,27.29,27.29,3.9
+2025-06-21,Clothing,Jeans,West,1,54.29,54.29,5.0
+2025-06-21,Sports,Dumbbell,North,1,36.32,36.32,3.2
+2025-06-22,Beauty,Mascara,West,1,20.86,20.86,3.9
+2025-06-22,Sports,Bicycle,South,3,421.51,1264.53,3.5
+2025-06-22,Beauty,Face Cream,East,2,35.68,71.36,5.0
+2025-06-22,Beauty,Perfume,South,1,73.73,73.73,4.1
+2025-06-22,Clothing,T-Shirt,North,1,25.75,25.75,3.3
+2025-06-22,Electronics,Headphones,West,3,156.69,470.07,4.5
+2025-06-22,Home,Blender,North,1,49.41,49.41,4.2
+2025-06-22,Clothing,Sneakers,South,1,84.55,84.55,3.6
+2025-06-22,Sports,Dumbbell,West,2,42.73,85.46,4.0
+2025-06-22,Electronics,Laptop,East,2,995.88,1991.76,4.3
+2025-06-22,Sports,Bicycle,North,1,423.1,423.1,3.5
+2025-06-23,Clothing,Jacket,South,3,123.36,370.08,2.8
+2025-06-23,Home,Vacuum,West,3,172.75,518.25,4.7
+2025-06-23,Home,Sofa,East,1,562.16,562.16,4.5
+2025-06-23,Electronics,Smartphone,North,3,639.1,1917.3,4.1
+2025-06-23,Sports,Yoga Mat,North,3,29.59,88.77,5.0
+2025-06-23,Beauty,Mascara,West,1,19.95,19.95,4.7
+2025-06-23,Beauty,Lipstick,East,1,13.58,13.58,4.6
+2025-06-24,Beauty,Mascara,East,1,18.39,18.39,5.0
+2025-06-24,Home,Blender,North,1,50.31,50.31,4.1
+2025-06-24,Electronics,Laptop,West,1,1068.66,1068.66,5.0
+2025-06-24,Electronics,Smartwatch,North,1,255.92,255.92,5.0
+2025-06-24,Electronics,Laptop,West,2,1037.85,2075.7,2.7
+2025-06-25,Clothing,Jacket,East,1,120.01,120.01,5.0
+2025-06-25,Home,Vacuum,North,2,168.14,336.28,3.8
+2025-06-25,Beauty,Perfume,West,1,83.25,83.25,4.7
+2025-06-25,Beauty,Face Cream,South,1,35.74,35.74,4.7
+2025-06-25,Home,Coffee Maker,West,1,95.53,95.53,5.0
+2025-06-25,Clothing,Jacket,North,1,128.31,128.31,4.4
+2025-06-26,Sports,Yoga Mat,East,2,27.01,54.02,4.4
+2025-06-26,Beauty,Face Cream,West,1,33.95,33.95,4.5
+2025-06-26,Electronics,Headphones,West,1,152.15,152.15,5.0
+2025-06-26,Clothing,Jacket,South,1,111.13,111.13,3.6
+2025-06-26,Home,Coffee Maker,West,1,85.79,85.79,3.9
+2025-06-26,Beauty,Perfume,North,1,79.2,79.2,3.3
+2025-06-26,Home,Coffee Maker,North,1,92.77,92.77,5.0
+2025-06-26,Sports,Bicycle,South,5,428.52,2142.6,3.3
+2025-06-26,Clothing,Jacket,East,2,110.76,221.52,3.6
+2025-06-27,Sports,Dumbbell,West,2,37.13,74.26,4.6
+2025-06-27,Sports,Running Shoes,North,1,97.23,97.23,4.1
+2025-06-27,Home,Coffee Maker,South,1,82.82,82.82,4.5
+2025-06-27,Electronics,Smartwatch,South,1,227.79,227.79,4.3
+2025-06-27,Home,Coffee Maker,South,2,82.53,165.06,4.5
+2025-06-27,Sports,Dumbbell,West,4,43.42,173.68,4.3
+2025-06-27,Sports,Running Shoes,West,3,83.46,250.38,3.9
+2025-06-27,Clothing,Sneakers,West,1,80.89,80.89,4.8
+2025-06-27,Electronics,Headphones,West,2,151.62,303.24,4.4
+2025-06-27,Home,Blender,South,2,45.0,90.0,4.6
+2025-06-27,Sports,Dumbbell,North,1,43.07,43.07,4.0
+2025-06-28,Clothing,Jacket,West,1,116.56,116.56,3.3
+2025-06-28,Beauty,Perfume,East,1,74.51,74.51,3.9
+2025-06-28,Electronics,Headphones,West,2,146.75,293.5,4.2
+2025-06-28,Electronics,Headphones,East,2,135.54,271.08,4.4
+2025-06-28,Beauty,Lipstick,South,1,16.16,16.16,5.0
+2025-06-28,Beauty,Lipstick,West,1,15.95,15.95,4.4
+2025-06-28,Beauty,Perfume,West,1,84.85,84.85,5.0
+2025-06-28,Beauty,Lipstick,West,4,16.41,65.64,3.7
+2025-06-28,Clothing,Sneakers,West,2,73.07,146.14,4.1
+2025-06-29,Sports,Dumbbell,North,4,39.36,157.44,5.0
+2025-06-29,Home,Blender,North,3,54.19,162.57,4.7
+2025-06-29,Home,Blender,North,1,54.53,54.53,3.8
+2025-06-29,Home,Vacuum,North,1,171.65,171.65,3.8
+2025-06-29,Beauty,Lipstick,North,1,13.68,13.68,4.5
+2025-06-29,Electronics,Laptop,East,3,927.58,2782.74,4.4
+2025-06-29,Electronics,Laptop,East,3,1034.15,3102.45,4.2
+2025-06-29,Sports,Running Shoes,North,2,90.77,181.54,4.2
+2025-06-29,Electronics,Laptop,South,1,980.54,980.54,5.0
+2025-06-29,Clothing,Sneakers,West,2,79.8,159.6,4.2
+2025-06-29,Home,Coffee Maker,West,3,92.52,277.56,4.9
+2025-06-30,Clothing,Jeans,East,4,56.8,227.2,4.1
+2025-06-30,Beauty,Perfume,East,2,80.18,160.36,4.4
+2025-06-30,Clothing,Sneakers,West,1,81.67,81.67,4.2
+2025-06-30,Beauty,Perfume,East,1,78.89,78.89,4.5
+2025-06-30,Sports,Yoga Mat,East,3,31.85,95.55,4.0
+2025-07-01,Home,Blender,East,3,51.04,153.12,2.9
+2025-07-01,Sports,Dumbbell,North,1,39.97,39.97,3.8
+2025-07-01,Electronics,Smartwatch,South,1,235.69,235.69,3.1
+2025-07-01,Clothing,Jeans,North,2,59.39,118.78,3.8
+2025-07-01,Clothing,Sneakers,South,1,86.09,86.09,3.8
+2025-07-01,Beauty,Face Cream,West,1,38.23,38.23,4.1
+2025-07-01,Sports,Running Shoes,East,3,85.54,256.62,3.0
+2025-07-01,Clothing,Jacket,West,1,111.56,111.56,4.2
+2025-07-01,Beauty,Lipstick,North,3,16.46,49.38,5.0
+2025-07-01,Home,Sofa,South,1,550.43,550.43,3.5
+2025-07-01,Clothing,T-Shirt,West,3,22.62,67.86,3.3
+2025-07-01,Electronics,Smartphone,South,1,675.22,675.22,2.3
+2025-07-01,Beauty,Lipstick,North,2,15.73,31.46,4.3
+2025-07-01,Clothing,Sneakers,West,3,83.48,250.44,4.0
+2025-07-02,Clothing,Jacket,West,1,109.53,109.53,4.6
+2025-07-02,Beauty,Lipstick,West,1,15.76,15.76,4.0
+2025-07-02,Electronics,Smartphone,West,2,746.51,1493.02,3.3
+2025-07-02,Clothing,Sneakers,East,2,74.82,149.64,4.7
+2025-07-02,Beauty,Mascara,North,1,21.93,21.93,5.0
+2025-07-02,Clothing,T-Shirt,East,2,22.65,45.3,5.0
+2025-07-02,Beauty,Face Cream,North,1,32.37,32.37,3.2
+2025-07-03,Electronics,Smartphone,West,3,764.1,2292.3,4.6
+2025-07-03,Beauty,Perfume,West,1,83.83,83.83,3.8
+2025-07-03,Beauty,Face Cream,North,2,33.24,66.48,4.5
+2025-07-03,Sports,Dumbbell,North,1,37.02,37.02,3.8
+2025-07-03,Home,Vacuum,South,4,176.81,707.24,3.6
+2025-07-03,Sports,Bicycle,South,1,415.0,415.0,3.7
+2025-07-03,Beauty,Mascara,South,1,18.65,18.65,5.0
+2025-07-03,Sports,Yoga Mat,East,1,28.11,28.11,4.4
+2025-07-03,Clothing,Sneakers,West,1,79.0,79.0,4.1
+2025-07-03,Clothing,Sneakers,East,1,79.74,79.74,4.2
+2025-07-04,Beauty,Face Cream,South,3,35.37,106.11,5.0
+2025-07-04,Beauty,Perfume,South,1,84.29,84.29,4.0
+2025-07-04,Home,Vacuum,South,1,184.33,184.33,3.9
+2025-07-04,Beauty,Lipstick,East,2,14.57,29.14,3.7
+2025-07-04,Clothing,Sneakers,East,2,78.17,156.34,4.0
+2025-07-04,Electronics,Laptop,West,2,912.31,1824.62,3.2
+2025-07-04,Sports,Dumbbell,West,1,43.36,43.36,5.0
+2025-07-04,Beauty,Lipstick,South,1,15.18,15.18,4.2
+2025-07-04,Electronics,Smartwatch,North,2,228.06,456.12,3.1
+2025-07-04,Sports,Running Shoes,North,1,93.42,93.42,4.0
+2025-07-05,Beauty,Perfume,North,1,79.27,79.27,3.9
+2025-07-05,Clothing,Sneakers,South,1,81.85,81.85,3.6
+2025-07-05,Home,Sofa,North,2,623.02,1246.04,5.0
+2025-07-05,Sports,Bicycle,East,4,413.86,1655.44,3.3
+2025-07-05,Clothing,Jacket,East,3,112.07,336.21,4.4
+2025-07-05,Sports,Yoga Mat,North,1,27.21,27.21,4.7
+2025-07-05,Beauty,Lipstick,East,1,14.7,14.7,5.0
+2025-07-06,Home,Blender,West,1,49.94,49.94,3.9
+2025-07-06,Electronics,Headphones,North,1,163.3,163.3,3.5
+2025-07-06,Sports,Yoga Mat,East,1,27.12,27.12,5.0
+2025-07-06,Sports,Bicycle,West,5,454.84,2274.2,4.3
+2025-07-06,Clothing,Jacket,West,3,108.67,326.01,5.0
+2025-07-06,Beauty,Mascara,North,2,18.15,36.3,4.7
+2025-07-07,Home,Coffee Maker,South,1,91.68,91.68,3.1
+2025-07-07,Clothing,Jeans,East,1,56.47,56.47,3.8
+2025-07-07,Beauty,Mascara,West,1,21.57,21.57,3.9
+2025-07-07,Beauty,Lipstick,East,3,14.44,43.32,2.7
+2025-07-07,Sports,Running Shoes,East,4,95.07,380.28,4.6
+2025-07-07,Sports,Running Shoes,West,3,94.71,284.13,3.0
+2025-07-07,Sports,Bicycle,South,3,463.04,1389.12,5.0
+2025-07-07,Beauty,Face Cream,East,2,35.97,71.94,4.5
+2025-07-07,Sports,Dumbbell,North,2,41.29,82.58,4.6
+2025-07-07,Home,Blender,North,2,51.78,103.56,5.0
+2025-07-07,Sports,Bicycle,North,1,454.89,454.89,4.9
+2025-07-07,Beauty,Lipstick,East,3,15.78,47.34,5.0
+2025-07-07,Clothing,Jacket,East,2,108.27,216.54,4.6
+2025-07-08,Sports,Dumbbell,East,1,38.02,38.02,4.1
+2025-07-08,Sports,Bicycle,East,1,461.24,461.24,5.0
+2025-07-08,Sports,Yoga Mat,East,2,28.5,57.0,2.6
+2025-07-08,Clothing,Jeans,North,1,60.39,60.39,5.0
+2025-07-08,Electronics,Laptop,South,1,914.85,914.85,3.8
+2025-07-08,Electronics,Smartphone,South,2,670.96,1341.92,4.0
+2025-07-09,Beauty,Face Cream,South,2,37.61,75.22,4.4
+2025-07-09,Sports,Running Shoes,South,1,86.07,86.07,3.9
+2025-07-09,Clothing,T-Shirt,South,3,23.04,69.12,4.2
+2025-07-09,Sports,Bicycle,South,1,493.62,493.62,2.7
+2025-07-09,Beauty,Lipstick,East,2,14.97,29.94,2.8
+2025-07-09,Beauty,Mascara,South,3,20.07,60.21,3.8
+2025-07-09,Electronics,Laptop,South,2,1088.33,2176.66,4.2
+2025-07-09,Home,Blender,East,3,53.53,160.59,4.3
+2025-07-10,Clothing,Jeans,North,1,65.16,65.16,2.2
+2025-07-10,Clothing,T-Shirt,East,1,25.07,25.07,5.0
+2025-07-10,Clothing,Sneakers,West,2,84.21,168.42,4.6
+2025-07-10,Electronics,Laptop,East,3,1049.17,3147.51,3.9
+2025-07-10,Sports,Dumbbell,North,5,39.19,195.95,5.0
+2025-07-10,Home,Coffee Maker,West,1,88.79,88.79,5.0
+2025-07-10,Sports,Dumbbell,West,1,38.31,38.31,4.1
+2025-07-10,Beauty,Perfume,West,1,80.36,80.36,4.0
+2025-07-10,Clothing,Sneakers,North,1,84.79,84.79,4.0
+2025-07-10,Electronics,Laptop,West,2,1088.66,2177.32,2.5
+2025-07-10,Electronics,Headphones,West,1,151.88,151.88,5.0
+2025-07-11,Beauty,Face Cream,South,1,34.28,34.28,4.5
+2025-07-11,Home,Vacuum,West,1,195.81,195.81,4.7
+2025-07-11,Beauty,Lipstick,West,1,15.06,15.06,4.4
+2025-07-11,Clothing,Jacket,South,1,127.04,127.04,5.0
+2025-07-11,Beauty,Perfume,South,1,81.54,81.54,4.5
+2025-07-11,Electronics,Laptop,North,3,1066.83,3200.49,3.3
+2025-07-11,Clothing,Sneakers,South,1,74.16,74.16,4.2
+2025-07-11,Clothing,Jacket,North,1,115.64,115.64,4.2
+2025-07-11,Clothing,T-Shirt,South,3,25.69,77.07,4.5
+2025-07-11,Sports,Yoga Mat,North,1,30.21,30.21,4.1
+2025-07-11,Sports,Dumbbell,West,3,38.17,114.51,3.5
+2025-07-11,Clothing,Jacket,East,1,130.43,130.43,3.7
+2025-07-12,Electronics,Laptop,East,1,933.46,933.46,3.8
+2025-07-12,Home,Coffee Maker,North,5,86.59,432.95,5.0
+2025-07-12,Beauty,Mascara,East,3,21.74,65.22,4.8
+2025-07-12,Beauty,Perfume,West,4,79.62,318.48,5.0
+2025-07-12,Sports,Yoga Mat,South,4,31.2,124.8,3.1
+2025-07-12,Clothing,T-Shirt,North,1,22.82,22.82,3.7
+2025-07-12,Home,Sofa,South,4,604.42,2417.68,4.3
+2025-07-13,Sports,Bicycle,West,4,485.95,1943.8,3.5
+2025-07-13,Beauty,Face Cream,South,1,34.64,34.64,3.6
+2025-07-13,Home,Vacuum,West,1,175.22,175.22,4.8
+2025-07-13,Home,Sofa,West,1,555.18,555.18,3.3
+2025-07-13,Clothing,Jacket,West,1,112.53,112.53,4.2
+2025-07-14,Home,Sofa,West,1,616.02,616.02,5.0
+2025-07-14,Home,Vacuum,West,5,174.85,874.25,3.6
+2025-07-14,Beauty,Face Cream,North,2,35.05,70.1,5.0
+2025-07-14,Home,Blender,West,1,47.8,47.8,4.6
+2025-07-14,Clothing,Jeans,West,2,60.26,120.52,5.0
+2025-07-14,Electronics,Smartwatch,West,1,257.23,257.23,3.6
+2025-07-14,Beauty,Perfume,West,4,78.69,314.76,3.8
+2025-07-14,Clothing,T-Shirt,West,2,25.72,51.44,4.4
+2025-07-14,Clothing,Jacket,West,4,127.09,508.36,5.0
+2025-07-14,Electronics,Laptop,North,2,903.57,1807.14,3.3
+2025-07-14,Beauty,Mascara,North,1,19.06,19.06,4.2
+2025-07-14,Sports,Yoga Mat,West,1,31.59,31.59,5.0
+2025-07-14,Electronics,Headphones,East,1,143.06,143.06,4.6
+2025-07-15,Beauty,Mascara,North,3,19.97,59.91,5.0
+2025-07-15,Home,Coffee Maker,East,2,85.5,171.0,4.4
+2025-07-15,Home,Blender,South,3,54.42,163.26,4.2
+2025-07-15,Clothing,Jeans,South,2,63.72,127.44,3.9
+2025-07-15,Sports,Bicycle,North,2,438.22,876.44,5.0
+2025-07-15,Beauty,Lipstick,South,1,14.43,14.43,4.6
+2025-07-15,Electronics,Laptop,West,1,976.58,976.58,5.0
+2025-07-15,Home,Sofa,West,2,643.67,1287.34,4.9
+2025-07-15,Electronics,Smartphone,West,2,728.75,1457.5,3.9
+2025-07-15,Home,Sofa,South,2,642.52,1285.04,5.0
+2025-07-15,Sports,Bicycle,West,2,430.64,861.28,4.3
+2025-07-15,Clothing,Jeans,North,2,63.5,127.0,3.7
+2025-07-15,Sports,Bicycle,West,2,449.37,898.74,4.7
+2025-07-15,Home,Vacuum,East,1,193.55,193.55,2.7
+2025-07-16,Beauty,Face Cream,West,2,37.19,74.38,5.0
+2025-07-16,Clothing,Jacket,North,5,130.78,653.9,4.8
+2025-07-16,Electronics,Smartphone,East,1,705.55,705.55,3.5
+2025-07-16,Home,Vacuum,East,2,172.58,345.16,3.5
+2025-07-16,Electronics,Laptop,West,2,939.77,1879.54,3.8
+2025-07-16,Electronics,Smartphone,North,1,637.37,637.37,4.7
+2025-07-16,Sports,Running Shoes,South,2,85.76,171.52,4.0
+2025-07-16,Sports,Running Shoes,North,2,84.84,169.68,5.0
+2025-07-16,Beauty,Perfume,North,1,85.17,85.17,5.0
+2025-07-16,Electronics,Laptop,East,1,1099.9,1099.9,5.0
+2025-07-16,Beauty,Perfume,South,1,83.44,83.44,4.7
+2025-07-16,Clothing,Jacket,South,5,109.67,548.35,4.2
+2025-07-16,Clothing,Jeans,North,3,55.81,167.43,4.1
+2025-07-16,Home,Sofa,West,2,548.71,1097.42,3.8
+2025-07-17,Clothing,Jeans,South,2,54.24,108.48,4.9
+2025-07-17,Beauty,Perfume,West,2,76.14,152.28,3.4
+2025-07-17,Sports,Running Shoes,West,2,89.37,178.74,5.0
+2025-07-17,Electronics,Headphones,West,3,162.55,487.65,3.8
+2025-07-17,Home,Sofa,West,3,613.7,1841.1,4.0
+2025-07-18,Electronics,Smartphone,East,2,690.56,1381.12,3.1
+2025-07-18,Sports,Dumbbell,South,2,42.66,85.32,5.0
+2025-07-18,Electronics,Headphones,South,4,147.83,591.32,4.3
+2025-07-18,Clothing,Jeans,West,2,65.76,131.52,3.0
+2025-07-18,Clothing,T-Shirt,South,1,25.44,25.44,4.9
+2025-07-18,Sports,Running Shoes,West,2,89.45,178.9,3.8
+2025-07-18,Electronics,Smartphone,South,1,665.58,665.58,3.5
+2025-07-19,Sports,Dumbbell,North,4,41.84,167.36,3.1
+2025-07-19,Beauty,Lipstick,North,1,16.03,16.03,5.0
+2025-07-19,Electronics,Headphones,West,1,152.79,152.79,3.5
+2025-07-19,Beauty,Mascara,South,1,19.34,19.34,4.7
+2025-07-19,Electronics,Headphones,East,2,157.0,314.0,4.2
+2025-07-19,Clothing,T-Shirt,North,1,25.71,25.71,5.0
+2025-07-20,Beauty,Mascara,North,2,20.76,41.52,4.2
+2025-07-20,Home,Sofa,South,3,614.5,1843.5,5.0
+2025-07-20,Clothing,T-Shirt,East,1,23.28,23.28,4.2
+2025-07-20,Beauty,Mascara,South,2,19.35,38.7,3.6
+2025-07-20,Home,Coffee Maker,East,4,83.41,333.64,3.5
+2025-07-20,Beauty,Mascara,East,1,19.63,19.63,4.2
+2025-07-20,Clothing,T-Shirt,South,1,23.81,23.81,5.0
+2025-07-20,Clothing,T-Shirt,South,1,22.78,22.78,4.2
+2025-07-20,Sports,Yoga Mat,South,1,29.94,29.94,4.9
+2025-07-20,Clothing,Sneakers,East,1,75.9,75.9,4.1
+2025-07-20,Sports,Bicycle,East,5,414.39,2071.95,5.0
+2025-07-20,Electronics,Laptop,South,1,958.1,958.1,4.1
+2025-07-20,Home,Sofa,North,1,628.99,628.99,4.8
+2025-07-20,Home,Blender,South,1,49.27,49.27,4.6
+2025-07-21,Home,Coffee Maker,East,3,85.96,257.88,4.9
+2025-07-21,Sports,Yoga Mat,East,3,31.82,95.46,4.7
+2025-07-21,Clothing,Sneakers,East,2,78.02,156.04,3.4
+2025-07-21,Home,Coffee Maker,North,1,91.62,91.62,3.6
+2025-07-21,Clothing,Jacket,North,1,130.12,130.12,3.8
+2025-07-21,Sports,Bicycle,East,3,462.75,1388.25,2.9
+2025-07-22,Electronics,Smartwatch,South,1,230.9,230.9,4.5
+2025-07-22,Beauty,Face Cream,North,3,36.44,109.32,5.0
+2025-07-22,Sports,Running Shoes,South,1,88.64,88.64,3.9
+2025-07-22,Clothing,Jacket,West,2,109.65,219.3,4.3
+2025-07-22,Electronics,Smartwatch,North,1,270.72,270.72,2.5
+2025-07-22,Home,Vacuum,South,1,172.28,172.28,5.0
+2025-07-22,Electronics,Headphones,South,1,154.79,154.79,3.9
+2025-07-23,Clothing,Jacket,East,2,113.54,227.08,5.0
+2025-07-23,Electronics,Headphones,North,2,150.19,300.38,4.3
+2025-07-23,Home,Coffee Maker,South,1,84.11,84.11,2.6
+2025-07-23,Sports,Yoga Mat,South,2,28.31,56.62,3.7
+2025-07-23,Clothing,T-Shirt,South,1,24.99,24.99,3.6
+2025-07-23,Home,Sofa,South,2,555.92,1111.84,3.8
+2025-07-23,Sports,Bicycle,South,1,419.66,419.66,5.0
+2025-07-23,Beauty,Mascara,West,3,19.07,57.21,5.0
+2025-07-23,Sports,Yoga Mat,East,2,30.63,61.26,3.3
+2025-07-24,Sports,Dumbbell,East,2,42.73,85.46,4.9
+2025-07-24,Clothing,Jacket,South,1,126.44,126.44,3.5
+2025-07-24,Electronics,Laptop,West,4,1028.01,4112.04,3.6
+2025-07-24,Home,Blender,North,4,54.71,218.84,4.0
+2025-07-24,Sports,Bicycle,East,3,421.24,1263.72,4.5
+2025-07-24,Home,Vacuum,North,2,168.67,337.34,5.0
+2025-07-24,Beauty,Lipstick,West,1,15.35,15.35,5.0
+2025-07-24,Beauty,Lipstick,South,1,14.79,14.79,4.4
+2025-07-24,Sports,Running Shoes,West,1,90.04,90.04,3.6
+2025-07-24,Electronics,Smartwatch,North,1,254.23,254.23,5.0
+2025-07-24,Beauty,Lipstick,West,1,15.44,15.44,4.1
+2025-07-24,Beauty,Lipstick,South,5,15.83,79.15,2.7
+2025-07-24,Electronics,Smartphone,East,2,733.43,1466.86,3.9
+2025-07-24,Beauty,Perfume,East,2,76.15,152.3,4.7
+2025-07-25,Beauty,Lipstick,East,1,15.01,15.01,3.9
+2025-07-25,Sports,Yoga Mat,North,1,31.07,31.07,5.0
+2025-07-25,Clothing,Jeans,West,1,58.78,58.78,4.2
+2025-07-25,Clothing,Sneakers,East,1,86.33,86.33,4.9
+2025-07-25,Home,Blender,South,3,49.09,147.27,3.5
+2025-07-25,Beauty,Mascara,North,1,21.26,21.26,5.0
+2025-07-25,Sports,Yoga Mat,South,1,30.36,30.36,4.4
+2025-07-25,Sports,Dumbbell,North,4,40.17,160.68,4.7
+2025-07-25,Electronics,Laptop,South,1,967.02,967.02,5.0
+2025-07-25,Sports,Bicycle,East,2,430.75,861.5,3.5
+2025-07-25,Clothing,Sneakers,North,1,79.94,79.94,3.7
+2025-07-26,Clothing,Jeans,North,2,63.87,127.74,3.5
+2025-07-26,Beauty,Face Cream,East,1,35.37,35.37,5.0
+2025-07-26,Beauty,Perfume,West,2,84.99,169.98,3.8
+2025-07-26,Clothing,T-Shirt,North,3,23.6,70.8,4.4
+2025-07-26,Sports,Bicycle,North,1,438.57,438.57,4.9
+2025-07-27,Home,Vacuum,North,1,162.01,162.01,4.3
+2025-07-27,Beauty,Mascara,West,1,18.07,18.07,4.1
+2025-07-27,Clothing,Jeans,South,1,55.47,55.47,5.0
+2025-07-27,Home,Blender,South,2,48.05,96.1,4.2
+2025-07-27,Electronics,Smartphone,East,1,642.86,642.86,3.9
+2025-07-27,Electronics,Laptop,West,3,1078.69,3236.07,4.0
+2025-07-27,Beauty,Face Cream,East,1,32.26,32.26,3.9
+2025-07-27,Sports,Bicycle,East,2,479.16,958.32,4.1
+2025-07-27,Beauty,Perfume,South,1,80.18,80.18,3.5
+2025-07-27,Clothing,Jacket,East,3,116.49,349.47,2.7
+2025-07-28,Sports,Running Shoes,North,5,95.25,476.25,3.7
+2025-07-28,Clothing,T-Shirt,East,2,24.92,49.84,5.0
+2025-07-28,Sports,Yoga Mat,East,1,28.07,28.07,3.9
+2025-07-28,Clothing,Jacket,South,4,131.43,525.72,4.1
+2025-07-28,Beauty,Perfume,East,1,78.24,78.24,3.6
+2025-07-28,Home,Sofa,West,1,612.4,612.4,2.7
+2025-07-28,Electronics,Headphones,South,1,163.44,163.44,4.7
+2025-07-28,Beauty,Lipstick,North,2,13.94,27.88,2.9
+2025-07-28,Beauty,Perfume,North,3,86.63,259.89,3.9
+2025-07-28,Home,Blender,South,2,45.32,90.64,4.8
+2025-07-28,Home,Vacuum,West,1,183.52,183.52,4.8
+2025-07-28,Clothing,Jacket,East,1,108.34,108.34,3.9
+2025-07-28,Clothing,Jeans,East,4,54.34,217.36,4.0
+2025-07-28,Clothing,Jacket,East,1,124.86,124.86,3.1
+2025-07-29,Sports,Dumbbell,East,3,43.02,129.06,4.5
+2025-07-29,Electronics,Smartphone,West,1,659.14,659.14,4.6
+2025-07-29,Sports,Dumbbell,West,1,36.09,36.09,4.5
+2025-07-29,Home,Blender,South,1,47.32,47.32,4.1
+2025-07-29,Sports,Running Shoes,North,1,90.22,90.22,5.0
+2025-07-29,Clothing,T-Shirt,South,2,26.38,52.76,3.3
+2025-07-29,Beauty,Face Cream,North,2,35.76,71.52,3.5
+2025-07-29,Sports,Dumbbell,West,3,41.45,124.35,5.0
+2025-07-29,Home,Coffee Maker,North,1,84.46,84.46,4.2
+2025-07-29,Beauty,Perfume,East,1,76.39,76.39,3.7
+2025-07-29,Electronics,Smartphone,South,1,632.96,632.96,4.1
+2025-07-29,Electronics,Smartphone,West,1,736.02,736.02,3.8
+2025-07-29,Beauty,Mascara,North,4,21.91,87.64,3.8
+2025-07-30,Electronics,Laptop,North,2,953.76,1907.52,4.0
+2025-07-30,Electronics,Smartphone,South,1,697.55,697.55,5.0
+2025-07-30,Electronics,Headphones,East,1,154.0,154.0,2.8
+2025-07-30,Home,Coffee Maker,South,2,85.55,171.1,4.6
+2025-07-30,Home,Sofa,North,1,630.51,630.51,4.6
+2025-07-30,Home,Blender,East,1,53.21,53.21,4.0
+2025-07-30,Electronics,Smartwatch,West,1,274.68,274.68,3.6
+2025-07-30,Beauty,Mascara,West,3,20.5,61.5,5.0
+2025-07-30,Clothing,T-Shirt,South,3,27.08,81.24,3.7
+2025-07-30,Beauty,Perfume,East,3,85.68,257.04,4.0
+2025-07-30,Sports,Yoga Mat,East,1,28.44,28.44,3.0
+2025-07-30,Home,Coffee Maker,North,2,96.01,192.02,3.8
+2025-07-30,Clothing,Sneakers,East,4,78.27,313.08,4.0
+2025-07-30,Electronics,Smartphone,West,1,752.31,752.31,3.4
+2025-07-31,Electronics,Laptop,North,1,948.48,948.48,5.0
+2025-07-31,Clothing,Jacket,West,1,119.29,119.29,3.3
+2025-07-31,Beauty,Face Cream,East,1,32.18,32.18,3.2
+2025-07-31,Sports,Bicycle,North,3,406.67,1220.01,3.9
+2025-07-31,Sports,Running Shoes,West,3,93.91,281.73,3.7
+2025-07-31,Home,Blender,East,3,47.12,141.36,3.6
+2025-07-31,Sports,Bicycle,North,2,470.06,940.12,4.1
+2025-08-01,Electronics,Smartphone,East,2,646.61,1293.22,5.0
+2025-08-01,Sports,Yoga Mat,East,2,31.2,62.4,4.6
+2025-08-01,Clothing,Jacket,North,1,131.16,131.16,3.5
+2025-08-01,Sports,Dumbbell,South,3,41.65,124.95,3.7
+2025-08-01,Beauty,Lipstick,North,2,15.27,30.54,3.6
+2025-08-01,Home,Vacuum,West,3,182.9,548.7,5.0
+2025-08-01,Home,Blender,West,2,47.74,95.48,3.8
+2025-08-01,Home,Sofa,East,4,572.0,2288.0,4.6
+2025-08-02,Clothing,Jeans,North,1,57.03,57.03,3.8
+2025-08-02,Clothing,Jeans,West,1,62.0,62.0,3.6
+2025-08-02,Sports,Running Shoes,West,4,93.04,372.16,3.5
+2025-08-02,Beauty,Face Cream,West,1,34.8,34.8,3.8
+2025-08-02,Beauty,Face Cream,South,2,36.95,73.9,2.7
+2025-08-02,Electronics,Headphones,West,2,149.41,298.82,3.8
+2025-08-02,Beauty,Mascara,South,1,21.99,21.99,5.0
+2025-08-02,Clothing,Sneakers,North,1,73.74,73.74,3.5
+2025-08-02,Home,Blender,South,2,53.83,107.66,4.1
+2025-08-02,Clothing,T-Shirt,East,2,26.41,52.82,3.8
+2025-08-02,Home,Sofa,East,5,555.35,2776.75,3.7
+2025-08-02,Clothing,T-Shirt,South,1,22.52,22.52,2.9
+2025-08-02,Electronics,Laptop,West,2,910.71,1821.42,3.7
+2025-08-03,Clothing,Sneakers,West,3,73.29,219.87,5.0
+2025-08-03,Electronics,Smartphone,South,1,766.34,766.34,3.9
+2025-08-03,Electronics,Smartwatch,North,3,249.57,748.71,4.7
+2025-08-03,Clothing,Jacket,East,4,111.53,446.12,5.0
+2025-08-03,Beauty,Mascara,East,1,21.44,21.44,3.3
+2025-08-03,Clothing,Sneakers,West,3,87.6,262.8,4.4
+2025-08-03,Clothing,Sneakers,South,2,79.87,159.74,3.7
+2025-08-03,Electronics,Smartwatch,North,3,228.62,685.86,3.5
+2025-08-03,Clothing,Sneakers,South,2,74.51,149.02,3.7
+2025-08-03,Home,Sofa,North,1,540.26,540.26,4.3
+2025-08-03,Electronics,Smartwatch,South,3,241.91,725.73,3.2
+2025-08-03,Beauty,Face Cream,East,1,34.95,34.95,4.4
+2025-08-04,Clothing,Jacket,West,3,109.19,327.57,3.6
+2025-08-04,Home,Coffee Maker,East,1,84.49,84.49,5.0
+2025-08-04,Sports,Dumbbell,West,1,40.55,40.55,5.0
+2025-08-04,Sports,Bicycle,West,2,409.61,819.22,4.2
+2025-08-04,Electronics,Laptop,West,2,984.67,1969.34,3.0
+2025-08-04,Electronics,Smartphone,East,1,651.44,651.44,5.0
+2025-08-04,Home,Vacuum,West,3,167.54,502.62,3.7
+2025-08-04,Beauty,Mascara,West,2,18.77,37.54,4.8
+2025-08-05,Beauty,Face Cream,South,1,32.81,32.81,2.9
+2025-08-05,Electronics,Smartphone,South,2,678.46,1356.92,5.0
+2025-08-05,Clothing,Sneakers,North,3,76.75,230.25,3.6
+2025-08-05,Clothing,Jacket,West,2,116.27,232.54,5.0
+2025-08-05,Home,Sofa,South,1,656.74,656.74,3.6
+2025-08-05,Electronics,Headphones,North,2,135.03,270.06,5.0
+2025-08-05,Home,Coffee Maker,East,3,97.25,291.75,2.9
+2025-08-05,Sports,Yoga Mat,North,1,28.01,28.01,4.0
+2025-08-05,Sports,Yoga Mat,North,4,32.84,131.36,3.9
+2025-08-05,Electronics,Smartwatch,East,1,227.6,227.6,3.4
+2025-08-05,Electronics,Headphones,South,1,156.42,156.42,4.0
+2025-08-05,Home,Sofa,West,2,628.16,1256.32,4.1
+2025-08-05,Sports,Running Shoes,East,2,82.48,164.96,4.3
+2025-08-05,Clothing,Jeans,East,1,54.11,54.11,5.0
+2025-08-06,Home,Vacuum,East,2,168.0,336.0,2.9
+2025-08-06,Home,Vacuum,North,1,169.75,169.75,4.8
+2025-08-06,Electronics,Headphones,East,1,158.89,158.89,4.8
+2025-08-06,Electronics,Smartphone,North,1,675.78,675.78,1.8
+2025-08-06,Electronics,Laptop,North,2,1024.06,2048.12,4.9
+2025-08-06,Home,Vacuum,West,1,177.56,177.56,5.0
+2025-08-06,Clothing,Jacket,East,2,118.69,237.38,5.0
+2025-08-06,Clothing,Sneakers,North,1,81.55,81.55,4.4
+2025-08-06,Electronics,Laptop,East,2,1091.91,2183.82,4.5
+2025-08-07,Electronics,Smartwatch,North,1,270.27,270.27,4.5
+2025-08-07,Sports,Running Shoes,North,1,86.34,86.34,2.6
+2025-08-07,Home,Blender,East,1,45.73,45.73,3.1
+2025-08-07,Clothing,T-Shirt,West,1,25.35,25.35,4.2
+2025-08-07,Electronics,Laptop,West,1,1070.06,1070.06,4.8
+2025-08-07,Clothing,Jeans,South,1,59.52,59.52,3.6
+2025-08-07,Home,Sofa,West,1,648.22,648.22,3.5
+2025-08-07,Beauty,Face Cream,North,3,34.15,102.45,3.2
+2025-08-08,Home,Sofa,East,3,556.74,1670.22,4.1
+2025-08-08,Home,Coffee Maker,East,1,92.51,92.51,4.6
+2025-08-08,Clothing,Sneakers,West,1,75.1,75.1,3.4
+2025-08-08,Electronics,Laptop,South,1,980.75,980.75,4.9
+2025-08-08,Sports,Running Shoes,East,4,85.62,342.48,4.5
+2025-08-08,Sports,Running Shoes,West,4,90.2,360.8,3.8
+2025-08-08,Clothing,Sneakers,West,4,86.44,345.76,3.3
+2025-08-08,Clothing,T-Shirt,West,1,26.07,26.07,5.0
+2025-08-08,Sports,Bicycle,North,3,466.42,1399.26,3.9
+2025-08-09,Electronics,Smartphone,East,3,730.42,2191.26,4.0
+2025-08-09,Electronics,Smartwatch,North,1,272.26,272.26,3.2
+2025-08-09,Clothing,Jeans,North,1,59.64,59.64,4.2
+2025-08-09,Home,Vacuum,East,1,194.21,194.21,4.3
+2025-08-09,Beauty,Mascara,West,1,20.16,20.16,4.8
+2025-08-09,Clothing,Jeans,North,1,64.58,64.58,4.6
+2025-08-09,Sports,Running Shoes,North,1,92.73,92.73,4.1
+2025-08-09,Electronics,Headphones,West,1,141.14,141.14,3.6
+2025-08-09,Home,Sofa,East,2,592.45,1184.9,4.7
+2025-08-09,Electronics,Laptop,East,1,970.58,970.58,4.3
+2025-08-09,Electronics,Laptop,West,1,959.57,959.57,4.9
+2025-08-09,Clothing,Jeans,South,3,56.7,170.1,3.5
+2025-08-09,Sports,Dumbbell,West,1,43.74,43.74,3.6
+2025-08-10,Beauty,Perfume,East,5,74.65,373.25,5.0
+2025-08-10,Sports,Running Shoes,East,2,86.87,173.74,4.4
+2025-08-10,Home,Coffee Maker,South,3,83.45,250.35,3.6
+2025-08-10,Electronics,Smartwatch,West,1,225.56,225.56,3.3
+2025-08-10,Sports,Bicycle,South,3,429.11,1287.33,4.8
+2025-08-10,Sports,Bicycle,East,1,446.02,446.02,3.1
+2025-08-10,Sports,Yoga Mat,West,3,27.87,83.61,5.0
+2025-08-10,Electronics,Headphones,North,1,158.28,158.28,3.7
+2025-08-10,Home,Sofa,North,2,567.48,1134.96,3.7
+2025-08-10,Sports,Bicycle,East,3,406.66,1219.98,4.2
+2025-08-10,Clothing,Sneakers,South,2,80.92,161.84,3.2
+2025-08-10,Electronics,Laptop,South,1,906.12,906.12,3.7
+2025-08-10,Sports,Dumbbell,North,1,41.64,41.64,4.2
+2025-08-10,Home,Sofa,East,1,617.49,617.49,4.2
+2025-08-11,Sports,Running Shoes,West,1,97.0,97.0,4.2
+2025-08-11,Sports,Bicycle,West,1,476.47,476.47,4.2
+2025-08-11,Home,Coffee Maker,East,2,87.49,174.98,4.7
+2025-08-11,Clothing,Jeans,North,2,54.11,108.22,5.0
+2025-08-11,Sports,Bicycle,North,2,468.65,937.3,3.7
+2025-08-11,Clothing,T-Shirt,South,1,24.54,24.54,3.9
+2025-08-11,Clothing,T-Shirt,South,4,25.13,100.52,4.4
+2025-08-11,Clothing,Jacket,West,1,111.98,111.98,5.0
+2025-08-11,Home,Vacuum,North,3,166.25,498.75,4.4
+2025-08-12,Home,Sofa,East,2,558.71,1117.42,4.9
+2025-08-12,Beauty,Perfume,East,1,87.27,87.27,5.0
+2025-08-12,Clothing,Jeans,North,4,54.31,217.24,4.3
+2025-08-12,Sports,Running Shoes,East,2,98.31,196.62,5.0
+2025-08-12,Electronics,Headphones,East,2,161.7,323.4,5.0
+2025-08-12,Electronics,Smartwatch,South,2,251.13,502.26,4.1
+2025-08-12,Beauty,Mascara,East,2,20.71,41.42,5.0
+2025-08-12,Home,Sofa,North,2,573.67,1147.34,4.2
+2025-08-12,Electronics,Smartphone,West,2,701.51,1403.02,3.4
+2025-08-12,Beauty,Lipstick,West,1,15.02,15.02,2.3
+2025-08-13,Clothing,Jacket,South,2,126.08,252.16,3.7
+2025-08-13,Electronics,Headphones,West,2,157.33,314.66,4.1
+2025-08-13,Home,Blender,North,1,50.44,50.44,4.1
+2025-08-13,Sports,Running Shoes,West,1,88.29,88.29,4.7
+2025-08-13,Home,Sofa,East,1,546.66,546.66,3.9
+2025-08-13,Beauty,Lipstick,North,1,13.7,13.7,5.0
+2025-08-13,Home,Blender,North,2,53.0,106.0,5.0
+2025-08-13,Beauty,Perfume,West,1,78.59,78.59,4.4
+2025-08-13,Sports,Dumbbell,North,1,37.84,37.84,3.3
+2025-08-13,Clothing,Jacket,West,1,120.85,120.85,4.7
+2025-08-13,Beauty,Perfume,West,2,76.4,152.8,2.9
+2025-08-13,Beauty,Mascara,North,1,19.66,19.66,4.9
+2025-08-13,Clothing,T-Shirt,South,1,23.65,23.65,2.9
+2025-08-14,Clothing,T-Shirt,South,1,23.49,23.49,5.0
+2025-08-14,Sports,Yoga Mat,North,1,30.97,30.97,3.3
+2025-08-14,Home,Blender,South,4,48.52,194.08,3.2
+2025-08-14,Home,Blender,East,3,46.72,140.16,5.0
+2025-08-14,Clothing,Sneakers,South,2,77.04,154.08,3.6
+2025-08-14,Beauty,Perfume,East,1,86.82,86.82,4.4
+2025-08-14,Electronics,Smartphone,East,2,664.53,1329.06,3.8
+2025-08-14,Clothing,Sneakers,South,2,87.0,174.0,5.0
+2025-08-14,Electronics,Laptop,West,1,960.05,960.05,3.1
+2025-08-14,Beauty,Face Cream,East,1,35.5,35.5,3.5
+2025-08-14,Electronics,Laptop,East,4,971.89,3887.56,4.6
+2025-08-15,Home,Blender,South,4,50.88,203.52,4.5
+2025-08-15,Home,Blender,South,3,51.41,154.23,5.0
+2025-08-15,Home,Vacuum,North,1,165.32,165.32,4.0
+2025-08-15,Clothing,T-Shirt,East,1,25.11,25.11,5.0
+2025-08-15,Clothing,T-Shirt,East,1,26.98,26.98,3.8
+2025-08-15,Home,Coffee Maker,North,1,91.2,91.2,4.4
+2025-08-15,Electronics,Laptop,South,1,1041.36,1041.36,3.6
+2025-08-15,Sports,Bicycle,South,1,459.77,459.77,4.1
+2025-08-15,Beauty,Mascara,East,3,21.87,65.61,3.8
+2025-08-16,Clothing,Jacket,North,1,115.47,115.47,3.9
+2025-08-16,Electronics,Smartphone,North,2,648.67,1297.34,5.0
+2025-08-16,Sports,Yoga Mat,West,1,27.65,27.65,2.9
+2025-08-16,Beauty,Perfume,North,1,85.01,85.01,4.3
+2025-08-16,Home,Coffee Maker,West,4,87.43,349.72,2.5
+2025-08-16,Clothing,Jeans,South,2,57.6,115.2,2.9
+2025-08-16,Sports,Running Shoes,East,1,98.93,98.93,3.7
+2025-08-16,Electronics,Laptop,East,1,987.99,987.99,3.9
+2025-08-16,Electronics,Laptop,East,1,1058.91,1058.91,4.4
+2025-08-16,Home,Blender,East,2,54.58,109.16,4.1
+2025-08-16,Home,Blender,North,2,52.89,105.78,3.9
+2025-08-16,Clothing,Jeans,North,1,60.23,60.23,3.2
+2025-08-16,Beauty,Lipstick,West,4,16.31,65.24,4.0
+2025-08-17,Beauty,Lipstick,East,2,14.6,29.2,5.0
+2025-08-17,Beauty,Perfume,South,3,85.62,256.86,5.0
+2025-08-17,Home,Blender,South,2,51.79,103.58,3.8
+2025-08-17,Clothing,Sneakers,West,3,87.78,263.34,3.5
+2025-08-17,Beauty,Lipstick,South,1,15.81,15.81,3.9
+2025-08-17,Beauty,Face Cream,South,3,36.97,110.91,5.0
+2025-08-17,Beauty,Face Cream,West,1,34.53,34.53,3.3
+2025-08-17,Sports,Yoga Mat,North,1,32.75,32.75,4.5
+2025-08-17,Beauty,Face Cream,West,1,34.99,34.99,3.1
+2025-08-17,Home,Sofa,East,3,550.32,1650.96,4.5
+2025-08-17,Beauty,Perfume,South,2,87.05,174.1,4.5
+2025-08-17,Sports,Dumbbell,East,1,38.6,38.6,4.3
+2025-08-18,Sports,Running Shoes,South,1,87.89,87.89,4.4
+2025-08-18,Clothing,Jeans,East,2,61.68,123.36,2.9
+2025-08-18,Beauty,Face Cream,West,2,31.94,63.88,4.4
+2025-08-18,Sports,Running Shoes,North,4,89.79,359.16,3.2
+2025-08-18,Beauty,Mascara,North,3,21.28,63.84,2.9
+2025-08-18,Sports,Running Shoes,West,1,87.91,87.91,3.9
+2025-08-18,Beauty,Perfume,South,3,76.4,229.2,4.0
+2025-08-18,Sports,Yoga Mat,West,1,32.59,32.59,4.1
+2025-08-19,Clothing,Jeans,East,1,64.98,64.98,5.0
+2025-08-19,Home,Vacuum,North,1,184.91,184.91,3.7
+2025-08-19,Home,Coffee Maker,North,2,82.99,165.98,4.2
+2025-08-19,Home,Vacuum,South,1,186.15,186.15,3.1
+2025-08-19,Sports,Dumbbell,West,2,38.75,77.5,3.6
+2025-08-19,Sports,Dumbbell,East,3,38.89,116.67,3.3
+2025-08-20,Home,Blender,North,4,53.97,215.88,4.5
+2025-08-20,Electronics,Laptop,West,1,1065.84,1065.84,4.1
+2025-08-20,Home,Sofa,North,1,605.5,605.5,4.6
+2025-08-20,Beauty,Face Cream,North,4,32.93,131.72,3.0
+2025-08-20,Sports,Yoga Mat,West,1,30.38,30.38,3.9
+2025-08-21,Home,Blender,West,3,53.17,159.51,3.6
+2025-08-21,Clothing,Jacket,South,1,131.18,131.18,4.0
+2025-08-21,Beauty,Perfume,South,2,79.05,158.1,4.4
+2025-08-21,Sports,Dumbbell,South,2,40.43,80.86,3.3
+2025-08-21,Electronics,Smartphone,North,1,678.67,678.67,4.1
+2025-08-21,Beauty,Perfume,West,1,73.86,73.86,4.5
+2025-08-21,Sports,Running Shoes,West,1,94.26,94.26,3.6
+2025-08-21,Clothing,Jacket,West,2,128.12,256.24,3.5
+2025-08-21,Home,Coffee Maker,West,2,91.85,183.7,4.5
+2025-08-21,Sports,Bicycle,North,2,406.72,813.44,3.4
+2025-08-21,Electronics,Smartphone,South,3,633.87,1901.61,4.5
+2025-08-22,Sports,Dumbbell,North,1,40.02,40.02,4.4
+2025-08-22,Home,Blender,West,1,48.99,48.99,3.3
+2025-08-22,Beauty,Face Cream,West,1,34.95,34.95,5.0
+2025-08-22,Sports,Yoga Mat,North,1,29.36,29.36,4.0
+2025-08-22,Home,Blender,West,1,45.19,45.19,4.1
+2025-08-22,Clothing,Jeans,West,1,63.1,63.1,4.2
+2025-08-22,Home,Blender,South,5,49.2,246.0,4.7
+2025-08-22,Clothing,Sneakers,South,1,73.04,73.04,4.0
+2025-08-23,Electronics,Smartphone,South,2,753.62,1507.24,4.0
+2025-08-23,Home,Coffee Maker,South,2,91.89,183.78,5.0
+2025-08-23,Sports,Dumbbell,West,2,38.51,77.02,4.5
+2025-08-23,Clothing,Jacket,North,2,112.08,224.16,4.2
+2025-08-23,Sports,Yoga Mat,South,1,30.8,30.8,3.5
+2025-08-23,Sports,Dumbbell,West,1,37.18,37.18,4.9
+2025-08-23,Clothing,T-Shirt,South,3,22.77,68.31,4.0
+2025-08-23,Electronics,Headphones,North,1,146.96,146.96,5.0
+2025-08-24,Electronics,Laptop,North,2,917.57,1835.14,5.0
+2025-08-24,Beauty,Lipstick,East,1,15.61,15.61,5.0
+2025-08-24,Home,Sofa,South,1,639.76,639.76,4.4
+2025-08-24,Beauty,Lipstick,North,1,14.85,14.85,3.7
+2025-08-24,Electronics,Headphones,North,3,148.93,446.79,2.7
+2025-08-24,Clothing,Sneakers,West,1,86.41,86.41,5.0
+2025-08-24,Home,Coffee Maker,South,2,98.28,196.56,5.0
+2025-08-24,Electronics,Smartwatch,East,3,244.66,733.98,4.6
+2025-08-25,Electronics,Laptop,West,1,1097.19,1097.19,2.8
+2025-08-25,Clothing,T-Shirt,East,2,23.21,46.42,3.6
+2025-08-25,Electronics,Smartwatch,North,4,238.97,955.88,3.3
+2025-08-25,Clothing,Sneakers,South,1,85.72,85.72,4.9
+2025-08-25,Home,Sofa,North,2,638.73,1277.46,3.8
+2025-08-25,Electronics,Headphones,West,3,144.43,433.29,3.1
+2025-08-25,Beauty,Mascara,East,2,20.23,40.46,3.9
+2025-08-25,Beauty,Face Cream,South,4,35.52,142.08,3.3
+2025-08-25,Clothing,T-Shirt,North,1,23.97,23.97,4.4
+2025-08-25,Beauty,Perfume,North,1,79.84,79.84,5.0
+2025-08-25,Sports,Dumbbell,North,2,43.08,86.16,4.6
+2025-08-25,Clothing,Jeans,South,1,55.92,55.92,2.6
+2025-08-25,Home,Blender,South,1,54.31,54.31,3.3
+2025-08-25,Home,Blender,East,2,46.41,92.82,3.9
+2025-08-26,Clothing,Sneakers,East,1,72.29,72.29,4.3
+2025-08-26,Clothing,Jeans,West,2,57.03,114.06,3.6
+2025-08-26,Electronics,Laptop,West,1,919.05,919.05,3.7
+2025-08-26,Home,Vacuum,South,2,194.63,389.26,5.0
+2025-08-26,Beauty,Mascara,West,1,19.36,19.36,2.7
+2025-08-27,Sports,Running Shoes,West,4,90.87,363.48,3.9
+2025-08-27,Electronics,Laptop,West,2,1035.83,2071.66,5.0
+2025-08-27,Sports,Bicycle,West,1,433.52,433.52,4.4
+2025-08-27,Electronics,Headphones,North,1,161.09,161.09,3.7
+2025-08-27,Home,Coffee Maker,West,3,84.39,253.17,4.8
+2025-08-27,Clothing,Jacket,East,1,125.38,125.38,2.8
+2025-08-27,Home,Sofa,South,3,570.09,1710.27,4.7
+2025-08-27,Sports,Running Shoes,South,1,92.95,92.95,4.0
+2025-08-27,Sports,Yoga Mat,West,3,29.88,89.64,5.0
+2025-08-27,Beauty,Face Cream,South,2,32.56,65.12,4.4
+2025-08-27,Electronics,Headphones,East,1,159.17,159.17,4.1
+2025-08-27,Home,Coffee Maker,North,1,97.88,97.88,4.4
+2025-08-27,Electronics,Smartwatch,East,4,235.87,943.48,4.4
+2025-08-28,Clothing,Sneakers,East,3,76.69,230.07,5.0
+2025-08-28,Clothing,Jacket,South,1,119.65,119.65,5.0
+2025-08-28,Clothing,Sneakers,South,1,73.24,73.24,4.5
+2025-08-28,Beauty,Lipstick,South,5,14.7,73.5,4.8
+2025-08-28,Home,Vacuum,West,1,162.87,162.87,5.0
+2025-08-28,Clothing,Jacket,North,2,116.62,233.24,4.4
+2025-08-28,Clothing,T-Shirt,West,1,24.65,24.65,4.1
+2025-08-28,Electronics,Headphones,West,5,160.75,803.75,3.2
+2025-08-28,Home,Vacuum,North,1,169.77,169.77,5.0
+2025-08-28,Electronics,Headphones,East,1,135.63,135.63,3.3
+2025-08-29,Home,Coffee Maker,North,1,97.3,97.3,3.6
+2025-08-29,Electronics,Headphones,South,1,145.93,145.93,3.4
+2025-08-29,Clothing,Jeans,East,1,60.03,60.03,4.2
+2025-08-29,Clothing,Sneakers,North,1,73.57,73.57,4.7
+2025-08-29,Clothing,T-Shirt,North,3,25.35,76.05,4.1
+2025-08-29,Sports,Running Shoes,East,4,97.69,390.76,4.4
+2025-08-29,Sports,Bicycle,East,1,449.6,449.6,3.4
+2025-08-29,Clothing,T-Shirt,West,1,25.47,25.47,3.9
+2025-08-29,Electronics,Smartphone,South,1,749.88,749.88,3.6
+2025-08-29,Electronics,Laptop,North,1,1030.41,1030.41,5.0
+2025-08-29,Sports,Dumbbell,North,1,38.49,38.49,4.2
+2025-08-29,Clothing,Sneakers,South,1,87.58,87.58,5.0
+2025-08-29,Home,Blender,East,1,46.27,46.27,3.5
+2025-08-30,Sports,Dumbbell,South,2,39.59,79.18,4.7
+2025-08-30,Clothing,Sneakers,North,4,85.33,341.32,5.0
+2025-08-30,Electronics,Laptop,South,3,1096.99,3290.97,4.0
+2025-08-30,Electronics,Laptop,South,1,1078.51,1078.51,4.5
+2025-08-30,Beauty,Lipstick,West,1,15.71,15.71,4.7
+2025-08-30,Electronics,Laptop,West,3,1062.04,3186.12,4.2
+2025-08-30,Sports,Running Shoes,South,3,95.7,287.1,4.9
+2025-08-30,Electronics,Smartwatch,East,1,237.85,237.85,3.6
+2025-08-30,Clothing,Jeans,North,1,54.51,54.51,3.6
+2025-08-31,Beauty,Face Cream,South,5,33.64,168.2,5.0
+2025-08-31,Sports,Bicycle,West,2,483.31,966.62,5.0
+2025-08-31,Beauty,Lipstick,North,2,16.04,32.08,4.7
+2025-08-31,Electronics,Smartwatch,West,1,236.25,236.25,5.0
+2025-08-31,Clothing,T-Shirt,West,1,26.4,26.4,4.9
+2025-08-31,Sports,Bicycle,South,2,415.33,830.66,3.2
+2025-08-31,Sports,Bicycle,West,4,468.21,1872.84,5.0
+2025-08-31,Beauty,Mascara,West,2,18.96,37.92,3.6
+2025-08-31,Electronics,Laptop,East,1,1051.32,1051.32,4.4
+2025-08-31,Beauty,Mascara,East,3,18.75,56.25,4.7
+2025-09-01,Clothing,Jeans,South,5,59.54,297.7,4.6
+2025-09-01,Sports,Dumbbell,South,1,36.75,36.75,4.8
+2025-09-01,Clothing,Sneakers,North,2,86.19,172.38,4.7
+2025-09-01,Sports,Yoga Mat,West,1,30.38,30.38,3.9
+2025-09-01,Beauty,Face Cream,South,2,33.41,66.82,4.6
+2025-09-01,Sports,Dumbbell,West,2,43.91,87.82,4.9
+2025-09-01,Sports,Yoga Mat,North,5,30.78,153.9,2.9
+2025-09-01,Beauty,Lipstick,East,3,16.31,48.93,3.4
+2025-09-01,Electronics,Smartphone,North,2,646.77,1293.54,4.2
+2025-09-01,Home,Coffee Maker,East,4,98.25,393.0,4.0
+2025-09-01,Electronics,Smartphone,South,2,685.71,1371.42,2.5
+2025-09-01,Beauty,Lipstick,East,2,14.94,29.88,4.2
+2025-09-01,Clothing,Jacket,West,2,123.91,247.82,4.0
+2025-09-01,Home,Blender,East,1,52.8,52.8,3.5
+2025-09-02,Beauty,Lipstick,North,3,15.67,47.01,3.4
+2025-09-02,Home,Blender,North,1,54.98,54.98,4.4
+2025-09-02,Clothing,Jeans,North,1,62.23,62.23,3.9
+2025-09-02,Clothing,Jacket,North,1,121.57,121.57,5.0
+2025-09-02,Sports,Yoga Mat,East,3,28.11,84.33,3.5
+2025-09-02,Clothing,Jeans,West,1,55.55,55.55,4.1
+2025-09-02,Sports,Yoga Mat,West,1,29.22,29.22,4.0
+2025-09-02,Sports,Yoga Mat,South,1,31.1,31.1,3.7
+2025-09-02,Home,Coffee Maker,South,1,96.21,96.21,4.4
+2025-09-03,Beauty,Face Cream,North,1,37.43,37.43,3.8
+2025-09-03,Beauty,Face Cream,West,2,37.05,74.1,5.0
+2025-09-03,Sports,Yoga Mat,North,1,27.57,27.57,3.2
+2025-09-03,Electronics,Smartwatch,East,3,232.91,698.73,4.9
+2025-09-03,Sports,Dumbbell,North,1,41.31,41.31,4.1
+2025-09-03,Beauty,Face Cream,West,1,34.31,34.31,4.0
+2025-09-04,Sports,Running Shoes,North,2,96.08,192.16,4.2
+2025-09-04,Clothing,Jeans,South,2,57.8,115.6,4.1
+2025-09-04,Clothing,Jacket,West,1,130.27,130.27,4.0
+2025-09-04,Clothing,Sneakers,North,1,84.67,84.67,4.5
+2025-09-04,Electronics,Headphones,North,3,137.18,411.54,3.9
+2025-09-04,Clothing,Jeans,South,2,57.95,115.9,5.0
+2025-09-04,Beauty,Face Cream,South,2,31.92,63.84,4.7
+2025-09-04,Home,Vacuum,East,4,171.09,684.36,5.0
+2025-09-04,Clothing,Jacket,South,1,123.42,123.42,3.6
+2025-09-04,Home,Blender,South,1,52.26,52.26,4.4
+2025-09-04,Electronics,Smartphone,North,2,645.15,1290.3,4.2
+2025-09-05,Clothing,Sneakers,North,1,80.16,80.16,3.1
+2025-09-05,Home,Vacuum,South,3,196.28,588.84,3.8
+2025-09-05,Clothing,Jacket,North,1,112.55,112.55,3.4
+2025-09-05,Electronics,Smartphone,South,1,639.56,639.56,5.0
+2025-09-05,Home,Coffee Maker,East,2,97.57,195.14,3.6
+2025-09-05,Sports,Bicycle,South,2,457.28,914.56,5.0
+2025-09-05,Clothing,Sneakers,South,1,84.92,84.92,4.1
+2025-09-06,Sports,Dumbbell,South,1,37.96,37.96,3.6
+2025-09-06,Home,Vacuum,North,1,168.71,168.71,4.5
+2025-09-06,Sports,Yoga Mat,West,1,27.17,27.17,4.7
+2025-09-06,Clothing,Jacket,East,3,128.34,385.02,3.7
+2025-09-06,Electronics,Smartwatch,West,4,263.66,1054.64,2.8
+2025-09-06,Electronics,Smartphone,North,3,678.36,2035.08,5.0
+2025-09-06,Beauty,Perfume,East,2,79.26,158.52,4.0
+2025-09-06,Home,Blender,West,1,50.18,50.18,5.0
+2025-09-06,Clothing,Jeans,West,1,57.81,57.81,5.0
+2025-09-07,Home,Vacuum,East,1,170.27,170.27,4.6
+2025-09-07,Electronics,Laptop,South,2,1092.17,2184.34,5.0
+2025-09-07,Sports,Dumbbell,North,1,39.63,39.63,4.9
+2025-09-07,Sports,Running Shoes,East,3,82.31,246.93,5.0
+2025-09-07,Electronics,Smartwatch,East,3,250.97,752.91,4.4
+2025-09-08,Electronics,Headphones,East,3,142.4,427.2,5.0
+2025-09-08,Beauty,Lipstick,West,3,16.08,48.24,2.6
+2025-09-08,Electronics,Smartphone,East,1,725.36,725.36,4.8
+2025-09-08,Electronics,Smartwatch,East,3,238.9,716.7,2.4
+2025-09-08,Electronics,Headphones,East,2,162.71,325.42,5.0
+2025-09-08,Beauty,Lipstick,East,1,16.22,16.22,4.8
+2025-09-09,Electronics,Laptop,North,5,1031.72,5158.6,4.2
+2025-09-09,Electronics,Headphones,East,2,161.95,323.9,3.2
+2025-09-09,Clothing,Jacket,East,2,131.6,263.2,3.7
+2025-09-09,Sports,Yoga Mat,South,2,27.03,54.06,2.6
+2025-09-09,Electronics,Smartphone,South,1,644.04,644.04,4.7
+2025-09-09,Electronics,Headphones,West,1,145.06,145.06,2.8
+2025-09-09,Beauty,Lipstick,North,1,14.03,14.03,4.5
+2025-09-09,Electronics,Laptop,East,3,1093.72,3281.16,4.0
+2025-09-09,Beauty,Perfume,East,3,72.85,218.55,4.8
+2025-09-09,Electronics,Laptop,West,2,1075.98,2151.96,4.4
+2025-09-09,Home,Sofa,East,3,620.14,1860.42,3.6
+2025-09-09,Sports,Dumbbell,South,2,42.38,84.76,4.7
+2025-09-10,Beauty,Lipstick,West,1,15.4,15.4,2.7
+2025-09-10,Home,Blender,West,1,52.77,52.77,4.1
+2025-09-10,Clothing,T-Shirt,West,1,25.35,25.35,3.9
+2025-09-10,Electronics,Laptop,East,1,1041.43,1041.43,5.0
+2025-09-10,Electronics,Headphones,West,1,146.67,146.67,3.7
+2025-09-10,Home,Sofa,West,1,590.14,590.14,4.8
+2025-09-10,Electronics,Smartphone,South,3,683.16,2049.48,4.8
+2025-09-10,Clothing,Jeans,North,1,65.86,65.86,4.6
+2025-09-10,Electronics,Headphones,South,4,147.93,591.72,4.0
+2025-09-10,Sports,Bicycle,East,1,458.06,458.06,4.8
+2025-09-10,Clothing,Jacket,West,1,115.87,115.87,4.4
+2025-09-11,Sports,Yoga Mat,West,3,31.92,95.76,3.9
+2025-09-11,Sports,Running Shoes,East,1,84.39,84.39,5.0
+2025-09-11,Clothing,T-Shirt,West,1,27.35,27.35,3.1
+2025-09-11,Beauty,Mascara,South,2,20.31,40.62,4.5
+2025-09-11,Sports,Dumbbell,East,1,36.83,36.83,4.9
+2025-09-11,Clothing,Jacket,East,2,111.6,223.2,4.6
+2025-09-11,Sports,Running Shoes,East,3,98.02,294.06,4.4
+2025-09-11,Home,Sofa,North,1,547.71,547.71,3.8
+2025-09-11,Home,Coffee Maker,East,1,85.55,85.55,3.0
+2025-09-12,Clothing,T-Shirt,West,3,24.82,74.46,4.4
+2025-09-12,Electronics,Smartwatch,West,1,241.32,241.32,3.3
+2025-09-12,Electronics,Laptop,North,3,956.31,2868.93,4.2
+2025-09-12,Sports,Dumbbell,North,2,43.61,87.22,5.0
+2025-09-12,Clothing,Jeans,North,1,60.01,60.01,5.0
+2025-09-12,Electronics,Smartwatch,North,3,266.2,798.6,4.6
+2025-09-12,Home,Blender,North,3,51.63,154.89,5.0
+2025-09-13,Sports,Bicycle,East,1,471.34,471.34,4.4
+2025-09-13,Electronics,Headphones,East,1,147.34,147.34,2.9
+2025-09-13,Beauty,Face Cream,West,2,32.81,65.62,3.6
+2025-09-13,Beauty,Mascara,East,1,21.52,21.52,4.5
+2025-09-13,Beauty,Perfume,North,1,73.62,73.62,5.0
+2025-09-13,Sports,Dumbbell,North,4,41.61,166.44,4.5
+2025-09-13,Sports,Bicycle,East,1,456.35,456.35,4.9
+2025-09-13,Home,Sofa,West,1,562.65,562.65,5.0
+2025-09-13,Sports,Yoga Mat,North,4,28.51,114.04,2.5
+2025-09-13,Clothing,Jeans,South,1,57.18,57.18,4.0
+2025-09-13,Beauty,Face Cream,North,1,33.12,33.12,4.2
+2025-09-14,Clothing,Sneakers,South,1,84.66,84.66,4.0
+2025-09-14,Beauty,Lipstick,South,1,14.4,14.4,4.1
+2025-09-14,Clothing,Jeans,East,4,65.64,262.56,3.0
+2025-09-14,Home,Sofa,East,1,633.33,633.33,3.6
+2025-09-14,Home,Blender,West,1,52.57,52.57,3.6
+2025-09-14,Home,Coffee Maker,North,2,96.47,192.94,2.4
+2025-09-14,Home,Blender,South,1,47.72,47.72,5.0
+2025-09-14,Clothing,Jacket,South,1,117.21,117.21,3.9
+2025-09-14,Clothing,Jacket,South,3,113.43,340.29,4.2
+2025-09-15,Beauty,Perfume,South,2,73.5,147.0,4.0
+2025-09-15,Electronics,Laptop,South,3,1053.1,3159.3,4.6
+2025-09-15,Home,Vacuum,East,2,173.02,346.04,4.5
+2025-09-15,Home,Coffee Maker,South,3,84.63,253.89,4.3
+2025-09-15,Home,Vacuum,North,2,167.68,335.36,3.9
+2025-09-15,Sports,Bicycle,South,2,483.52,967.04,5.0
+2025-09-15,Electronics,Smartphone,North,2,747.91,1495.82,4.0
+2025-09-16,Beauty,Face Cream,East,2,31.51,63.02,4.2
+2025-09-16,Electronics,Smartwatch,North,1,257.66,257.66,3.5
+2025-09-16,Sports,Dumbbell,North,3,40.3,120.9,3.8
+2025-09-16,Beauty,Mascara,North,1,18.31,18.31,3.8
+2025-09-16,Sports,Dumbbell,North,1,39.76,39.76,4.0
+2025-09-16,Beauty,Lipstick,North,2,14.37,28.74,4.7
+2025-09-17,Electronics,Laptop,East,3,958.77,2876.31,5.0
+2025-09-17,Sports,Running Shoes,North,3,93.11,279.33,4.8
+2025-09-17,Sports,Dumbbell,East,2,37.05,74.1,4.4
+2025-09-17,Home,Coffee Maker,West,1,82.98,82.98,2.8
+2025-09-17,Sports,Dumbbell,East,1,40.57,40.57,5.0
+2025-09-17,Home,Coffee Maker,West,3,97.47,292.41,3.8
+2025-09-17,Sports,Bicycle,South,4,473.86,1895.44,4.7
+2025-09-17,Home,Coffee Maker,West,1,89.81,89.81,4.4
+2025-09-17,Clothing,T-Shirt,East,1,25.98,25.98,3.6
+2025-09-18,Beauty,Lipstick,West,2,14.9,29.8,3.4
+2025-09-18,Electronics,Smartwatch,East,3,255.18,765.54,4.0
+2025-09-18,Beauty,Face Cream,East,1,32.72,32.72,4.9
+2025-09-18,Electronics,Laptop,West,1,916.34,916.34,5.0
+2025-09-18,Electronics,Smartwatch,West,2,257.14,514.28,3.7
+2025-09-18,Beauty,Perfume,East,4,77.74,310.96,5.0
+2025-09-18,Electronics,Laptop,South,1,957.38,957.38,2.8
+2025-09-18,Home,Sofa,North,2,565.84,1131.68,4.6
+2025-09-18,Sports,Bicycle,East,2,469.32,938.64,4.8
+2025-09-18,Clothing,Jeans,North,4,62.32,249.28,3.3
+2025-09-18,Beauty,Lipstick,East,1,14.36,14.36,3.4
+2025-09-19,Electronics,Laptop,East,3,1007.85,3023.55,3.6
+2025-09-19,Home,Blender,South,1,53.76,53.76,4.8
+2025-09-19,Sports,Running Shoes,North,1,83.87,83.87,4.2
+2025-09-19,Sports,Yoga Mat,West,1,30.35,30.35,4.5
+2025-09-19,Home,Vacuum,West,2,189.48,378.96,4.9
+2025-09-19,Clothing,Jeans,North,1,55.54,55.54,4.0
+2025-09-19,Electronics,Smartwatch,South,1,256.98,256.98,4.6
+2025-09-20,Beauty,Perfume,South,2,80.96,161.92,3.9
+2025-09-20,Sports,Bicycle,West,1,489.23,489.23,3.8
+2025-09-20,Electronics,Smartwatch,East,1,262.6,262.6,4.7
+2025-09-20,Home,Vacuum,East,1,190.7,190.7,3.7
+2025-09-20,Clothing,Jacket,East,4,110.22,440.88,3.5
+2025-09-20,Beauty,Lipstick,North,4,13.75,55.0,4.2
+2025-09-20,Electronics,Laptop,East,3,1085.24,3255.72,4.4
+2025-09-21,Home,Sofa,East,2,607.15,1214.3,5.0
+2025-09-21,Electronics,Headphones,South,1,149.04,149.04,4.8
+2025-09-21,Home,Blender,West,2,45.3,90.6,4.3
+2025-09-21,Electronics,Smartphone,North,1,755.26,755.26,4.4
+2025-09-21,Beauty,Lipstick,East,1,13.58,13.58,3.9
+2025-09-21,Beauty,Face Cream,East,3,36.59,109.77,5.0
+2025-09-22,Clothing,Sneakers,North,2,74.41,148.82,5.0
+2025-09-22,Sports,Dumbbell,North,1,39.47,39.47,3.5
+2025-09-22,Home,Blender,North,1,51.11,51.11,3.8
+2025-09-22,Home,Coffee Maker,South,2,84.57,169.14,3.2
+2025-09-22,Clothing,Jeans,East,1,61.53,61.53,4.6
+2025-09-22,Sports,Dumbbell,North,1,42.39,42.39,4.2
+2025-09-22,Beauty,Perfume,South,1,87.63,87.63,4.5
+2025-09-22,Sports,Running Shoes,North,2,84.5,169.0,3.6
+2025-09-22,Beauty,Face Cream,South,1,35.41,35.41,3.0
+2025-09-22,Sports,Yoga Mat,North,1,31.59,31.59,4.9
+2025-09-22,Home,Vacuum,East,1,183.48,183.48,4.4
+2025-09-22,Clothing,Jacket,East,2,117.52,235.04,4.2
+2025-09-23,Home,Vacuum,South,1,184.1,184.1,4.3
+2025-09-23,Beauty,Mascara,North,1,22.0,22.0,4.5
+2025-09-23,Beauty,Face Cream,South,1,33.97,33.97,3.8
+2025-09-23,Sports,Running Shoes,West,2,86.41,172.82,4.1
+2025-09-23,Home,Coffee Maker,West,1,90.41,90.41,4.8
+2025-09-23,Home,Coffee Maker,West,1,83.69,83.69,4.3
+2025-09-23,Sports,Running Shoes,South,1,90.68,90.68,4.1
+2025-09-23,Home,Blender,East,2,53.77,107.54,3.3
+2025-09-23,Home,Vacuum,East,3,185.53,556.59,3.7
+2025-09-23,Sports,Bicycle,North,1,451.81,451.81,5.0
+2025-09-24,Sports,Running Shoes,North,2,91.53,183.06,4.3
+2025-09-24,Home,Coffee Maker,North,1,87.68,87.68,4.1
+2025-09-24,Electronics,Smartwatch,West,1,256.23,256.23,4.6
+2025-09-24,Beauty,Mascara,South,3,21.47,64.41,3.9
+2025-09-24,Clothing,Sneakers,South,2,84.54,169.08,4.0
+2025-09-24,Clothing,Jeans,East,1,62.58,62.58,2.8
+2025-09-24,Electronics,Smartwatch,East,1,269.36,269.36,2.8
+2025-09-24,Sports,Running Shoes,East,1,96.49,96.49,4.0
+2025-09-24,Electronics,Smartwatch,South,3,265.66,796.98,4.6
+2025-09-25,Beauty,Lipstick,West,5,16.4,82.0,2.2
+2025-09-25,Home,Blender,South,2,54.42,108.84,4.2
+2025-09-25,Sports,Yoga Mat,North,4,29.56,118.24,2.7
+2025-09-25,Home,Sofa,West,1,555.04,555.04,3.4
+2025-09-25,Electronics,Laptop,South,2,1063.5,2127.0,5.0
+2025-09-25,Home,Coffee Maker,South,2,82.17,164.34,3.2
+2025-09-25,Beauty,Lipstick,East,2,15.89,31.78,4.0
+2025-09-25,Home,Coffee Maker,South,3,84.89,254.67,4.0
+2025-09-25,Home,Coffee Maker,West,1,81.56,81.56,3.8
+2025-09-25,Clothing,Jacket,West,2,125.42,250.84,2.7
+2025-09-26,Electronics,Headphones,West,1,164.3,164.3,4.6
+2025-09-26,Clothing,Jacket,East,2,118.23,236.46,3.3
+2025-09-26,Sports,Running Shoes,East,1,98.02,98.02,5.0
+2025-09-26,Electronics,Laptop,North,1,910.49,910.49,4.9
+2025-09-26,Clothing,Jacket,West,1,109.57,109.57,4.8
+2025-09-26,Electronics,Headphones,West,4,135.74,542.96,4.0
+2025-09-26,Home,Vacuum,South,4,166.02,664.08,5.0
+2025-09-26,Clothing,Jacket,West,1,127.49,127.49,3.7
+2025-09-26,Clothing,Jeans,West,2,63.83,127.66,4.6
+2025-09-26,Sports,Bicycle,North,3,433.93,1301.79,3.9
+2025-09-27,Beauty,Mascara,North,3,20.33,60.99,4.3
+2025-09-27,Clothing,Jacket,South,1,118.38,118.38,4.5
+2025-09-27,Clothing,Jeans,East,1,57.06,57.06,3.4
+2025-09-27,Electronics,Laptop,East,3,952.08,2856.24,2.7
+2025-09-27,Sports,Bicycle,South,3,462.1,1386.3,5.0
+2025-09-27,Sports,Bicycle,East,3,420.74,1262.22,3.4
+2025-09-27,Clothing,Sneakers,South,4,74.41,297.64,2.7
+2025-09-27,Clothing,Jacket,West,1,124.92,124.92,4.8
+2025-09-27,Home,Sofa,North,3,573.09,1719.27,3.5
+2025-09-27,Electronics,Smartphone,North,2,714.19,1428.38,3.7
+2025-09-27,Home,Blender,West,1,50.07,50.07,5.0
+2025-09-28,Beauty,Perfume,West,5,76.35,381.75,4.3
+2025-09-28,Clothing,Jeans,East,4,64.07,256.28,3.6
+2025-09-28,Beauty,Perfume,East,3,76.75,230.25,3.8
+2025-09-28,Home,Vacuum,North,2,189.29,378.58,3.5
+2025-09-28,Beauty,Lipstick,East,4,13.82,55.28,3.5
+2025-09-28,Clothing,T-Shirt,North,1,22.77,22.77,3.1
+2025-09-28,Clothing,Sneakers,South,1,84.26,84.26,4.1
+2025-09-28,Sports,Yoga Mat,North,4,29.32,117.28,4.3
+2025-09-28,Home,Vacuum,West,2,179.25,358.5,3.0
+2025-09-28,Beauty,Lipstick,South,4,15.13,60.52,4.7
+2025-09-28,Clothing,Jacket,South,2,129.87,259.74,3.3
+2025-09-28,Beauty,Perfume,East,2,81.04,162.08,4.7
+2025-09-28,Clothing,Sneakers,South,1,72.43,72.43,3.3
+2025-09-28,Electronics,Smartphone,West,1,761.29,761.29,3.6
+2025-09-29,Clothing,Sneakers,South,2,81.77,163.54,4.0
+2025-09-29,Electronics,Smartwatch,East,1,265.82,265.82,3.6
+2025-09-29,Clothing,Jacket,South,1,120.73,120.73,4.1
+2025-09-29,Beauty,Lipstick,West,3,14.4,43.2,4.4
+2025-09-29,Sports,Running Shoes,South,1,97.34,97.34,3.1
+2025-09-29,Clothing,T-Shirt,South,1,25.16,25.16,5.0
+2025-09-29,Sports,Bicycle,South,1,473.17,473.17,3.9
+2025-09-29,Sports,Dumbbell,West,1,37.49,37.49,5.0
+2025-09-30,Sports,Yoga Mat,South,1,29.53,29.53,4.4
+2025-09-30,Home,Blender,North,1,48.65,48.65,4.6
+2025-09-30,Electronics,Headphones,North,2,150.27,300.54,3.7
+2025-09-30,Electronics,Headphones,South,2,141.95,283.9,4.7
+2025-09-30,Sports,Bicycle,South,3,424.5,1273.5,3.3
+2025-09-30,Beauty,Perfume,South,1,79.78,79.78,4.8
+2025-09-30,Sports,Bicycle,South,3,475.55,1426.65,5.0
+2025-09-30,Beauty,Mascara,East,2,19.11,38.22,3.5
+2025-09-30,Beauty,Perfume,North,3,78.92,236.76,3.3
+2025-10-01,Home,Vacuum,South,1,195.57,195.57,5.0
+2025-10-01,Home,Blender,South,1,51.33,51.33,5.0
+2025-10-01,Home,Blender,West,5,48.16,240.8,5.0
+2025-10-01,Beauty,Face Cream,West,4,31.83,127.32,4.0
+2025-10-01,Beauty,Lipstick,West,1,14.74,14.74,3.7
+2025-10-01,Home,Blender,East,2,46.87,93.74,3.5
+2025-10-01,Beauty,Perfume,West,1,87.51,87.51,5.0
+2025-10-01,Home,Vacuum,South,1,186.87,186.87,4.0
+2025-10-01,Sports,Yoga Mat,East,1,29.12,29.12,5.0
+2025-10-01,Sports,Yoga Mat,West,1,32.27,32.27,4.0
+2025-10-01,Home,Coffee Maker,South,4,89.0,356.0,4.6
+2025-10-01,Clothing,T-Shirt,North,1,27.06,27.06,5.0
+2025-10-01,Clothing,T-Shirt,South,1,25.08,25.08,5.0
+2025-10-02,Beauty,Mascara,South,4,21.71,86.84,4.3
+2025-10-02,Beauty,Lipstick,North,2,15.54,31.08,4.0
+2025-10-02,Clothing,Sneakers,East,1,75.16,75.16,3.9
+2025-10-02,Sports,Yoga Mat,West,1,31.1,31.1,4.6
+2025-10-02,Clothing,Sneakers,South,1,72.81,72.81,4.4
+2025-10-02,Electronics,Headphones,South,1,159.97,159.97,5.0
+2025-10-02,Clothing,T-Shirt,North,2,24.58,49.16,5.0
+2025-10-02,Sports,Dumbbell,South,1,38.45,38.45,3.7
+2025-10-02,Electronics,Smartwatch,West,1,253.27,253.27,4.1
+2025-10-02,Home,Vacuum,West,1,169.12,169.12,3.7
+2025-10-03,Beauty,Lipstick,East,2,13.89,27.78,5.0
+2025-10-03,Sports,Running Shoes,South,1,96.71,96.71,3.6
+2025-10-03,Beauty,Perfume,South,3,72.51,217.53,3.1
+2025-10-03,Sports,Bicycle,South,2,405.23,810.46,5.0
+2025-10-03,Clothing,Jacket,North,1,122.86,122.86,5.0
+2025-10-03,Electronics,Laptop,East,2,1093.99,2187.98,4.0
+2025-10-03,Clothing,Sneakers,South,1,73.27,73.27,4.3
+2025-10-03,Electronics,Headphones,North,1,153.22,153.22,3.3
+2025-10-03,Clothing,Jacket,East,2,117.71,235.42,4.5
+2025-10-04,Electronics,Smartphone,North,1,697.35,697.35,3.2
+2025-10-04,Electronics,Smartphone,West,2,678.28,1356.56,5.0
+2025-10-04,Beauty,Face Cream,North,2,38.16,76.32,4.7
+2025-10-04,Sports,Yoga Mat,North,1,29.76,29.76,5.0
+2025-10-04,Home,Coffee Maker,South,1,89.58,89.58,5.0
+2025-10-04,Home,Sofa,East,3,644.37,1933.11,3.5
+2025-10-04,Sports,Bicycle,South,2,423.45,846.9,3.1
+2025-10-05,Sports,Dumbbell,South,1,37.62,37.62,4.4
+2025-10-05,Clothing,Jeans,South,1,63.23,63.23,3.5
+2025-10-05,Electronics,Smartphone,South,3,661.8,1985.4,4.7
+2025-10-05,Sports,Yoga Mat,South,3,29.73,89.19,4.2
+2025-10-05,Sports,Running Shoes,South,1,95.99,95.99,2.9
+2025-10-05,Beauty,Lipstick,West,1,15.28,15.28,4.3
+2025-10-05,Sports,Running Shoes,West,2,91.46,182.92,4.0
+2025-10-05,Beauty,Lipstick,South,1,14.83,14.83,3.0
+2025-10-05,Clothing,Sneakers,North,1,72.43,72.43,4.7
+2025-10-05,Beauty,Perfume,South,3,75.07,225.21,4.4
+2025-10-05,Electronics,Smartwatch,South,2,251.56,503.12,5.0
+2025-10-05,Home,Coffee Maker,East,2,89.0,178.0,4.8
+2025-10-06,Electronics,Laptop,West,3,1056.95,3170.85,4.5
+2025-10-06,Home,Vacuum,West,1,185.63,185.63,4.3
+2025-10-06,Home,Sofa,South,1,578.45,578.45,4.8
+2025-10-06,Beauty,Face Cream,East,2,36.73,73.46,4.3
+2025-10-06,Clothing,Sneakers,East,5,87.46,437.3,3.7
+2025-10-06,Beauty,Face Cream,West,1,33.2,33.2,4.3
+2025-10-06,Beauty,Face Cream,South,1,37.62,37.62,5.0
+2025-10-06,Home,Sofa,South,1,649.83,649.83,2.9
+2025-10-07,Sports,Dumbbell,South,1,39.12,39.12,3.5
+2025-10-07,Clothing,Jeans,North,1,57.22,57.22,4.4
+2025-10-07,Clothing,Jacket,West,2,121.98,243.96,4.7
+2025-10-07,Home,Vacuum,East,1,174.53,174.53,5.0
+2025-10-07,Electronics,Headphones,East,2,139.25,278.5,4.9
+2025-10-07,Home,Sofa,West,1,601.77,601.77,5.0
+2025-10-07,Clothing,Sneakers,East,4,85.02,340.08,2.9
+2025-10-07,Beauty,Perfume,East,2,78.33,156.66,3.0
+2025-10-07,Beauty,Face Cream,West,1,33.7,33.7,4.8
+2025-10-07,Beauty,Perfume,West,3,82.21,246.63,5.0
+2025-10-07,Clothing,Jeans,North,4,58.86,235.44,3.9
+2025-10-08,Beauty,Face Cream,South,1,38.31,38.31,4.9
+2025-10-08,Sports,Running Shoes,South,1,97.91,97.91,5.0
+2025-10-08,Electronics,Smartphone,North,2,657.85,1315.7,4.4
+2025-10-08,Clothing,Jacket,North,1,129.26,129.26,5.0
+2025-10-08,Home,Blender,South,1,46.34,46.34,3.8
+2025-10-08,Electronics,Laptop,West,1,950.48,950.48,4.4
+2025-10-08,Electronics,Headphones,South,2,160.35,320.7,2.4
+2025-10-08,Clothing,Sneakers,West,3,72.77,218.31,3.3
+2025-10-08,Electronics,Headphones,South,2,139.31,278.62,4.9
+2025-10-08,Clothing,Jacket,South,2,113.33,226.66,4.5
+2025-10-08,Sports,Running Shoes,South,2,92.61,185.22,5.0
+2025-10-09,Beauty,Mascara,East,2,20.08,40.16,5.0
+2025-10-09,Beauty,Mascara,West,1,21.49,21.49,5.0
+2025-10-09,Sports,Bicycle,North,1,439.35,439.35,5.0
+2025-10-09,Home,Blender,North,1,46.8,46.8,4.3
+2025-10-09,Beauty,Perfume,South,3,76.56,229.68,3.0
+2025-10-09,Sports,Yoga Mat,East,1,27.16,27.16,2.6
+2025-10-10,Home,Vacuum,South,3,195.88,587.64,5.0
+2025-10-10,Home,Blender,South,1,48.01,48.01,3.2
+2025-10-10,Electronics,Laptop,West,5,972.71,4863.55,1.8
+2025-10-10,Clothing,Jeans,East,3,59.95,179.85,3.3
+2025-10-10,Beauty,Face Cream,North,1,37.56,37.56,2.9
+2025-10-10,Clothing,Jacket,East,5,113.93,569.65,3.9
+2025-10-10,Beauty,Perfume,North,1,76.98,76.98,5.0
+2025-10-10,Home,Blender,West,1,48.14,48.14,5.0
+2025-10-10,Sports,Yoga Mat,West,4,32.68,130.72,4.0
+2025-10-10,Sports,Bicycle,South,1,421.94,421.94,3.2
+2025-10-10,Home,Vacuum,East,1,169.43,169.43,3.3
+2025-10-10,Beauty,Face Cream,East,1,34.41,34.41,5.0
+2025-10-10,Sports,Dumbbell,North,2,43.51,87.02,4.7
+2025-10-11,Beauty,Mascara,West,1,21.44,21.44,4.8
+2025-10-11,Clothing,Jacket,South,1,113.63,113.63,2.8
+2025-10-11,Clothing,Jeans,West,1,63.84,63.84,3.9
+2025-10-11,Sports,Dumbbell,South,3,43.82,131.46,4.2
+2025-10-11,Sports,Bicycle,West,2,407.42,814.84,4.7
+2025-10-11,Clothing,Jeans,East,3,63.64,190.92,2.3
+2025-10-11,Clothing,T-Shirt,North,2,23.04,46.08,3.6
+2025-10-11,Clothing,Jeans,South,1,57.15,57.15,3.5
+2025-10-11,Electronics,Laptop,East,2,1048.32,2096.64,3.5
+2025-10-11,Beauty,Lipstick,South,2,13.88,27.76,3.5
+2025-10-12,Beauty,Mascara,South,3,21.63,64.89,4.2
+2025-10-12,Electronics,Smartphone,East,1,685.43,685.43,4.6
+2025-10-12,Home,Vacuum,South,4,171.83,687.32,2.3
+2025-10-12,Electronics,Smartwatch,East,1,237.71,237.71,3.3
+2025-10-12,Clothing,Jacket,North,3,130.82,392.46,5.0
+2025-10-12,Beauty,Lipstick,West,2,13.68,27.36,3.2
+2025-10-13,Beauty,Face Cream,West,1,34.29,34.29,5.0
+2025-10-13,Home,Coffee Maker,West,2,89.34,178.68,3.1
+2025-10-13,Beauty,Mascara,East,1,21.92,21.92,4.4
+2025-10-13,Sports,Running Shoes,East,1,98.73,98.73,4.0
+2025-10-13,Home,Coffee Maker,North,1,84.79,84.79,5.0
+2025-10-13,Home,Blender,North,1,47.97,47.97,5.0
+2025-10-13,Home,Blender,West,3,51.7,155.1,4.7
+2025-10-14,Sports,Dumbbell,South,1,43.06,43.06,3.1
+2025-10-14,Sports,Bicycle,North,1,486.65,486.65,3.7
+2025-10-14,Home,Sofa,South,1,618.55,618.55,2.9
+2025-10-14,Sports,Yoga Mat,South,1,27.89,27.89,2.9
+2025-10-14,Home,Coffee Maker,West,3,97.12,291.36,3.9
+2025-10-14,Home,Blender,East,4,46.23,184.92,3.9
+2025-10-14,Home,Vacuum,North,2,187.93,375.86,3.8
+2025-10-14,Clothing,Sneakers,East,1,86.75,86.75,3.9
+2025-10-14,Home,Vacuum,North,3,182.89,548.67,4.6
+2025-10-14,Home,Coffee Maker,North,1,94.65,94.65,4.7
+2025-10-15,Home,Vacuum,North,2,188.85,377.7,4.1
+2025-10-15,Sports,Bicycle,East,3,408.24,1224.72,2.8
+2025-10-15,Electronics,Headphones,South,2,164.41,328.82,5.0
+2025-10-15,Home,Sofa,East,1,614.36,614.36,5.0
+2025-10-15,Clothing,Jeans,North,1,54.94,54.94,3.2
+2025-10-15,Beauty,Lipstick,West,3,16.49,49.47,4.1
+2025-10-15,Sports,Dumbbell,South,1,40.05,40.05,3.6
+2025-10-15,Beauty,Lipstick,South,3,13.6,40.8,3.0
+2025-10-15,Home,Vacuum,South,3,188.79,566.37,4.3
+2025-10-15,Home,Vacuum,South,1,183.59,183.59,3.5
+2025-10-16,Electronics,Headphones,East,1,160.25,160.25,3.4
+2025-10-16,Electronics,Laptop,North,2,915.5,1831.0,3.8
+2025-10-16,Home,Sofa,West,1,649.88,649.88,3.3
+2025-10-16,Clothing,Sneakers,West,2,86.57,173.14,4.7
+2025-10-16,Clothing,T-Shirt,South,4,22.6,90.4,3.0
+2025-10-16,Sports,Dumbbell,West,3,43.85,131.55,4.0
+2025-10-17,Electronics,Smartphone,East,4,659.22,2636.88,4.5
+2025-10-17,Clothing,Jeans,South,1,63.83,63.83,3.3
+2025-10-17,Beauty,Perfume,North,1,80.21,80.21,3.7
+2025-10-17,Home,Sofa,North,1,598.73,598.73,3.6
+2025-10-17,Electronics,Smartwatch,North,2,245.45,490.9,2.8
+2025-10-17,Sports,Dumbbell,North,2,39.46,78.92,4.5
+2025-10-17,Home,Blender,West,1,45.78,45.78,4.6
+2025-10-17,Sports,Yoga Mat,East,1,30.92,30.92,4.9
+2025-10-17,Sports,Yoga Mat,East,2,29.79,59.58,5.0
+2025-10-17,Clothing,Jacket,South,3,111.51,334.53,5.0
+2025-10-18,Home,Coffee Maker,East,1,95.38,95.38,2.6
+2025-10-18,Sports,Bicycle,East,4,436.27,1745.08,4.5
+2025-10-18,Beauty,Lipstick,East,2,14.65,29.3,3.4
+2025-10-18,Electronics,Smartwatch,West,1,273.61,273.61,4.0
+2025-10-18,Sports,Dumbbell,West,1,36.87,36.87,3.1
+2025-10-18,Sports,Bicycle,West,1,440.21,440.21,4.6
+2025-10-19,Electronics,Laptop,West,1,981.21,981.21,5.0
+2025-10-19,Clothing,Sneakers,West,3,76.86,230.58,4.6
+2025-10-19,Home,Vacuum,East,1,168.69,168.69,2.8
+2025-10-19,Home,Sofa,North,2,562.43,1124.86,3.4
+2025-10-19,Clothing,T-Shirt,East,1,27.43,27.43,3.3
+2025-10-19,Home,Blender,West,2,49.53,99.06,4.0
+2025-10-19,Sports,Dumbbell,West,2,42.05,84.1,2.9
+2025-10-19,Electronics,Smartwatch,South,1,260.24,260.24,3.9
+2025-10-19,Beauty,Face Cream,South,2,36.62,73.24,4.1
+2025-10-19,Sports,Running Shoes,North,2,90.2,180.4,3.2
+2025-10-19,Clothing,Sneakers,North,1,86.82,86.82,5.0
+2025-10-19,Home,Sofa,South,3,560.34,1681.02,5.0
+2025-10-20,Electronics,Headphones,West,2,137.78,275.56,4.4
+2025-10-20,Electronics,Smartphone,North,4,676.56,2706.24,3.8
+2025-10-20,Electronics,Smartphone,North,1,640.82,640.82,3.9
+2025-10-20,Beauty,Mascara,East,1,21.92,21.92,5.0
+2025-10-20,Beauty,Face Cream,West,1,38.29,38.29,4.0
+2025-10-20,Electronics,Smartwatch,East,1,231.43,231.43,5.0
+2025-10-20,Home,Blender,West,3,46.54,139.62,3.9
+2025-10-21,Electronics,Smartwatch,South,1,273.87,273.87,3.2
+2025-10-21,Home,Vacuum,East,1,195.34,195.34,3.6
+2025-10-21,Clothing,Jacket,West,3,114.65,343.95,3.5
+2025-10-21,Home,Blender,West,1,47.5,47.5,4.0
+2025-10-21,Electronics,Laptop,West,5,1067.66,5338.3,4.9
+2025-10-21,Home,Blender,South,1,45.09,45.09,4.5
+2025-10-21,Home,Coffee Maker,North,1,91.69,91.69,5.0
+2025-10-21,Clothing,Sneakers,West,2,76.35,152.7,3.6
+2025-10-21,Sports,Running Shoes,East,4,84.76,339.04,3.9
+2025-10-21,Beauty,Perfume,North,1,84.05,84.05,4.6
+2025-10-21,Electronics,Smartwatch,South,1,269.53,269.53,4.7
+2025-10-21,Beauty,Mascara,South,1,21.8,21.8,4.2
+2025-10-22,Home,Vacuum,West,1,187.88,187.88,4.5
+2025-10-22,Sports,Running Shoes,North,2,86.48,172.96,3.9
+2025-10-22,Sports,Dumbbell,West,1,38.87,38.87,3.8
+2025-10-22,Home,Sofa,South,3,608.28,1824.84,3.8
+2025-10-22,Home,Blender,North,2,46.39,92.78,4.4
+2025-10-22,Electronics,Laptop,East,3,1040.77,3122.31,5.0
+2025-10-22,Clothing,T-Shirt,South,1,22.86,22.86,5.0
+2025-10-22,Clothing,Jeans,North,2,55.86,111.72,4.5
+2025-10-22,Clothing,Sneakers,South,2,79.61,159.22,4.0
+2025-10-22,Clothing,Jacket,North,3,124.28,372.84,3.9
+2025-10-22,Electronics,Smartwatch,South,3,246.9,740.7,3.7
+2025-10-22,Beauty,Mascara,South,1,18.15,18.15,4.5
+2025-10-22,Beauty,Perfume,North,2,82.05,164.1,2.8
+2025-10-23,Clothing,Jacket,South,1,111.17,111.17,3.2
+2025-10-23,Electronics,Laptop,East,3,1061.9,3185.7,3.8
+2025-10-23,Clothing,Jacket,South,5,112.57,562.85,4.2
+2025-10-23,Home,Blender,West,1,54.87,54.87,4.0
+2025-10-23,Sports,Bicycle,West,1,416.62,416.62,3.3
+2025-10-23,Home,Blender,West,1,53.01,53.01,3.0
+2025-10-23,Home,Vacuum,East,3,196.27,588.81,5.0
+2025-10-23,Beauty,Perfume,South,1,74.77,74.77,4.8
+2025-10-23,Sports,Running Shoes,West,2,96.75,193.5,4.8
+2025-10-23,Sports,Running Shoes,South,3,97.64,292.92,4.6
+2025-10-24,Sports,Dumbbell,South,2,43.49,86.98,4.9
+2025-10-24,Sports,Running Shoes,South,3,95.93,287.79,4.6
+2025-10-24,Electronics,Headphones,South,3,158.27,474.81,5.0
+2025-10-24,Beauty,Face Cream,West,2,35.03,70.06,4.1
+2025-10-24,Electronics,Smartphone,South,1,659.05,659.05,3.8
+2025-10-24,Home,Vacuum,West,3,184.06,552.18,5.0
+2025-10-24,Beauty,Lipstick,West,1,15.33,15.33,2.6
+2025-10-24,Sports,Running Shoes,West,2,94.21,188.42,4.2
+2025-10-25,Clothing,T-Shirt,East,2,26.35,52.7,4.7
+2025-10-25,Home,Vacuum,West,1,168.64,168.64,3.8
+2025-10-25,Home,Vacuum,South,1,163.54,163.54,2.6
+2025-10-25,Home,Blender,East,1,51.55,51.55,3.6
+2025-10-25,Clothing,T-Shirt,South,3,24.5,73.5,2.8
+2025-10-25,Home,Vacuum,East,1,193.92,193.92,4.6
+2025-10-25,Beauty,Lipstick,West,1,14.09,14.09,4.2
+2025-10-25,Clothing,T-Shirt,East,3,27.35,82.05,4.7
+2025-10-25,Home,Vacuum,South,2,189.6,379.2,4.0
+2025-10-25,Clothing,Sneakers,South,2,80.24,160.48,4.0
+2025-10-25,Sports,Bicycle,North,1,455.56,455.56,3.3
+2025-10-25,Beauty,Face Cream,East,4,38.41,153.64,3.7
+2025-10-25,Sports,Bicycle,North,2,483.3,966.6,4.4
+2025-10-25,Clothing,Jacket,East,1,125.18,125.18,3.9
+2025-10-26,Clothing,Sneakers,North,2,72.8,145.6,5.0
+2025-10-26,Electronics,Laptop,West,4,1081.34,4325.36,4.9
+2025-10-26,Electronics,Smartphone,South,3,682.97,2048.91,3.8
+2025-10-26,Beauty,Lipstick,East,4,14.91,59.64,5.0
+2025-10-26,Sports,Bicycle,East,1,438.72,438.72,3.9
+2025-10-26,Sports,Yoga Mat,West,1,29.4,29.4,4.1
+2025-10-26,Beauty,Lipstick,East,2,13.93,27.86,5.0
+2025-10-26,Electronics,Headphones,North,1,152.64,152.64,3.1
+2025-10-26,Sports,Dumbbell,East,1,40.79,40.79,5.0
+2025-10-26,Clothing,Sneakers,East,2,80.4,160.8,5.0
+2025-10-26,Beauty,Mascara,North,2,21.87,43.74,4.9
+2025-10-27,Clothing,Jeans,West,2,59.98,119.96,3.9
+2025-10-27,Sports,Bicycle,South,2,473.28,946.56,4.3
+2025-10-27,Clothing,Jeans,West,1,62.16,62.16,2.7
+2025-10-27,Beauty,Mascara,West,1,20.8,20.8,3.2
+2025-10-27,Electronics,Laptop,East,1,943.93,943.93,4.2
+2025-10-27,Clothing,T-Shirt,South,1,26.9,26.9,3.7
+2025-10-27,Clothing,T-Shirt,North,3,23.17,69.51,4.8
+2025-10-27,Beauty,Face Cream,East,1,36.1,36.1,4.3
+2025-10-27,Home,Coffee Maker,North,5,88.14,440.7,3.8
+2025-10-27,Electronics,Headphones,North,3,158.04,474.12,3.7
+2025-10-27,Clothing,Jeans,East,2,62.13,124.26,5.0
+2025-10-27,Home,Vacuum,West,3,164.4,493.2,4.3
+2025-10-27,Sports,Dumbbell,East,1,38.77,38.77,4.1
+2025-10-27,Electronics,Smartwatch,South,1,266.66,266.66,5.0
+2025-10-28,Electronics,Laptop,West,2,938.43,1876.86,2.8
+2025-10-28,Beauty,Mascara,North,1,19.09,19.09,4.8
+2025-10-28,Home,Sofa,South,1,630.22,630.22,3.6
+2025-10-28,Clothing,Jeans,West,1,62.6,62.6,3.1
+2025-10-28,Sports,Bicycle,South,1,454.17,454.17,2.5
+2025-10-28,Beauty,Mascara,North,2,21.34,42.68,4.8
+2025-10-28,Beauty,Face Cream,West,1,34.89,34.89,4.1
+2025-10-28,Clothing,Jeans,West,2,55.75,111.5,2.8
+2025-10-28,Home,Blender,South,3,49.99,149.97,4.3
+2025-10-29,Clothing,Sneakers,North,3,74.97,224.91,4.0
+2025-10-29,Beauty,Lipstick,East,1,14.71,14.71,3.3
+2025-10-29,Clothing,Jeans,South,1,56.02,56.02,5.0
+2025-10-29,Beauty,Mascara,East,4,21.15,84.6,3.9
+2025-10-29,Beauty,Face Cream,East,1,32.85,32.85,3.3
+2025-10-29,Sports,Bicycle,East,4,416.16,1664.64,4.4
+2025-10-29,Electronics,Smartphone,South,2,757.99,1515.98,3.2
+2025-10-29,Beauty,Lipstick,East,1,14.31,14.31,3.7
+2025-10-29,Home,Sofa,North,5,614.98,3074.9,4.1
+2025-10-29,Sports,Bicycle,North,1,485.51,485.51,5.0
+2025-10-29,Clothing,Jeans,West,1,61.32,61.32,2.9
+2025-10-29,Beauty,Perfume,North,4,80.33,321.32,4.6
+2025-10-29,Sports,Bicycle,West,3,484.93,1454.79,5.0
+2025-10-29,Clothing,T-Shirt,North,3,25.47,76.41,3.4
+2025-10-30,Sports,Yoga Mat,East,3,32.71,98.13,4.1
+2025-10-30,Home,Coffee Maker,South,3,89.85,269.55,3.5
+2025-10-30,Sports,Bicycle,South,1,470.14,470.14,3.8
+2025-10-30,Electronics,Laptop,South,1,903.48,903.48,4.0
+2025-10-30,Sports,Yoga Mat,West,1,31.27,31.27,4.7
+2025-10-30,Beauty,Face Cream,North,1,37.58,37.58,5.0
+2025-10-30,Electronics,Smartwatch,South,1,225.84,225.84,4.2
+2025-10-30,Beauty,Lipstick,South,2,16.41,32.82,3.4
+2025-10-30,Clothing,T-Shirt,West,2,26.2,52.4,4.0
+2025-10-30,Home,Coffee Maker,North,1,89.2,89.2,5.0
+2025-10-30,Home,Blender,West,5,47.25,236.25,5.0
+2025-10-30,Clothing,Jacket,East,3,131.17,393.51,4.3
+2025-10-31,Sports,Bicycle,North,2,435.89,871.78,3.6
+2025-10-31,Home,Blender,East,2,47.39,94.78,2.7
+2025-10-31,Clothing,Jacket,West,1,120.53,120.53,2.6
+2025-10-31,Beauty,Mascara,West,3,21.18,63.54,4.1
+2025-10-31,Clothing,Jeans,West,4,57.56,230.24,3.0
+2025-10-31,Clothing,Jeans,North,1,63.72,63.72,3.7
+2025-10-31,Home,Blender,South,2,52.37,104.74,5.0
+2025-10-31,Home,Sofa,East,1,583.09,583.09,5.0
+2025-10-31,Sports,Dumbbell,West,2,43.91,87.82,4.5
+2025-10-31,Home,Coffee Maker,East,1,93.66,93.66,4.2
+2025-10-31,Sports,Dumbbell,North,2,41.47,82.94,5.0
+2025-10-31,Electronics,Headphones,West,1,152.26,152.26,5.0
+2025-10-31,Beauty,Mascara,South,1,20.96,20.96,4.9
+2025-10-31,Beauty,Face Cream,West,1,35.19,35.19,4.6
+2025-11-01,Clothing,Jeans,West,3,54.41,163.23,3.8
+2025-11-01,Electronics,Laptop,West,4,914.74,3658.96,3.5
+2025-11-01,Beauty,Face Cream,West,2,37.94,75.88,4.2
+2025-11-01,Sports,Bicycle,West,3,448.36,1345.08,3.8
+2025-11-01,Clothing,Jeans,North,1,54.09,54.09,3.4
+2025-11-01,Beauty,Mascara,North,1,19.39,19.39,4.0
+2025-11-01,Clothing,Sneakers,North,1,80.1,80.1,4.3
+2025-11-01,Beauty,Perfume,West,1,87.08,87.08,4.0
+2025-11-02,Electronics,Laptop,North,2,972.76,1945.52,4.6
+2025-11-02,Sports,Bicycle,West,2,458.0,916.0,3.9
+2025-11-02,Clothing,Jeans,South,1,55.53,55.53,4.2
+2025-11-02,Sports,Dumbbell,South,1,40.49,40.49,4.7
+2025-11-02,Home,Sofa,West,1,568.93,568.93,4.6
+2025-11-02,Electronics,Smartwatch,East,3,261.24,783.72,4.2
+2025-11-02,Sports,Yoga Mat,East,2,28.8,57.6,4.9
+2025-11-02,Electronics,Smartwatch,East,1,258.67,258.67,3.9
+2025-11-03,Beauty,Perfume,South,3,80.05,240.15,4.9
+2025-11-03,Home,Sofa,West,3,586.18,1758.54,2.7
+2025-11-03,Home,Vacuum,North,3,171.01,513.03,3.6
+2025-11-03,Electronics,Laptop,West,1,932.57,932.57,5.0
+2025-11-03,Sports,Dumbbell,South,1,37.17,37.17,5.0
+2025-11-03,Sports,Yoga Mat,East,2,30.06,60.12,3.9
+2025-11-03,Home,Coffee Maker,West,3,93.02,279.06,4.5
+2025-11-04,Home,Sofa,West,1,568.5,568.5,4.8
+2025-11-04,Home,Vacuum,West,1,190.67,190.67,5.0
+2025-11-04,Beauty,Perfume,North,4,75.17,300.68,5.0
+2025-11-04,Home,Blender,East,4,51.71,206.84,3.9
+2025-11-04,Electronics,Laptop,East,5,934.29,4671.45,5.0
+2025-11-05,Home,Coffee Maker,East,4,92.43,369.72,4.1
+2025-11-05,Sports,Running Shoes,North,1,97.64,97.64,2.7
+2025-11-05,Clothing,Jeans,West,1,59.85,59.85,4.6
+2025-11-05,Electronics,Laptop,North,2,1035.48,2070.96,4.7
+2025-11-05,Electronics,Smartwatch,East,1,268.44,268.44,4.4
+2025-11-06,Home,Blender,North,1,45.09,45.09,3.9
+2025-11-06,Clothing,T-Shirt,East,1,24.28,24.28,4.3
+2025-11-06,Beauty,Face Cream,West,3,32.09,96.27,5.0
+2025-11-06,Home,Sofa,East,1,643.88,643.88,4.0
+2025-11-06,Clothing,T-Shirt,South,1,23.26,23.26,3.9
+2025-11-06,Clothing,Sneakers,North,1,83.13,83.13,4.0
+2025-11-07,Electronics,Headphones,West,1,150.09,150.09,3.3
+2025-11-07,Clothing,Jeans,East,1,54.52,54.52,5.0
+2025-11-07,Electronics,Laptop,North,1,1033.99,1033.99,3.5
+2025-11-07,Beauty,Perfume,South,1,80.88,80.88,4.0
+2025-11-07,Home,Vacuum,East,1,174.34,174.34,3.7
+2025-11-08,Sports,Bicycle,East,4,489.23,1956.92,5.0
+2025-11-08,Sports,Bicycle,East,1,407.4,407.4,5.0
+2025-11-08,Home,Coffee Maker,South,1,83.3,83.3,4.3
+2025-11-08,Electronics,Smartphone,East,2,737.16,1474.32,4.7
+2025-11-08,Sports,Dumbbell,South,1,36.88,36.88,3.8
+2025-11-08,Sports,Dumbbell,South,2,36.29,72.58,3.2
+2025-11-08,Electronics,Smartwatch,South,1,272.55,272.55,4.5
+2025-11-08,Electronics,Smartwatch,West,5,238.33,1191.65,3.9
+2025-11-08,Sports,Running Shoes,West,4,86.7,346.8,4.4
+2025-11-09,Clothing,T-Shirt,West,4,23.1,92.4,4.4
+2025-11-09,Electronics,Laptop,West,4,1052.34,4209.36,3.8
+2025-11-09,Sports,Yoga Mat,North,4,32.1,128.4,4.2
+2025-11-09,Electronics,Laptop,North,4,986.22,3944.88,3.0
+2025-11-09,Sports,Running Shoes,South,1,90.53,90.53,2.7
+2025-11-09,Sports,Running Shoes,North,3,87.8,263.4,4.1
+2025-11-10,Home,Coffee Maker,East,2,82.95,165.9,4.4
+2025-11-10,Clothing,Sneakers,East,2,76.63,153.26,4.1
+2025-11-10,Beauty,Mascara,West,1,18.66,18.66,2.8
+2025-11-10,Electronics,Smartphone,West,2,689.32,1378.64,4.3
+2025-11-10,Electronics,Headphones,East,1,164.37,164.37,3.4
+2025-11-10,Sports,Dumbbell,North,2,43.13,86.26,3.6
+2025-11-10,Sports,Bicycle,East,2,453.87,907.74,2.1
+2025-11-10,Sports,Running Shoes,West,3,88.22,264.66,4.9
+2025-11-10,Sports,Running Shoes,East,1,90.84,90.84,4.1
+2025-11-10,Electronics,Laptop,South,2,1005.3,2010.6,4.5
+2025-11-10,Clothing,Jacket,East,1,113.77,113.77,3.9
+2025-11-10,Sports,Bicycle,East,2,443.07,886.14,3.4
+2025-11-10,Sports,Bicycle,East,5,494.84,2474.2,4.0
+2025-11-11,Home,Coffee Maker,East,1,93.83,93.83,4.9
+2025-11-11,Sports,Bicycle,North,3,428.47,1285.41,3.1
+2025-11-11,Electronics,Laptop,North,2,1093.37,2186.74,4.3
+2025-11-11,Home,Vacuum,North,1,182.36,182.36,5.0
+2025-11-11,Sports,Yoga Mat,West,1,30.82,30.82,4.2
+2025-11-11,Home,Sofa,South,1,549.59,549.59,2.9
+2025-11-11,Clothing,T-Shirt,West,1,24.93,24.93,5.0
+2025-11-11,Beauty,Face Cream,North,4,38.25,153.0,5.0
+2025-11-11,Sports,Yoga Mat,North,1,29.41,29.41,2.3
+2025-11-11,Electronics,Laptop,West,3,969.7,2909.1,5.0
+2025-11-12,Beauty,Lipstick,West,2,14.16,28.32,5.0
+2025-11-12,Home,Coffee Maker,West,1,89.62,89.62,5.0
+2025-11-12,Sports,Bicycle,North,1,436.37,436.37,3.3
+2025-11-12,Clothing,Jeans,West,2,65.92,131.84,4.5
+2025-11-12,Home,Coffee Maker,North,1,87.86,87.86,3.9
+2025-11-12,Beauty,Face Cream,North,1,36.72,36.72,4.0
+2025-11-12,Beauty,Face Cream,South,5,32.68,163.4,4.5
+2025-11-12,Clothing,T-Shirt,North,4,23.45,93.8,2.6
+2025-11-13,Home,Sofa,North,1,591.82,591.82,3.9
+2025-11-13,Clothing,Jeans,East,1,57.27,57.27,4.8
+2025-11-13,Clothing,Jacket,East,1,122.93,122.93,4.6
+2025-11-13,Sports,Yoga Mat,West,5,31.03,155.15,3.0
+2025-11-13,Clothing,T-Shirt,South,1,25.17,25.17,4.3
+2025-11-13,Beauty,Lipstick,East,3,13.75,41.25,4.1
+2025-11-13,Electronics,Smartwatch,North,3,248.68,746.04,4.2
+2025-11-13,Sports,Running Shoes,West,3,92.81,278.43,4.8
+2025-11-13,Beauty,Face Cream,North,4,36.45,145.8,4.6
+2025-11-13,Electronics,Headphones,South,1,154.67,154.67,4.0
+2025-11-13,Sports,Dumbbell,North,1,40.18,40.18,2.9
+2025-11-13,Clothing,Jeans,East,1,57.43,57.43,5.0
+2025-11-13,Home,Vacuum,East,1,184.42,184.42,3.8
+2025-11-14,Beauty,Lipstick,South,1,15.7,15.7,3.3
+2025-11-14,Electronics,Smartphone,North,1,707.82,707.82,3.3
+2025-11-14,Home,Blender,East,1,45.44,45.44,3.9
+2025-11-14,Home,Coffee Maker,South,1,89.02,89.02,3.5
+2025-11-14,Beauty,Perfume,East,1,81.78,81.78,3.9
+2025-11-14,Electronics,Laptop,East,1,1076.06,1076.06,4.8
+2025-11-14,Sports,Dumbbell,West,3,36.48,109.44,4.2
+2025-11-14,Beauty,Lipstick,West,1,13.6,13.6,3.2
+2025-11-14,Home,Coffee Maker,East,1,88.89,88.89,3.0
+2025-11-14,Electronics,Smartphone,South,3,653.3,1959.9,4.5
+2025-11-14,Clothing,T-Shirt,West,2,22.61,45.22,3.2
+2025-11-14,Electronics,Smartwatch,East,3,270.46,811.38,4.3
+2025-11-14,Sports,Bicycle,South,2,485.84,971.68,4.8
+2025-11-14,Beauty,Lipstick,South,2,13.73,27.46,4.6
+2025-11-15,Electronics,Smartphone,East,2,733.03,1466.06,3.2
+2025-11-15,Electronics,Headphones,North,1,140.72,140.72,4.6
+2025-11-15,Electronics,Smartwatch,West,4,251.91,1007.64,5.0
+2025-11-15,Electronics,Smartwatch,West,1,256.02,256.02,4.5
+2025-11-15,Sports,Running Shoes,North,3,82.05,246.15,4.2
+2025-11-15,Home,Blender,South,1,53.86,53.86,4.3
+2025-11-15,Clothing,Sneakers,North,3,80.94,242.82,5.0
+2025-11-15,Beauty,Face Cream,North,1,32.11,32.11,3.1
+2025-11-15,Electronics,Headphones,West,5,143.7,718.5,4.7
+2025-11-15,Sports,Yoga Mat,South,1,30.21,30.21,4.9
+2025-11-15,Beauty,Perfume,East,5,76.3,381.5,4.0
+2025-11-15,Home,Vacuum,West,1,194.48,194.48,5.0
+2025-11-15,Clothing,Jeans,West,1,57.6,57.6,4.9
+2025-11-15,Sports,Dumbbell,North,3,41.64,124.92,4.9
+2025-11-16,Clothing,Jeans,East,1,57.68,57.68,4.1
+2025-11-16,Beauty,Face Cream,North,2,33.57,67.14,3.8
+2025-11-16,Beauty,Lipstick,North,1,14.42,14.42,3.4
+2025-11-16,Home,Coffee Maker,East,1,83.77,83.77,4.4
+2025-11-16,Sports,Running Shoes,East,4,92.87,371.48,4.2
+2025-11-16,Beauty,Perfume,West,4,84.02,336.08,3.4
+2025-11-16,Electronics,Laptop,South,1,1010.18,1010.18,3.5
+2025-11-16,Beauty,Lipstick,South,2,13.6,27.2,3.7
+2025-11-16,Home,Vacuum,North,2,162.13,324.26,3.4
+2025-11-16,Electronics,Laptop,South,1,1049.38,1049.38,4.0
+2025-11-16,Home,Vacuum,East,3,183.39,550.17,3.5
+2025-11-16,Clothing,Jacket,North,2,124.34,248.68,3.7
+2025-11-17,Electronics,Smartphone,South,3,679.39,2038.17,4.6
+2025-11-17,Sports,Running Shoes,South,2,88.71,177.42,2.7
+2025-11-17,Beauty,Mascara,South,2,21.22,42.44,2.6
+2025-11-17,Home,Vacuum,North,1,184.49,184.49,3.9
+2025-11-17,Sports,Bicycle,West,5,446.82,2234.1,3.5
+2025-11-17,Beauty,Mascara,West,1,20.53,20.53,5.0
+2025-11-17,Electronics,Headphones,East,1,148.82,148.82,4.0
+2025-11-17,Sports,Dumbbell,East,2,40.62,81.24,4.7
+2025-11-17,Home,Coffee Maker,West,1,88.22,88.22,4.7
+2025-11-18,Home,Coffee Maker,North,3,98.47,295.41,4.6
+2025-11-18,Electronics,Smartphone,West,1,672.15,672.15,2.3
+2025-11-18,Beauty,Mascara,East,1,20.18,20.18,4.0
+2025-11-18,Clothing,Jacket,East,1,130.46,130.46,5.0
+2025-11-18,Electronics,Laptop,North,1,1062.62,1062.62,3.3
+2025-11-18,Electronics,Smartphone,South,1,751.02,751.02,4.5
+2025-11-19,Sports,Running Shoes,East,1,83.12,83.12,3.1
+2025-11-19,Home,Vacuum,North,1,190.24,190.24,3.2
+2025-11-19,Home,Sofa,West,2,554.62,1109.24,5.0
+2025-11-19,Electronics,Laptop,East,1,1039.5,1039.5,4.1
+2025-11-19,Clothing,Jacket,West,1,118.05,118.05,4.8
+2025-11-19,Home,Blender,East,1,54.38,54.38,4.5
+2025-11-19,Beauty,Lipstick,North,1,15.77,15.77,5.0
+2025-11-19,Clothing,Jacket,South,1,124.97,124.97,4.3
+2025-11-19,Home,Coffee Maker,East,2,89.63,179.26,5.0
+2025-11-19,Beauty,Perfume,South,4,84.55,338.2,4.3
+2025-11-20,Sports,Yoga Mat,West,1,29.04,29.04,2.3
+2025-11-20,Clothing,Jeans,West,2,62.46,124.92,3.4
+2025-11-20,Electronics,Smartwatch,East,1,229.78,229.78,4.5
+2025-11-20,Electronics,Smartwatch,West,2,255.9,511.8,5.0
+2025-11-20,Electronics,Smartphone,South,1,707.25,707.25,4.1
+2025-11-20,Home,Sofa,South,1,629.36,629.36,4.3
+2025-11-20,Clothing,T-Shirt,North,5,26.99,134.95,4.1
+2025-11-20,Electronics,Headphones,South,2,141.99,283.98,4.2
+2025-11-20,Clothing,Jeans,East,2,58.7,117.4,4.8
+2025-11-21,Home,Sofa,West,4,580.99,2323.96,4.0
+2025-11-21,Beauty,Perfume,East,1,83.05,83.05,5.0
+2025-11-21,Home,Vacuum,East,1,187.06,187.06,5.0
+2025-11-21,Electronics,Smartphone,South,1,693.23,693.23,5.0
+2025-11-21,Beauty,Mascara,East,1,18.7,18.7,5.0
+2025-11-21,Sports,Running Shoes,West,1,93.88,93.88,4.7
+2025-11-21,Clothing,Jeans,West,1,64.94,64.94,3.8
+2025-11-21,Beauty,Perfume,East,1,73.34,73.34,3.2
+2025-11-21,Beauty,Lipstick,East,1,14.05,14.05,4.2
+2025-11-21,Sports,Bicycle,East,2,477.23,954.46,5.0
+2025-11-21,Home,Coffee Maker,North,3,89.7,269.1,5.0
+2025-11-21,Sports,Running Shoes,North,2,91.61,183.22,3.5
+2025-11-21,Clothing,T-Shirt,North,2,25.15,50.3,2.1
+2025-11-22,Beauty,Perfume,East,1,73.84,73.84,4.1
+2025-11-22,Sports,Bicycle,South,1,449.51,449.51,4.2
+2025-11-22,Electronics,Smartwatch,West,3,228.84,686.52,4.4
+2025-11-22,Sports,Yoga Mat,West,1,29.05,29.05,4.3
+2025-11-22,Home,Vacuum,South,1,173.69,173.69,4.0
+2025-11-22,Beauty,Perfume,West,1,73.17,73.17,4.2
+2025-11-22,Beauty,Lipstick,East,1,14.36,14.36,3.8
+2025-11-22,Sports,Dumbbell,South,2,38.79,77.58,5.0
+2025-11-22,Sports,Dumbbell,North,1,41.9,41.9,4.2
+2025-11-22,Beauty,Mascara,West,1,18.29,18.29,3.6
+2025-11-22,Clothing,Sneakers,South,1,74.29,74.29,3.5
+2025-11-22,Clothing,Jacket,North,4,113.85,455.4,3.8
+2025-11-22,Beauty,Lipstick,East,1,16.01,16.01,4.2
+2025-11-23,Sports,Bicycle,North,1,460.76,460.76,3.7
+2025-11-23,Sports,Running Shoes,North,1,96.83,96.83,2.9
+2025-11-23,Clothing,Jacket,East,1,131.74,131.74,4.2
+2025-11-23,Clothing,Jacket,North,1,117.75,117.75,2.7
+2025-11-23,Electronics,Laptop,West,2,1013.2,2026.4,4.9
+2025-11-23,Sports,Dumbbell,East,1,37.14,37.14,5.0
+2025-11-23,Clothing,Jeans,South,4,65.23,260.92,3.9
+2025-11-23,Beauty,Lipstick,East,3,15.93,47.79,3.6
+2025-11-23,Clothing,Sneakers,South,4,87.69,350.76,3.7
+2025-11-23,Clothing,Jeans,North,1,62.01,62.01,5.0
+2025-11-23,Electronics,Smartwatch,South,2,244.06,488.12,4.2
+2025-11-24,Clothing,T-Shirt,West,3,24.84,74.52,4.8
+2025-11-24,Electronics,Smartphone,North,3,751.82,2255.46,4.5
+2025-11-24,Sports,Yoga Mat,North,2,30.19,60.38,5.0
+2025-11-24,Sports,Yoga Mat,South,4,30.43,121.72,4.2
+2025-11-24,Home,Coffee Maker,North,4,94.52,378.08,4.1
+2025-11-24,Home,Blender,West,1,49.72,49.72,3.6
+2025-11-24,Clothing,Sneakers,South,1,72.71,72.71,4.2
+2025-11-24,Clothing,Jacket,North,1,118.98,118.98,4.7
+2025-11-24,Sports,Dumbbell,East,1,42.56,42.56,3.8
+2025-11-24,Clothing,Sneakers,West,2,72.12,144.24,5.0
+2025-11-24,Home,Blender,West,1,53.76,53.76,5.0
+2025-11-25,Beauty,Mascara,West,1,20.19,20.19,4.5
+2025-11-25,Beauty,Face Cream,South,2,32.55,65.1,5.0
+2025-11-25,Beauty,Perfume,North,2,77.76,155.52,5.0
+2025-11-25,Clothing,Jeans,North,3,61.5,184.5,4.5
+2025-11-25,Electronics,Laptop,East,1,904.66,904.66,3.8
+2025-11-25,Clothing,Jeans,South,2,59.23,118.46,5.0
+2025-11-25,Clothing,Jacket,South,1,112.88,112.88,4.1
+2025-11-25,Home,Sofa,South,3,614.49,1843.47,4.1
+2025-11-25,Sports,Running Shoes,West,1,85.77,85.77,2.9
+2025-11-25,Sports,Dumbbell,North,3,42.05,126.15,4.5
+2025-11-25,Sports,Yoga Mat,North,2,31.26,62.52,4.3
+2025-11-26,Beauty,Face Cream,East,1,34.57,34.57,5.0
+2025-11-26,Beauty,Face Cream,West,2,35.66,71.32,4.3
+2025-11-26,Electronics,Laptop,North,1,965.66,965.66,3.4
+2025-11-26,Clothing,Jacket,East,1,111.8,111.8,3.6
+2025-11-26,Beauty,Lipstick,West,4,16.15,64.6,3.3
+2025-11-26,Sports,Dumbbell,East,4,38.53,154.12,4.1
+2025-11-26,Beauty,Mascara,West,2,20.15,40.3,4.4
+2025-11-26,Clothing,Jeans,East,4,62.96,251.84,4.1
+2025-11-26,Clothing,Jacket,East,1,111.57,111.57,3.0
+2025-11-26,Home,Coffee Maker,South,3,84.46,253.38,4.2
+2025-11-26,Clothing,Sneakers,South,1,83.15,83.15,4.6
+2025-11-26,Clothing,T-Shirt,South,2,25.29,50.58,4.8
+2025-11-26,Home,Blender,East,1,45.56,45.56,2.9
+2025-11-26,Clothing,Sneakers,North,2,80.67,161.34,3.0
+2025-11-27,Home,Coffee Maker,East,5,89.57,447.85,5.0
+2025-11-27,Clothing,Jeans,West,1,60.46,60.46,3.5
+2025-11-27,Sports,Dumbbell,West,2,38.26,76.52,3.6
+2025-11-27,Beauty,Mascara,South,1,19.0,19.0,3.8
+2025-11-27,Beauty,Lipstick,West,1,15.55,15.55,4.2
+2025-11-27,Clothing,Jacket,North,2,123.5,247.0,5.0
+2025-11-27,Beauty,Face Cream,North,2,33.94,67.88,4.5
+2025-11-27,Clothing,Jacket,West,5,131.41,657.05,5.0
+2025-11-27,Electronics,Laptop,North,1,1009.06,1009.06,3.3
+2025-11-27,Home,Sofa,West,2,579.12,1158.24,4.5
+2025-11-27,Electronics,Headphones,North,1,160.8,160.8,3.7
+2025-11-27,Electronics,Laptop,West,1,986.53,986.53,4.8
+2025-11-27,Beauty,Perfume,South,2,72.61,145.22,4.2
+2025-11-27,Beauty,Perfume,North,1,80.88,80.88,4.1
+2025-11-28,Home,Vacuum,South,1,183.76,183.76,4.8
+2025-11-28,Sports,Dumbbell,West,1,43.86,43.86,4.4
+2025-11-28,Sports,Running Shoes,South,1,87.1,87.1,4.0
+2025-11-28,Clothing,T-Shirt,North,2,24.31,48.62,5.0
+2025-11-28,Home,Coffee Maker,East,4,95.16,380.64,3.5
+2025-11-28,Electronics,Smartwatch,East,1,245.68,245.68,3.6
+2025-11-28,Sports,Yoga Mat,South,2,29.29,58.58,4.3
+2025-11-28,Electronics,Headphones,North,2,143.15,286.3,4.2
+2025-11-28,Home,Sofa,South,1,616.2,616.2,3.5
+2025-11-29,Sports,Running Shoes,North,2,91.55,183.1,4.7
+2025-11-29,Clothing,Jeans,East,3,63.76,191.28,4.9
+2025-11-29,Sports,Bicycle,North,1,413.76,413.76,5.0
+2025-11-29,Home,Vacuum,South,1,175.97,175.97,5.0
+2025-11-29,Electronics,Smartwatch,North,1,254.55,254.55,3.9
+2025-11-29,Sports,Dumbbell,East,3,42.89,128.67,3.4
+2025-11-29,Home,Coffee Maker,West,2,84.49,168.98,5.0
+2025-11-30,Home,Sofa,West,1,635.6,635.6,3.8
+2025-11-30,Beauty,Lipstick,West,1,16.22,16.22,4.5
+2025-11-30,Clothing,Jacket,North,4,121.39,485.56,4.3
+2025-11-30,Sports,Dumbbell,East,1,43.76,43.76,4.7
+2025-11-30,Home,Coffee Maker,East,2,94.53,189.06,2.5
+2025-11-30,Clothing,T-Shirt,East,1,24.3,24.3,3.4
+2025-12-01,Electronics,Smartphone,West,4,631.33,2525.32,4.3
+2025-12-01,Beauty,Perfume,West,1,78.51,78.51,4.3
+2025-12-01,Beauty,Lipstick,South,1,16.07,16.07,4.1
+2025-12-01,Home,Vacuum,North,1,185.56,185.56,3.7
+2025-12-01,Sports,Bicycle,West,4,439.06,1756.24,4.1
+2025-12-01,Sports,Yoga Mat,North,1,28.21,28.21,5.0
+2025-12-02,Clothing,T-Shirt,West,2,25.13,50.26,2.8
+2025-12-02,Clothing,Sneakers,South,1,80.85,80.85,5.0
+2025-12-02,Clothing,Jacket,South,1,122.8,122.8,3.1
+2025-12-02,Sports,Bicycle,South,1,491.9,491.9,4.1
+2025-12-02,Beauty,Perfume,North,1,77.41,77.41,4.9
+2025-12-02,Home,Sofa,North,1,563.91,563.91,4.0
+2025-12-03,Clothing,Jeans,East,2,58.48,116.96,4.7
+2025-12-03,Electronics,Headphones,East,1,157.95,157.95,2.1
+2025-12-03,Beauty,Lipstick,South,2,14.31,28.62,4.2
+2025-12-03,Home,Coffee Maker,West,3,88.32,264.96,4.1
+2025-12-03,Sports,Bicycle,North,2,464.5,929.0,5.0
+2025-12-03,Beauty,Perfume,East,1,78.28,78.28,3.7
+2025-12-03,Electronics,Laptop,West,1,925.66,925.66,3.8
+2025-12-03,Beauty,Perfume,West,1,86.51,86.51,4.0
+2025-12-03,Beauty,Lipstick,East,4,13.97,55.88,4.4
+2025-12-03,Beauty,Mascara,South,2,18.98,37.96,4.6
+2025-12-03,Home,Sofa,North,2,609.75,1219.5,3.5
+2025-12-03,Beauty,Face Cream,West,3,32.08,96.24,4.4
+2025-12-03,Home,Blender,East,1,50.43,50.43,5.0
+2025-12-03,Home,Vacuum,East,1,172.84,172.84,5.0
+2025-12-04,Home,Sofa,West,1,576.27,576.27,3.6
+2025-12-04,Clothing,T-Shirt,West,1,24.08,24.08,2.7
+2025-12-04,Electronics,Smartwatch,South,1,249.63,249.63,3.6
+2025-12-04,Home,Vacuum,West,1,178.59,178.59,4.3
+2025-12-04,Home,Vacuum,North,1,169.74,169.74,4.9
+2025-12-04,Electronics,Smartphone,West,1,660.01,660.01,5.0
+2025-12-04,Electronics,Smartphone,North,3,654.88,1964.64,3.6
+2025-12-04,Home,Sofa,East,4,588.83,2355.32,5.0
+2025-12-05,Home,Vacuum,East,2,165.53,331.06,5.0
+2025-12-05,Home,Vacuum,South,2,176.74,353.48,3.1
+2025-12-05,Home,Blender,East,1,48.95,48.95,5.0
+2025-12-05,Clothing,T-Shirt,West,2,25.23,50.46,4.4
+2025-12-05,Electronics,Headphones,North,2,144.73,289.46,4.2
+2025-12-05,Electronics,Headphones,North,4,155.82,623.28,3.9
+2025-12-05,Electronics,Headphones,South,1,150.34,150.34,4.3
+2025-12-06,Home,Blender,South,2,46.55,93.1,3.8
+2025-12-06,Electronics,Smartphone,East,3,732.33,2196.99,3.7
+2025-12-06,Electronics,Smartphone,East,3,667.69,2003.07,3.5
+2025-12-06,Beauty,Face Cream,North,2,37.47,74.94,4.4
+2025-12-06,Sports,Running Shoes,West,2,95.49,190.98,5.0
+2025-12-06,Beauty,Mascara,East,2,21.95,43.9,3.6
+2025-12-06,Sports,Yoga Mat,North,2,29.42,58.84,4.3
+2025-12-06,Clothing,Jacket,North,5,122.44,612.2,4.2
+2025-12-06,Home,Vacuum,East,1,193.99,193.99,5.0
+2025-12-06,Home,Vacuum,South,1,174.09,174.09,2.8
+2025-12-06,Electronics,Smartwatch,South,1,258.68,258.68,3.6
+2025-12-06,Home,Sofa,East,2,598.0,1196.0,4.9
+2025-12-06,Electronics,Smartwatch,North,1,268.15,268.15,3.0
+2025-12-06,Clothing,Jacket,North,2,117.49,234.98,4.0
+2025-12-07,Electronics,Smartphone,West,3,678.79,2036.37,3.1
+2025-12-07,Sports,Yoga Mat,South,2,30.72,61.44,5.0
+2025-12-07,Beauty,Mascara,West,1,18.7,18.7,4.2
+2025-12-07,Sports,Yoga Mat,West,2,30.07,60.14,5.0
+2025-12-07,Beauty,Face Cream,North,1,35.12,35.12,4.7
+2025-12-08,Home,Sofa,West,1,614.2,614.2,4.6
+2025-12-08,Clothing,Jacket,East,2,116.37,232.74,4.7
+2025-12-08,Clothing,Jeans,West,1,54.35,54.35,5.0
+2025-12-08,Electronics,Smartwatch,East,2,274.22,548.44,4.0
+2025-12-08,Sports,Running Shoes,East,2,91.39,182.78,3.6
+2025-12-08,Electronics,Smartphone,South,3,674.32,2022.96,4.6
+2025-12-08,Electronics,Smartwatch,South,1,268.66,268.66,3.7
+2025-12-09,Beauty,Mascara,North,1,20.06,20.06,5.0
+2025-12-09,Beauty,Perfume,South,1,80.04,80.04,4.8
+2025-12-09,Home,Sofa,South,4,649.94,2599.76,4.1
+2025-12-09,Home,Coffee Maker,West,1,88.94,88.94,4.4
+2025-12-09,Clothing,Jacket,East,4,123.04,492.16,4.6
+2025-12-09,Electronics,Smartwatch,South,1,250.28,250.28,3.8
+2025-12-09,Beauty,Lipstick,West,2,14.27,28.54,5.0
+2025-12-09,Clothing,Jeans,South,1,65.94,65.94,4.2
+2025-12-09,Beauty,Face Cream,South,2,33.03,66.06,3.8
+2025-12-09,Home,Blender,East,1,52.45,52.45,4.6
+2025-12-09,Sports,Running Shoes,West,3,88.69,266.07,5.0
+2025-12-09,Sports,Dumbbell,South,1,42.43,42.43,5.0
+2025-12-09,Beauty,Lipstick,South,2,15.54,31.08,3.2
+2025-12-10,Electronics,Smartphone,West,1,706.89,706.89,3.8
+2025-12-10,Home,Vacuum,West,1,177.0,177.0,3.3
+2025-12-10,Clothing,Jacket,South,2,119.86,239.72,2.6
+2025-12-10,Sports,Dumbbell,South,4,43.03,172.12,3.8
+2025-12-10,Sports,Bicycle,South,2,413.54,827.08,4.3
+2025-12-10,Clothing,Sneakers,East,1,73.23,73.23,5.0
+2025-12-10,Electronics,Laptop,West,3,1058.31,3174.93,4.4
+2025-12-11,Home,Blender,West,2,45.71,91.42,4.7
+2025-12-11,Sports,Bicycle,North,1,463.28,463.28,4.4
+2025-12-11,Beauty,Mascara,East,1,21.27,21.27,3.1
+2025-12-11,Clothing,Sneakers,West,2,73.27,146.54,4.3
+2025-12-11,Clothing,Sneakers,East,2,80.8,161.6,4.3
+2025-12-12,Beauty,Lipstick,North,1,15.29,15.29,3.9
+2025-12-12,Beauty,Lipstick,South,1,15.72,15.72,3.6
+2025-12-12,Sports,Bicycle,South,1,464.62,464.62,4.0
+2025-12-12,Electronics,Headphones,North,2,135.51,271.02,4.2
+2025-12-12,Electronics,Headphones,North,1,156.26,156.26,4.3
+2025-12-12,Electronics,Smartphone,North,1,667.6,667.6,5.0
+2025-12-12,Home,Vacuum,East,2,163.63,327.26,3.1
+2025-12-12,Beauty,Face Cream,East,2,37.47,74.94,3.6
+2025-12-12,Clothing,Jacket,West,4,124.04,496.16,4.4
+2025-12-12,Home,Sofa,North,2,610.92,1221.84,4.5
+2025-12-13,Clothing,Jacket,West,3,116.19,348.57,4.1
+2025-12-13,Clothing,Jacket,South,2,116.34,232.68,5.0
+2025-12-13,Sports,Bicycle,North,1,430.7,430.7,5.0
+2025-12-13,Sports,Yoga Mat,South,4,31.09,124.36,3.8
+2025-12-13,Sports,Bicycle,East,1,456.39,456.39,4.1
+2025-12-13,Home,Sofa,East,1,601.83,601.83,3.6
+2025-12-13,Home,Sofa,East,2,559.54,1119.08,4.7
+2025-12-13,Electronics,Smartphone,South,1,759.47,759.47,4.1
+2025-12-13,Home,Vacuum,South,1,167.92,167.92,4.1
+2025-12-13,Clothing,Sneakers,West,1,77.9,77.9,5.0
+2025-12-13,Sports,Running Shoes,South,1,81.64,81.64,3.5
+2025-12-13,Beauty,Perfume,North,2,84.28,168.56,4.5
+2025-12-13,Sports,Dumbbell,East,1,43.67,43.67,5.0
+2025-12-13,Sports,Yoga Mat,West,1,30.15,30.15,4.1
+2025-12-14,Home,Coffee Maker,South,2,93.57,187.14,5.0
+2025-12-14,Home,Coffee Maker,South,2,95.89,191.78,2.9
+2025-12-14,Home,Blender,North,1,45.61,45.61,4.4
+2025-12-14,Clothing,Sneakers,North,2,74.65,149.3,4.5
+2025-12-14,Home,Blender,South,1,53.61,53.61,4.0
+2025-12-14,Beauty,Perfume,South,1,85.61,85.61,4.7
+2025-12-14,Electronics,Laptop,East,1,1075.46,1075.46,3.9
+2025-12-14,Sports,Dumbbell,West,2,42.77,85.54,4.1
+2025-12-14,Clothing,Jacket,West,2,127.51,255.02,4.5
+2025-12-14,Electronics,Smartphone,East,3,755.14,2265.42,2.6
+2025-12-15,Clothing,Sneakers,East,3,86.85,260.55,3.4
+2025-12-15,Electronics,Headphones,West,2,150.36,300.72,3.3
+2025-12-15,Beauty,Mascara,East,1,20.94,20.94,5.0
+2025-12-15,Electronics,Laptop,South,1,938.03,938.03,4.4
+2025-12-15,Sports,Bicycle,North,1,464.53,464.53,3.5
+2025-12-15,Clothing,Jacket,West,3,115.27,345.81,4.4
+2025-12-15,Home,Coffee Maker,South,1,92.54,92.54,2.9
+2025-12-15,Home,Blender,North,2,47.07,94.14,3.5
+2025-12-15,Clothing,T-Shirt,West,1,22.96,22.96,3.4
+2025-12-15,Electronics,Smartwatch,West,2,246.73,493.46,3.8
+2025-12-15,Beauty,Lipstick,South,1,16.18,16.18,4.3
+2025-12-15,Home,Coffee Maker,East,4,91.4,365.6,3.6
+2025-12-15,Sports,Yoga Mat,East,2,30.33,60.66,3.5
+2025-12-16,Home,Coffee Maker,North,1,85.26,85.26,5.0
+2025-12-16,Beauty,Lipstick,West,4,13.7,54.8,3.6
+2025-12-16,Clothing,T-Shirt,West,3,25.34,76.02,3.7
+2025-12-16,Beauty,Lipstick,North,4,13.63,54.52,4.8
+2025-12-16,Home,Sofa,East,3,576.07,1728.21,4.2
+2025-12-16,Sports,Running Shoes,South,1,92.36,92.36,4.3
+2025-12-16,Electronics,Smartwatch,North,1,256.64,256.64,4.3
+2025-12-16,Home,Sofa,East,1,544.18,544.18,4.0
+2025-12-16,Clothing,Sneakers,South,1,82.09,82.09,4.4
+2025-12-16,Beauty,Lipstick,South,1,13.97,13.97,4.8
+2025-12-16,Home,Blender,West,1,52.51,52.51,4.7
+2025-12-16,Home,Blender,West,3,50.64,151.92,5.0
+2025-12-16,Sports,Bicycle,South,1,460.46,460.46,5.0
+2025-12-17,Sports,Yoga Mat,East,1,32.44,32.44,4.7
+2025-12-17,Beauty,Perfume,West,2,85.59,171.18,3.5
+2025-12-17,Home,Blender,West,2,54.97,109.94,4.8
+2025-12-17,Home,Sofa,North,2,639.79,1279.58,3.3
+2025-12-17,Clothing,T-Shirt,West,4,22.7,90.8,5.0
+2025-12-17,Electronics,Smartwatch,South,2,233.62,467.24,5.0
+2025-12-17,Home,Vacuum,North,1,196.67,196.67,3.7
+2025-12-17,Sports,Bicycle,North,2,477.85,955.7,3.5
+2025-12-17,Clothing,Jacket,South,1,124.33,124.33,5.0
+2025-12-18,Beauty,Face Cream,East,5,34.36,171.8,4.7
+2025-12-18,Home,Sofa,East,1,575.49,575.49,3.5
+2025-12-18,Clothing,Sneakers,South,3,86.17,258.51,3.8
+2025-12-18,Sports,Bicycle,West,2,413.84,827.68,3.8
+2025-12-18,Sports,Dumbbell,North,3,41.92,125.76,3.7
+2025-12-18,Beauty,Face Cream,East,1,36.76,36.76,4.5
+2025-12-18,Clothing,Jeans,East,2,64.34,128.68,4.0
+2025-12-18,Electronics,Smartphone,East,1,747.77,747.77,4.1
+2025-12-18,Sports,Running Shoes,South,3,91.23,273.69,3.5
+2025-12-18,Sports,Running Shoes,North,3,94.7,284.1,4.2
+2025-12-19,Sports,Running Shoes,South,3,88.28,264.84,2.7
+2025-12-19,Clothing,Jacket,South,2,114.11,228.22,4.5
+2025-12-19,Beauty,Face Cream,North,1,38.26,38.26,3.0
+2025-12-19,Clothing,Sneakers,East,1,75.17,75.17,5.0
+2025-12-19,Clothing,Sneakers,East,3,84.02,252.06,5.0
+2025-12-19,Home,Vacuum,East,2,190.93,381.86,3.7
+2025-12-19,Electronics,Smartphone,West,1,768.5,768.5,5.0
+2025-12-20,Clothing,Jeans,East,1,54.96,54.96,4.4
+2025-12-20,Beauty,Face Cream,East,1,32.35,32.35,3.0
+2025-12-20,Beauty,Perfume,East,1,76.16,76.16,3.2
+2025-12-20,Home,Sofa,East,5,599.52,2997.6,4.9
+2025-12-20,Clothing,Jeans,South,2,64.6,129.2,3.0
+2025-12-21,Beauty,Face Cream,West,1,37.21,37.21,3.9
+2025-12-21,Beauty,Face Cream,South,3,32.13,96.39,2.4
+2025-12-21,Home,Blender,South,1,52.96,52.96,4.7
+2025-12-21,Beauty,Mascara,East,2,19.65,39.3,2.9
+2025-12-21,Electronics,Smartphone,West,2,650.55,1301.1,3.5
+2025-12-21,Clothing,Sneakers,South,2,84.87,169.74,4.4
+2025-12-21,Electronics,Smartwatch,East,2,238.49,476.98,3.3
+2025-12-21,Beauty,Face Cream,South,1,36.75,36.75,4.5
+2025-12-21,Home,Vacuum,North,2,162.5,325.0,5.0
+2025-12-22,Clothing,Sneakers,North,1,82.55,82.55,4.7
+2025-12-22,Electronics,Headphones,North,2,149.8,299.6,4.3
+2025-12-22,Beauty,Mascara,East,1,19.07,19.07,3.1
+2025-12-22,Clothing,T-Shirt,West,2,25.65,51.3,2.6
+2025-12-22,Electronics,Headphones,East,2,164.0,328.0,4.1
+2025-12-23,Beauty,Perfume,North,1,75.48,75.48,3.3
+2025-12-23,Clothing,T-Shirt,North,1,23.09,23.09,4.9
+2025-12-23,Clothing,Sneakers,West,3,83.54,250.62,4.2
+2025-12-23,Sports,Dumbbell,East,1,40.98,40.98,3.0
+2025-12-23,Electronics,Headphones,West,3,157.61,472.83,4.4
+2025-12-24,Electronics,Smartphone,North,1,719.41,719.41,4.5
+2025-12-24,Beauty,Lipstick,South,1,15.76,15.76,4.8
+2025-12-24,Electronics,Laptop,South,1,997.94,997.94,4.8
+2025-12-24,Clothing,Sneakers,West,1,80.45,80.45,5.0
+2025-12-24,Beauty,Perfume,East,1,80.49,80.49,2.5
+2025-12-24,Sports,Bicycle,South,1,463.01,463.01,3.5
+2025-12-24,Clothing,T-Shirt,North,1,27.45,27.45,5.0
+2025-12-24,Clothing,T-Shirt,East,5,26.81,134.05,4.8
+2025-12-24,Home,Sofa,South,1,654.87,654.87,3.7
+2025-12-25,Clothing,Sneakers,North,1,79.7,79.7,4.8
+2025-12-25,Electronics,Smartwatch,North,2,225.33,450.66,5.0
+2025-12-25,Clothing,Jacket,West,4,120.66,482.64,3.7
+2025-12-25,Clothing,Sneakers,East,2,75.68,151.36,4.1
+2025-12-25,Beauty,Mascara,West,1,20.85,20.85,4.1
+2025-12-26,Sports,Bicycle,South,3,433.13,1299.39,4.4
+2025-12-26,Home,Coffee Maker,East,1,81.39,81.39,4.5
+2025-12-26,Sports,Yoga Mat,East,3,30.7,92.1,4.7
+2025-12-26,Clothing,Jeans,North,1,65.96,65.96,5.0
+2025-12-26,Electronics,Smartwatch,South,1,271.48,271.48,4.0
+2025-12-26,Beauty,Perfume,West,2,76.25,152.5,5.0
+2025-12-26,Home,Blender,South,3,53.2,159.6,3.8
+2025-12-26,Clothing,Jeans,West,2,54.92,109.84,4.2
+2025-12-26,Beauty,Mascara,West,1,18.36,18.36,5.0
+2025-12-26,Sports,Bicycle,North,2,454.07,908.14,4.8
+2025-12-27,Beauty,Perfume,South,1,72.77,72.77,4.3
+2025-12-27,Beauty,Perfume,East,4,83.56,334.24,4.2
+2025-12-27,Beauty,Lipstick,East,2,14.21,28.42,5.0
+2025-12-27,Beauty,Lipstick,West,3,13.92,41.76,4.1
+2025-12-27,Beauty,Lipstick,West,5,15.19,75.95,4.6
+2025-12-27,Sports,Yoga Mat,South,1,30.72,30.72,3.7
+2025-12-28,Clothing,Jacket,South,1,117.17,117.17,3.3
+2025-12-28,Sports,Bicycle,East,1,436.97,436.97,4.3
+2025-12-28,Electronics,Smartwatch,North,4,267.98,1071.92,4.2
+2025-12-28,Home,Sofa,West,2,612.25,1224.5,4.3
+2025-12-28,Clothing,Sneakers,East,1,86.36,86.36,4.4
+2025-12-28,Electronics,Smartwatch,East,3,247.96,743.88,4.3
+2025-12-28,Clothing,Jacket,South,2,110.53,221.06,4.0
+2025-12-28,Sports,Dumbbell,South,2,41.22,82.44,5.0
+2025-12-28,Sports,Dumbbell,North,1,42.87,42.87,3.1
+2025-12-29,Electronics,Smartwatch,West,1,234.13,234.13,4.6
+2025-12-29,Home,Coffee Maker,West,2,83.23,166.46,4.7
+2025-12-29,Clothing,T-Shirt,West,1,26.19,26.19,4.2
+2025-12-29,Home,Blender,North,3,48.62,145.86,4.4
+2025-12-29,Sports,Yoga Mat,North,3,30.65,91.95,3.6
+2025-12-29,Beauty,Mascara,South,2,18.13,36.26,3.6
+2025-12-29,Clothing,T-Shirt,North,1,23.5,23.5,4.4
+2025-12-29,Beauty,Perfume,North,1,74.7,74.7,4.3
+2025-12-29,Sports,Bicycle,North,1,462.56,462.56,3.9
+2025-12-30,Clothing,Sneakers,South,1,85.16,85.16,4.2
+2025-12-30,Home,Blender,West,1,47.63,47.63,5.0
+2025-12-30,Clothing,T-Shirt,North,5,25.36,126.8,3.4
+2025-12-30,Beauty,Mascara,South,1,21.66,21.66,4.6
+2025-12-30,Electronics,Smartphone,East,2,750.65,1501.3,4.2
+2025-12-30,Electronics,Laptop,East,2,1002.89,2005.78,3.7
+2025-12-30,Beauty,Lipstick,South,1,16.11,16.11,4.5
+2025-12-30,Home,Coffee Maker,East,3,90.13,270.39,3.7
+2025-12-30,Clothing,Jacket,West,2,130.8,261.6,4.5
+2025-12-30,Electronics,Laptop,West,1,1054.8,1054.8,4.6
+2025-12-30,Beauty,Perfume,South,4,87.98,351.92,4.0
+2025-12-30,Electronics,Laptop,West,3,1074.95,3224.85,4.0
+2025-12-30,Sports,Running Shoes,East,2,98.5,197.0,3.5
+2025-12-30,Sports,Dumbbell,North,1,36.81,36.81,4.7
+2025-12-31,Beauty,Mascara,West,1,19.37,19.37,4.5
+2025-12-31,Home,Sofa,South,1,551.41,551.41,4.0
+2025-12-31,Sports,Running Shoes,North,1,97.76,97.76,5.0
+2025-12-31,Electronics,Laptop,East,1,1022.89,1022.89,3.2
+2025-12-31,Electronics,Smartphone,North,2,690.58,1381.16,4.5
+2025-12-31,Beauty,Mascara,West,3,20.52,61.56,3.4
+2025-12-31,Home,Coffee Maker,North,5,81.83,409.15,4.7
+2025-12-31,Beauty,Lipstick,West,2,14.31,28.62,3.3
+2025-12-31,Sports,Dumbbell,East,2,41.8,83.6,3.3
+2025-12-31,Electronics,Headphones,West,2,157.9,315.8,4.5
+2025-12-31,Beauty,Mascara,East,4,19.97,79.88,4.5
+2025-12-31,Home,Coffee Maker,North,1,82.85,82.85,3.1
+2025-12-31,Electronics,Headphones,West,1,160.02,160.02,4.7
+2025-12-31,Clothing,T-Shirt,North,2,25.15,50.3,5.0

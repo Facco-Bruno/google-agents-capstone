@@ -1,0 +1,7 @@
+google-antigravity
+pandas
+matplotlib
+seaborn
+pydantic
+fastmcp
+streamlit
