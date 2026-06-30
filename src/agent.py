@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from google.antigravity import Agent, LocalAgentConfig, types
-from google.antigravity.hooks import hooks
+from google.antigravity.hooks import hooks, policy
 import tools
 
 # Load environment variables (.env file)
@@ -61,8 +61,11 @@ async def run_analysis_agent():
     # 3. AGENT STAGE (Google Antigravity SDK): Interpretation and Executive Report Generation
     print("\n3. Initializing Google Antigravity SDK Agent for Insights generation...")
     
-    # Single-turn agent config to avoid daily quota limitations
+    # Configure the agent
     config = LocalAgentConfig(
+        tools=[],
+        policies=[policy.deny_all()],
+        hooks=[pre_tool_delay, post_tool_delay],
         system_instructions=(
             "You are Aegis Analytics, a senior business intelligence agent. "
             "Your task is to write a highly detailed, professional, and visually stunning "

@@ -10,6 +10,7 @@ sys.path.append(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'src'))
 
 import tools
 from google.antigravity import Agent, LocalAgentConfig
+from google.antigravity.hooks import policy
 
 # Page Config
 st.set_page_config(
@@ -276,6 +277,7 @@ async def run_agent_pipeline(csv_path, key):
     # 3. Agent execution (Single-turn prompt to avoid quota limitations)
     config = LocalAgentConfig(
         api_key=key,
+        policies=[policy.deny_all()],
         system_instructions=(
             "You are Aegis Analytics, a senior business intelligence agent. "
             "Your task is to write a highly detailed, professional, and visually stunning "
