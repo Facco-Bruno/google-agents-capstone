@@ -29,6 +29,10 @@ Thumbs.db
 *.swp
 *.swo
 
+# Project Temporary/Mapped Data (Ignore user uploads)
+data/raw_*
+data/mapped_*
+
 # Project Outputs (Optional to ignore, but good to keep structure)
 # outputs/charts/*.png
 # outputs/*.md
