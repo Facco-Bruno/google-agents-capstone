@@ -63,7 +63,7 @@ async def run_analysis_agent():
     
     # Configure the agent
     config = LocalAgentConfig(
-        tools=[],
+        capabilities=types.CapabilitiesConfig(enabled_tools=[]),
         policies=[policy.deny_all()],
         hooks=[pre_tool_delay, post_tool_delay],
         system_instructions=(
