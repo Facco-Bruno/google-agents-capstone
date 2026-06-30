@@ -3,6 +3,8 @@ import pandas as pd
 import os
 import asyncio
 import sys
+import re
+import base64
 from dotenv import load_dotenv
 
 # Ensure src is in python path
@@ -91,6 +93,28 @@ st.markdown("""
     }
 </style>
 """, unsafe_allow_html=True)
+
+# Helper function to convert local image paths to base64 HTML img tags
+def render_markdown_with_images(markdown_text):
+    pattern = r'!\[(.*?)\]\((.*?)\)'
+    
+    def replace_with_base64(match):
+        alt_text = match.group(1)
+        img_path = match.group(2)
+        
+        # Resolve path
+        if os.path.exists(img_path):
+            try:
+                with open(img_path, "rb") as f:
+                    data = f.read()
+                    encoded = base64.b64encode(data).decode()
+                    # Return HTML img tag with base64 data for inline rendering
+                    return f'<img src="data:image/png;base64,{encoded}" alt="{alt_text}" style="max-width:100%; border-radius: 8px; margin: 15px 0; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 12px rgba(0,0,0,0.15);">'
+            except Exception:
+                pass
+        return match.group(0) # Fallback to original markdown
+        
+    return re.sub(pattern, replace_with_base64, markdown_text)
 
 # App Title
 st.markdown("<div class='main-title'>Aegis Analytics</div>", unsafe_allow_html=True)
@@ -248,10 +272,10 @@ if os.path.exists(csv_path):
             c1, c2 = st.columns(2)
             with c1:
                 st.image(chart_paths["sales_trend"], caption="Sales Trend", use_container_width=True)
-                st.image(chart_paths["region_distribution"], caption="Region Distribution", use_column_width=True)
+                st.image(chart_paths["region_distribution"], caption="Region Distribution", use_container_width=True)
             with c2:
                 st.image(chart_paths["category_sales"], caption="Sales by Category", use_container_width=True)
-                st.image(chart_paths["satisfaction_vs_sales"], caption="Satisfaction vs Sales", use_column_width=True)
+                st.image(chart_paths["satisfaction_vs_sales"], caption="Satisfaction vs Sales", use_container_width=True)
         else:
             st.info("Click the Run Data Analysis button in the sidebar to generate charts and visualizations for the dataset.")
 
@@ -345,7 +369,10 @@ if run_button:
                 try:
                     report_content, usage = loop.run_until_complete(pipeline.__anext__())
                     status_text.write("Agent analyzing data and generating insights in real-time...")
-                    report_placeholder.markdown(report_content)
+                    
+                    # Render with base64 inline images
+                    rendered_html = render_markdown_with_images(report_content)
+                    report_placeholder.markdown(rendered_html, unsafe_allow_html=True)
                     
                     if usage is not None:
                         # Success and finished
@@ -380,6 +407,9 @@ else:
         if os.path.exists(report_path):
             st.markdown("### Previously Saved Executive Report")
             with open(report_path, 'r', encoding='utf-8') as f:
-                st.markdown(f.read())
+                raw_report = f.read()
+                # Render with base64 inline images
+                rendered_html = render_markdown_with_images(raw_report)
+                st.markdown(rendered_html, unsafe_allow_html=True)
         else:
             st.info("Click the Run Data Analysis button in the sidebar to start the intelligence agent and generate the executive report.")
